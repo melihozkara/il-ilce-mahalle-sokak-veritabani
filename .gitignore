@@ -1,0 +1,7 @@
+node_modules
+.gitattributes
+token.json
+cookies.json
+localStorage.json
+.idea
+.DS_Store
