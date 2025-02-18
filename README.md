@@ -1,6 +1,8 @@
 
 # Türkiye Adres İl İlçe Mahalle Sokak Veritabanı
 
+SQL Data Tarihi: 18.02.2025
+
 Bir projede il ilçe mahalle datasına ihtiyacım oldu ve internette bulduğum kaynaklar genellikle eski datalardı. Bi kaç ay önce paylaşılmış  datalarda bile eksik mahalleler vs. olabiliyordu. Bunun haricinde istediğim formatta veya veritabanına ait olmayabiliyordu. Gördüğüm kadarıyla genellikle insanlar datayı çekip paylaşmış ama pek kimse datayı çektiği kodla birlikte paylaşmamış. Yani istediğimiz veritabanına istediğimiz gibi çekemiyoruz.
 
 Bu yüzden datayı ve kodu paylaşıyorum. Aslında basit bir kod zor bir yanı yok, sayfayı inceleyerek kolay bir şekilde bu kodu yazabilirsiniz.
