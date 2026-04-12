@@ -5,3 +5,7 @@ cookies.json
 localStorage.json
 .idea
 .DS_Store
+.env
+discovery-results/
+logs/
+STOP

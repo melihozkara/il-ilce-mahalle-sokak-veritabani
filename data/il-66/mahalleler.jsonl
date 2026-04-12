@@ -1,0 +1,842 @@
+{"koyAdi":"ABDURRAHMANLI","koyKayitNo":33786,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ABDURRAHMANLI KÖYÜ","adi":null,"kimlikNo":89041,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AĞAÇLI","koyKayitNo":33787,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AĞAÇLI KÖYÜ","adi":null,"kimlikNo":89042,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AHİSHAVİ MAHALLESİ","adi":"AHİSHAVİ","kimlikNo":80699,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AKBAŞ","koyKayitNo":33788,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKBAŞ KÖYÜ","adi":null,"kimlikNo":89043,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AKÇAKIŞLA","koyKayitNo":33789,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKÇAKIŞLA KÖYÜ","adi":null,"kimlikNo":89044,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AKÇAKOYUNLU","koyKayitNo":33790,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKÇAKOYUNLU KÖYÜ","adi":null,"kimlikNo":89045,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ALİCİK","koyKayitNo":33791,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALİCİK KÖYÜ","adi":null,"kimlikNo":89046,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ALTILI","koyKayitNo":33792,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALTILI KÖYÜ","adi":null,"kimlikNo":89047,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ARDIÇALANI","koyKayitNo":33793,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARDIÇALANI KÖYÜ","adi":null,"kimlikNo":89048,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ARPALIK","koyKayitNo":33794,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARPALIK KÖYÜ","adi":null,"kimlikNo":89049,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ARSLANLI","koyKayitNo":33795,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARSLANLI KÖYÜ","adi":null,"kimlikNo":89050,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ARSLANLI","koyKayitNo":33795,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ARSLANLI KÖYÜ, KARABUĞRA MEVKİİ","adi":"KARABUĞRA","kimlikNo":139595,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AŞAĞIÇULHALI","koyKayitNo":33796,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIÇULHALI KÖYÜ","adi":null,"kimlikNo":89051,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BAHÇECİK","koyKayitNo":33797,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHÇECİK KÖYÜ","adi":null,"kimlikNo":89052,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BAŞÇATAK","koyKayitNo":33798,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞÇATAK KÖYÜ","adi":null,"kimlikNo":89053,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BELEKÇAHAN","koyKayitNo":33799,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BELEKÇAHAN BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":80709,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BOĞAZKÖY","koyKayitNo":33800,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOĞAZKÖY KÖYÜ","adi":null,"kimlikNo":89054,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BOYALIK","koyKayitNo":33801,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOYALIK KÖYÜ","adi":null,"kimlikNo":89055,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BOZHÜYÜK","koyKayitNo":33802,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOZHÜYÜK KÖYÜ","adi":null,"kimlikNo":89056,"il_id":66,"ilce_id":1117}
+{"koyAdi":"BULGURLU","koyKayitNo":33803,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BULGURLU KÖYÜ","adi":null,"kimlikNo":89057,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÇAĞLAYAN","koyKayitNo":33804,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAĞLAYAN KÖYÜ","adi":null,"kimlikNo":89058,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇAMLIK MAHALLESİ","adi":"ÇAMLIK","kimlikNo":80700,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÇAMPINAR","koyKayitNo":33806,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAMPINAR KÖYÜ","adi":null,"kimlikNo":89060,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÇARDAK","koyKayitNo":33807,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇARDAK KÖYÜ","adi":null,"kimlikNo":89061,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÇAYPINAR","koyKayitNo":33808,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYPINAR KÖYÜ","adi":null,"kimlikNo":89062,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÇERÇİALANI","koyKayitNo":33809,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇERÇİALANI KÖYÜ","adi":null,"kimlikNo":89063,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DAVULBAZ","koyKayitNo":33810,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAVULBAZ KÖYÜ","adi":null,"kimlikNo":89064,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DAVUTLU","koyKayitNo":33811,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAVUTLU KÖYÜ","adi":null,"kimlikNo":89065,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DAYILI","koyKayitNo":33812,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAYILI KÖYÜ","adi":null,"kimlikNo":89066,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DEMİRŞEYH","koyKayitNo":33861,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEMİRŞEYH KÖYÜ","adi":null,"kimlikNo":89114,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DEREYURT","koyKayitNo":33813,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREYURT KÖYÜ","adi":null,"kimlikNo":89067,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DOKUZKÖY","koyKayitNo":33814,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DOKUZKÖY KÖYÜ","adi":null,"kimlikNo":89068,"il_id":66,"ilce_id":1117}
+{"koyAdi":"DOLAK","koyKayitNo":33815,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DOLAK KÖYÜ","adi":null,"kimlikNo":89069,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"EMEK MAHALLESİ","adi":"EMEK","kimlikNo":80701,"il_id":66,"ilce_id":1117}
+{"koyAdi":"EVCİ","koyKayitNo":33816,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EVCİ KÖYÜ","adi":null,"kimlikNo":89070,"il_id":66,"ilce_id":1117}
+{"koyAdi":"EYNELLİ","koyKayitNo":33817,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EYNELLİ KÖYÜ","adi":null,"kimlikNo":89071,"il_id":66,"ilce_id":1117}
+{"koyAdi":"GÖKDERE","koyKayitNo":33818,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKDERE KÖYÜ","adi":null,"kimlikNo":89072,"il_id":66,"ilce_id":1117}
+{"koyAdi":"GÜLLÜK","koyKayitNo":33819,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜK KÖYÜ","adi":null,"kimlikNo":89073,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLTEPE MAHALLESİ","adi":"GÜLTEPE","kimlikNo":80708,"il_id":66,"ilce_id":1117}
+{"koyAdi":"GÜMÜŞDİBEK","koyKayitNo":33820,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜMÜŞDİBEK KÖYÜ","adi":null,"kimlikNo":89074,"il_id":66,"ilce_id":1117}
+{"koyAdi":"GÜNDÜZLER","koyKayitNo":33821,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNDÜZLER KÖYÜ","adi":null,"kimlikNo":89075,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜNEYLİ MAHALLESİ","adi":"GÜNEYLİ","kimlikNo":80702,"il_id":66,"ilce_id":1117}
+{"koyAdi":"HACIFAKILI","koyKayitNo":33822,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIFAKILI KÖYÜ","adi":null,"kimlikNo":89076,"il_id":66,"ilce_id":1117}
+{"koyAdi":"HALHACI","koyKayitNo":33823,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HALHACI KÖYÜ","adi":null,"kimlikNo":89077,"il_id":66,"ilce_id":1117}
+{"koyAdi":"HAYRAN","koyKayitNo":33824,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HAYRAN KÖYÜ","adi":null,"kimlikNo":89078,"il_id":66,"ilce_id":1117}
+{"koyAdi":"HÜYÜKLÜALANI","koyKayitNo":33825,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HÜYÜKLÜALANI KÖYÜ","adi":null,"kimlikNo":89079,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İBRAHİM AĞA MAHALLESİ","adi":"İBRAHİM AĞA","kimlikNo":80703,"il_id":66,"ilce_id":1117}
+{"koyAdi":"İBRAHİMAĞAÇİFTLİĞİ","koyKayitNo":33826,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İBRAHİMAĞAÇİFTLİĞİ KÖYÜ","adi":null,"kimlikNo":89080,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İSTANBULLUOĞLU MAHALLESİ","adi":"İSTANBULLUOĞLU","kimlikNo":80704,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KARAALİKAÇAĞI","koyKayitNo":33827,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAALİKAÇAĞI KÖYÜ","adi":null,"kimlikNo":89081,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KARACAÖREN","koyKayitNo":33828,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARACAÖREN KÖYÜ","adi":null,"kimlikNo":89082,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KARADİKMEN","koyKayitNo":33830,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARADİKMEN KÖYÜ","adi":null,"kimlikNo":89084,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KARAPİR","koyKayitNo":33832,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAPİR KÖYÜ","adi":null,"kimlikNo":89086,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KARTAL","koyKayitNo":33833,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARTAL KÖYÜ","adi":null,"kimlikNo":89087,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KAYABAŞI","koyKayitNo":33834,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYABAŞI KÖYÜ","adi":null,"kimlikNo":89088,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KAYAKIŞLA","koyKayitNo":33835,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYAKIŞLA KÖYÜ","adi":null,"kimlikNo":89089,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KILIÇLI","koyKayitNo":33836,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KILIÇLI KÖYÜ","adi":null,"kimlikNo":89090,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KIRLAR","koyKayitNo":33837,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIRLAR KÖYÜ","adi":null,"kimlikNo":89091,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KIZILCAOVA","koyKayitNo":33838,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILCAOVA KÖYÜ","adi":null,"kimlikNo":89092,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KIZILDAĞ","koyKayitNo":33839,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILDAĞ KÖYÜ","adi":null,"kimlikNo":89093,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KİRSİNKAVAĞI","koyKayitNo":33840,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KİRSİNKAVAĞI KÖYÜ","adi":null,"kimlikNo":89094,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KÖRÜK","koyKayitNo":33842,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖRÜK KÖYÜ","adi":null,"kimlikNo":89096,"il_id":66,"ilce_id":1117}
+{"koyAdi":"KUŞLUKAÇAĞI","koyKayitNo":33843,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUŞLUKAÇAĞI KÖYÜ","adi":null,"kimlikNo":89097,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MELİKLİ","koyKayitNo":33844,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MELİKLİ KÖYÜ","adi":null,"kimlikNo":89098,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MUŞALİKALESİ","koyKayitNo":33805,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MUŞALİKALESİ KÖYÜ","adi":null,"kimlikNo":89059,"il_id":66,"ilce_id":1117}
+{"koyAdi":"OKÇULU","koyKayitNo":33845,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OKÇULU KÖYÜ","adi":null,"kimlikNo":89099,"il_id":66,"ilce_id":1117}
+{"koyAdi":"OLUKÖZÜ","koyKayitNo":33847,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OLUKÖZÜ BELDESİ, KONACI MAHALLESİ","adi":"KONACI","kimlikNo":140675,"il_id":66,"ilce_id":1117}
+{"koyAdi":"OLUKÖZÜ","koyKayitNo":33847,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OLUKÖZÜ BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":80710,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ORTAKÖY","koyKayitNo":33848,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ORTAKÖY KÖYÜ","adi":null,"kimlikNo":89101,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÖZER","koyKayitNo":33850,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖZER KÖYÜ","adi":null,"kimlikNo":89103,"il_id":66,"ilce_id":1117}
+{"koyAdi":"PAŞABEY","koyKayitNo":33851,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PAŞABEY KÖYÜ","adi":null,"kimlikNo":89104,"il_id":66,"ilce_id":1117}
+{"koyAdi":"PAZARCIK","koyKayitNo":33852,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PAZARCIK KÖYÜ","adi":null,"kimlikNo":89105,"il_id":66,"ilce_id":1117}
+{"koyAdi":"SAĞIROĞLU","koyKayitNo":33853,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAĞIROĞLU KÖYÜ","adi":null,"kimlikNo":89106,"il_id":66,"ilce_id":1117}
+{"koyAdi":"SARIGÜNEY","koyKayitNo":33854,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIGÜNEY KÖYÜ","adi":null,"kimlikNo":89107,"il_id":66,"ilce_id":1117}
+{"koyAdi":"SAZLIDERE","koyKayitNo":33856,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAZLIDERE KÖYÜ","adi":null,"kimlikNo":89109,"il_id":66,"ilce_id":1117}
+{"koyAdi":"SEKİKAŞI","koyKayitNo":33855,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEKİKAŞI KÖYÜ","adi":null,"kimlikNo":89108,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SEYRANTEPE MAHALLESİ","adi":"SEYRANTEPE","kimlikNo":100134,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ŞAHNADERESİ","koyKayitNo":33857,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞAHNADERESİ KÖYÜ","adi":null,"kimlikNo":89110,"il_id":66,"ilce_id":1117}
+{"koyAdi":"TARHANA","koyKayitNo":33858,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TARHANA KÖYÜ","adi":null,"kimlikNo":89111,"il_id":66,"ilce_id":1117}
+{"koyAdi":"TAŞPINAR","koyKayitNo":33859,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAŞPINAR KÖYÜ","adi":null,"kimlikNo":89112,"il_id":66,"ilce_id":1117}
+{"koyAdi":"TEKKEGÜNEY","koyKayitNo":33860,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEKKEGÜNEY KÖYÜ","adi":null,"kimlikNo":89113,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, KALE MAHALLESİ","adi":"KALE","kimlikNo":80712,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, KARAÇOKRAK MAHALLESİ","adi":"KARAÇOKRAK","kimlikNo":80713,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, KARAHİSARTATLISI MAHALLESİ","adi":"KARAHİSARTATLISI","kimlikNo":183846,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, OLUCAK MAHALLESİ","adi":"OLUCAK","kimlikNo":140677,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, ÖRENKALE MAHALLESİ","adi":"ÖRENKALE","kimlikNo":89102,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UMUTLU","koyKayitNo":33862,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UMUTLU BELDESİ, UMUT MAHALLESİ","adi":"UMUT","kimlikNo":80711,"il_id":66,"ilce_id":1117}
+{"koyAdi":"UZAKÇAY","koyKayitNo":33863,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"UZAKÇAY KÖYÜ","adi":null,"kimlikNo":89115,"il_id":66,"ilce_id":1117}
+{"koyAdi":"ÜÇKARAAĞAÇ","koyKayitNo":33864,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÜÇKARAAĞAÇ KÖYÜ","adi":null,"kimlikNo":89116,"il_id":66,"ilce_id":1117}
+{"koyAdi":"VEZİRALANI","koyKayitNo":33865,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"VEZİRALANI KÖYÜ","adi":null,"kimlikNo":89117,"il_id":66,"ilce_id":1117}
+{"koyAdi":"YAZILITAŞ","koyKayitNo":33866,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZILITAŞ KÖYÜ","adi":null,"kimlikNo":89118,"il_id":66,"ilce_id":1117}
+{"koyAdi":"YEDİŞEHRİ","koyKayitNo":33867,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YEDİŞEHRİ KÖYÜ","adi":null,"kimlikNo":89119,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80705,"il_id":66,"ilce_id":1117}
+{"koyAdi":"YENİYAPAN","koyKayitNo":33868,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YENİYAPAN KÖYÜ","adi":null,"kimlikNo":89120,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YEŞİLDERE MAHALLESİ","adi":"YEŞİLDERE","kimlikNo":80706,"il_id":66,"ilce_id":1117}
+{"koyAdi":"MERKEZ","koyKayitNo":33785,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YEŞİLTEPE MAHALLESİ","adi":"YEŞİLTEPE","kimlikNo":80707,"il_id":66,"ilce_id":1117}
+{"koyAdi":"YUKARIÇULHALI","koyKayitNo":33869,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIÇULHALI KÖYÜ","adi":null,"kimlikNo":89121,"il_id":66,"ilce_id":1117}
+{"koyAdi":"YÜNALANI","koyKayitNo":33870,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YÜNALANI KÖYÜ","adi":null,"kimlikNo":89122,"il_id":66,"ilce_id":1117}
+{"koyAdi":"AĞILLI","koyKayitNo":33872,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AĞILLI KÖYÜ","adi":null,"kimlikNo":89123,"il_id":66,"ilce_id":1877}
+{"koyAdi":"AŞAĞIKUYUCAK","koyKayitNo":33873,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIKUYUCAK KÖYÜ","adi":null,"kimlikNo":89124,"il_id":66,"ilce_id":1877}
+{"koyAdi":"BAKIRBOĞAZI","koyKayitNo":33874,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAKIRBOĞAZI KÖYÜ","adi":null,"kimlikNo":89125,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MERKEZ","koyKayitNo":33871,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAŞTÜRK MAHALLESİ","adi":"BAŞTÜRK","kimlikNo":140925,"il_id":66,"ilce_id":1877}
+{"koyAdi":"BAYDİĞİN","koyKayitNo":33875,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAYDİĞİN BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":80717,"il_id":66,"ilce_id":1877}
+{"koyAdi":"BENLİOĞLU","koyKayitNo":33876,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BENLİOĞLU KÖYÜ","adi":null,"kimlikNo":89126,"il_id":66,"ilce_id":1877}
+{"koyAdi":"BOĞAZKAYA","koyKayitNo":33877,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOĞAZKAYA KÖYÜ","adi":null,"kimlikNo":89127,"il_id":66,"ilce_id":1877}
+{"koyAdi":"BÜYÜKTORAMAN","koyKayitNo":33878,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKTORAMAN KÖYÜ","adi":null,"kimlikNo":89128,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MERKEZ","koyKayitNo":33871,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DANLIDAĞ MAHALLESİ","adi":"DANLIDAĞ","kimlikNo":80714,"il_id":66,"ilce_id":1877}
+{"koyAdi":"DEREÇİFTLİK","koyKayitNo":33879,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREÇİFTLİK KÖYÜ","adi":null,"kimlikNo":89129,"il_id":66,"ilce_id":1877}
+{"koyAdi":"GÜROĞLU","koyKayitNo":33880,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜROĞLU KÖYÜ","adi":null,"kimlikNo":89130,"il_id":66,"ilce_id":1877}
+{"koyAdi":"HACIİLYAS","koyKayitNo":33881,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIİLYAS KÖYÜ","adi":null,"kimlikNo":89131,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KAZANKAYA","koyKayitNo":33882,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KAZANKAYA KÖYÜ, AYDINLIK MEVKİİ","adi":"AYDINLIK","kimlikNo":80718,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KAZANKAYA","koyKayitNo":33882,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KAZANKAYA KÖYÜ, BENTBAŞI MEVKİİ","adi":"BENTBAŞI","kimlikNo":80719,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KIRIMOLUK","koyKayitNo":33883,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIRIMOLUK KÖYÜ","adi":null,"kimlikNo":89132,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KIYIKIŞLA","koyKayitNo":33884,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIYIKIŞLA KÖYÜ","adi":null,"kimlikNo":89133,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KIZILCAKIŞLA","koyKayitNo":33885,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILCAKIŞLA KÖYÜ","adi":null,"kimlikNo":89134,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KOCABEKİR","koyKayitNo":33886,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOCABEKİR KÖYÜ","adi":null,"kimlikNo":89135,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KÖSRELİK","koyKayitNo":33887,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KÖSRELİK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80720,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KUŞSARAY","koyKayitNo":33888,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUŞSARAY KÖYÜ","adi":null,"kimlikNo":89136,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KUYUKÖY","koyKayitNo":33889,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUYUKÖY KÖYÜ","adi":null,"kimlikNo":89137,"il_id":66,"ilce_id":1877}
+{"koyAdi":"KÜÇÜKTORAMAN","koyKayitNo":33890,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKTORAMAN KÖYÜ","adi":null,"kimlikNo":89138,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MERCİMEKÖREN","koyKayitNo":33891,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MERCİMEKÖREN KÖYÜ","adi":null,"kimlikNo":89139,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MOLLAİSMAİL","koyKayitNo":33892,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MOLLAİSMAİL KÖYÜ","adi":null,"kimlikNo":89140,"il_id":66,"ilce_id":1877}
+{"koyAdi":"SAKIZLIK","koyKayitNo":33893,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAKIZLIK KÖYÜ","adi":null,"kimlikNo":89141,"il_id":66,"ilce_id":1877}
+{"koyAdi":"ÜZÜMLÜK","koyKayitNo":33894,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÜZÜMLÜK KÖYÜ","adi":null,"kimlikNo":89142,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MERKEZ","koyKayitNo":33871,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80715,"il_id":66,"ilce_id":1877}
+{"koyAdi":"MERKEZ","koyKayitNo":33871,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİCE MAHALLESİ","adi":"YENİCE","kimlikNo":80716,"il_id":66,"ilce_id":1877}
+{"koyAdi":"ABDİLLİ","koyKayitNo":33897,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ABDİLLİ KÖYÜ","adi":null,"kimlikNo":89143,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AŞAĞI KARAKOÇ MAHALLESİ","adi":"AŞAĞI KARAKOÇ","kimlikNo":99787,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AŞAĞI MAHALLESİ","adi":"AŞAĞI","kimlikNo":80723,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80724,"il_id":66,"ilce_id":1198}
+{"koyAdi":"BAHARİYE","koyKayitNo":33899,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHARİYE KÖYÜ","adi":null,"kimlikNo":89145,"il_id":66,"ilce_id":1198}
+{"koyAdi":"BAHARİYE","koyKayitNo":33899,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAHARİYE KÖYÜ, GÖL MEVKİİ","adi":"GÖL","kimlikNo":98859,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELER MAHALLESİ","adi":"BAHÇELER","kimlikNo":80725,"il_id":66,"ilce_id":1198}
+{"koyAdi":"BAŞHOROZ","koyKayitNo":33900,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞHOROZ KÖYÜ","adi":null,"kimlikNo":89146,"il_id":66,"ilce_id":1198}
+{"koyAdi":"BELÖREN","koyKayitNo":33901,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BELÖREN KÖYÜ","adi":null,"kimlikNo":89147,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ÇAKMAK","koyKayitNo":33902,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇAKMAK KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":80732,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ÇALAPVERDİ","koyKayitNo":33903,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇALAPVERDİ KÖYÜ, İNÖNÜ MEVKİİ","adi":"İNÖNÜ","kimlikNo":80733,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ÇALAPVERDİ","koyKayitNo":33903,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇALAPVERDİ KÖYÜ, KAYMAKAM KEMAL BEY MEVKİİ","adi":"KAYMAKAM KEMAL BEY","kimlikNo":80734,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇARŞI MAHALLESİ","adi":"ÇARŞI","kimlikNo":80726,"il_id":66,"ilce_id":1198}
+{"koyAdi":"DEREÇEPNİ","koyKayitNo":33904,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREÇEPNİ KÖYÜ","adi":null,"kimlikNo":89148,"il_id":66,"ilce_id":1198}
+{"koyAdi":"DEVECİPINAR","koyKayitNo":33905,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DEVECİPINAR KÖYÜ, HÜRRİYET MEVKİİ","adi":"HÜRRİYET","kimlikNo":80735,"il_id":66,"ilce_id":1198}
+{"koyAdi":"DEVECİPINAR","koyKayitNo":33905,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DEVECİPINAR KÖYÜ, KAZIM KARABEKİR MEVKİİ","adi":"KAZIM KARABEKİR","kimlikNo":80736,"il_id":66,"ilce_id":1198}
+{"koyAdi":"DEVECİPINAR","koyKayitNo":33905,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DEVECİPINAR KÖYÜ, NAMIK KEMAL MEVKİİ","adi":"NAMIK KEMAL","kimlikNo":80737,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ESENTEPE","koyKayitNo":33906,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ESENTEPE KÖYÜ","adi":null,"kimlikNo":89149,"il_id":66,"ilce_id":1198}
+{"koyAdi":"GÖVDECİLİ","koyKayitNo":33926,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖVDECİLİ KÖYÜ","adi":null,"kimlikNo":89163,"il_id":66,"ilce_id":1198}
+{"koyAdi":"GÜVEÇLİ","koyKayitNo":33907,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜVEÇLİ KÖYÜ","adi":null,"kimlikNo":89150,"il_id":66,"ilce_id":1198}
+{"koyAdi":"KARAKUYU","koyKayitNo":33908,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAKUYU KÖYÜ","adi":null,"kimlikNo":89151,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KAYMAKAM KEMAL BEY MAHALLESİ","adi":"KAYMAKAM KEMAL BEY","kimlikNo":80728,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KEMALİYE MAHALLESİ","adi":"KEMALİYE","kimlikNo":80729,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEVLANA MAHALLESİ","adi":"MEVLANA","kimlikNo":98856,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MÜFTÜKIŞLA","koyKayitNo":33909,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MÜFTÜKIŞLA KÖYÜ","adi":null,"kimlikNo":89152,"il_id":66,"ilce_id":1198}
+{"koyAdi":"OĞULCUK","koyKayitNo":33910,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OĞULCUK KÖYÜ","adi":null,"kimlikNo":89153,"il_id":66,"ilce_id":1198}
+{"koyAdi":"OVAKENT","koyKayitNo":33911,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OVAKENT BELDESİ, AŞAĞIHASİNLİ MAHALLESİ","adi":"AŞAĞIHASİNLİ","kimlikNo":140665,"il_id":66,"ilce_id":1198}
+{"koyAdi":"OVAKENT","koyKayitNo":33911,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OVAKENT BELDESİ, CAMİİ KEBİR MAHALLESİ","adi":"CAMİİ KEBİR","kimlikNo":80738,"il_id":66,"ilce_id":1198}
+{"koyAdi":"OVAKENT","koyKayitNo":33911,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OVAKENT BELDESİ, MEVLANA MAHALLESİ","adi":"MEVLANA","kimlikNo":80740,"il_id":66,"ilce_id":1198}
+{"koyAdi":"OVAKENT","koyKayitNo":33911,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OVAKENT BELDESİ, NAMIK KEMAL MAHALLESİ","adi":"NAMIK KEMAL","kimlikNo":80739,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ÖZLER","koyKayitNo":33912,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖZLER KÖYÜ, FETİH MEVKİİ","adi":"FETİH","kimlikNo":80741,"il_id":66,"ilce_id":1198}
+{"koyAdi":"ÖZLER","koyKayitNo":33912,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖZLER KÖYÜ, İRŞAD MEVKİİ","adi":"İRŞAD","kimlikNo":80742,"il_id":66,"ilce_id":1198}
+{"koyAdi":"POYRAZLI","koyKayitNo":33913,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"POYRAZLI KÖYÜ","adi":null,"kimlikNo":89154,"il_id":66,"ilce_id":1198}
+{"koyAdi":"SIRÇALI","koyKayitNo":33914,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"SIRÇALI BELDESİ, FATİH MAHALLESİ","adi":"FATİH","kimlikNo":80743,"il_id":66,"ilce_id":1198}
+{"koyAdi":"SIRÇALI","koyKayitNo":33914,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"SIRÇALI BELDESİ, MEVLANA MAHALLESİ","adi":"MEVLANA","kimlikNo":80744,"il_id":66,"ilce_id":1198}
+{"koyAdi":"UZUNLU","koyKayitNo":33915,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UZUNLU BELDESİ, BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80745,"il_id":66,"ilce_id":1198}
+{"koyAdi":"UZUNLU","koyKayitNo":33915,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UZUNLU BELDESİ, ESENTEPE MAHALLESİ","adi":"ESENTEPE","kimlikNo":80746,"il_id":66,"ilce_id":1198}
+{"koyAdi":"UZUNLU","koyKayitNo":33915,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UZUNLU BELDESİ, KEMALİYE MAHALLESİ","adi":"KEMALİYE","kimlikNo":80747,"il_id":66,"ilce_id":1198}
+{"koyAdi":"UZUNLU","koyKayitNo":33915,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UZUNLU BELDESİ, KOÇ MAHALLESİ","adi":"KOÇ","kimlikNo":80748,"il_id":66,"ilce_id":1198}
+{"koyAdi":"UZUNLU","koyKayitNo":33915,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"UZUNLU BELDESİ, YENİDOĞAN MAHALLESİ","adi":"YENİDOĞAN","kimlikNo":80749,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAMAÇLI","koyKayitNo":33916,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAMAÇLI BELDESİ, YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80750,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAMAÇLI","koyKayitNo":33916,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAMAÇLI BELDESİ, YEŞİL MAHALLESİ","adi":"YEŞİL","kimlikNo":80751,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAMAÇLI","koyKayitNo":33916,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAMAÇLI BELDESİ, ZAFER MAHALLESİ","adi":"ZAFER","kimlikNo":80752,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAPALAK","koyKayitNo":33917,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAPALAK KÖYÜ","adi":null,"kimlikNo":89155,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAZIÇEPNİ","koyKayitNo":33918,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZIÇEPNİ KÖYÜ","adi":null,"kimlikNo":89156,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YAZIKIŞLA","koyKayitNo":33919,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZIKIŞLA KÖYÜ","adi":null,"kimlikNo":89157,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİDOĞAN MAHALLESİ","adi":"YENİDOĞAN","kimlikNo":80730,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİKIŞLA","koyKayitNo":33920,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YENİKIŞLA KÖYÜ","adi":null,"kimlikNo":89158,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, AŞAĞISARIKAYA MAHALLESİ","adi":"AŞAĞISARIKAYA","kimlikNo":140667,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, EĞLENCE MAHALLESİ","adi":"EĞLENCE","kimlikNo":183852,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80753,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, ÖMERLİ MAHALLESİ","adi":"ÖMERLİ","kimlikNo":140669,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, SELANİK MAHALLESİ","adi":"SELANİK","kimlikNo":80754,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YENİPAZAR","koyKayitNo":33923,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİPAZAR BELDESİ, YARAŞ MAHALLESİ","adi":"YARAŞ","kimlikNo":140671,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YEŞİLHİSAR","koyKayitNo":33921,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YEŞİLHİSAR KÖYÜ","adi":null,"kimlikNo":89159,"il_id":66,"ilce_id":1198}
+{"koyAdi":"YOĞUNHİSAR","koyKayitNo":33922,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YOĞUNHİSAR KÖYÜ","adi":null,"kimlikNo":89160,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YUKARI KARAKOÇ MAHALLESİ","adi":"YUKARI KARAKOÇ","kimlikNo":99235,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YUKARI MAHALLESİ","adi":"YUKARI","kimlikNo":80731,"il_id":66,"ilce_id":1198}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ABDULLAH EFENDİ MAHALLESİ","adi":"ABDULLAH EFENDİ","kimlikNo":140352,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ATATÜRK MAHALLESİ","adi":"ATATÜRK","kimlikNo":80755,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80756,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BARBOROS MAHALLESİ","adi":"BARBOROS","kimlikNo":80757,"il_id":66,"ilce_id":1895}
+{"koyAdi":"BÜYÜKKIŞLA","koyKayitNo":33930,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BÜYÜKKIŞLA KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":80763,"il_id":66,"ilce_id":1895}
+{"koyAdi":"BÜYÜKKIŞLA","koyKayitNo":33930,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BÜYÜKKIŞLA KÖYÜ, TANDOĞAN MEVKİİ","adi":"TANDOĞAN","kimlikNo":80764,"il_id":66,"ilce_id":1895}
+{"koyAdi":"BÜYÜKKIŞLA","koyKayitNo":33930,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BÜYÜKKIŞLA KÖYÜ, ZAFER MEVKİİ","adi":"ZAFER","kimlikNo":80765,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":80758,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"EŞREFPAŞA MAHALLESİ","adi":"EŞREFPAŞA","kimlikNo":80762,"il_id":66,"ilce_id":1895}
+{"koyAdi":"GÜLPINAR","koyKayitNo":33931,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLPINAR KÖYÜ","adi":null,"kimlikNo":89166,"il_id":66,"ilce_id":1895}
+{"koyAdi":"İĞDELİ","koyKayitNo":33932,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İĞDELİ KÖYÜ","adi":null,"kimlikNo":89167,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KILIÇLAR MAHALLESİ","adi":"KILIÇLAR","kimlikNo":80759,"il_id":66,"ilce_id":1895}
+{"koyAdi":"KOZAN","koyKayitNo":33933,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOZAN KÖYÜ","adi":null,"kimlikNo":89168,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"NABİOĞLU MAHALLESİ","adi":"NABİOĞLU","kimlikNo":80760,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞAH SULTAN MAHALLESİ","adi":"ŞAH SULTAN","kimlikNo":140354,"il_id":66,"ilce_id":1895}
+{"koyAdi":"MERKEZ","koyKayitNo":33929,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİMEYDAN MAHALLESİ","adi":"YENİMEYDAN","kimlikNo":80761,"il_id":66,"ilce_id":1895}
+{"koyAdi":"ALİDEMİRCİ","koyKayitNo":33935,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALİDEMİRCİ KÖYÜ","adi":null,"kimlikNo":89169,"il_id":66,"ilce_id":1242}
+{"koyAdi":"AŞAĞITEKKE","koyKayitNo":33936,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞITEKKE KÖYÜ","adi":null,"kimlikNo":89170,"il_id":66,"ilce_id":1242}
+{"koyAdi":"AŞAĞIYAHYASARAY","koyKayitNo":33937,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIYAHYASARAY KÖYÜ","adi":null,"kimlikNo":89171,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AVCILAR MAHALLESİ","adi":"AVCILAR","kimlikNo":80766,"il_id":66,"ilce_id":1242}
+{"koyAdi":"AVŞARALANI","koyKayitNo":33938,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AVŞARALANI KÖYÜ","adi":null,"kimlikNo":89172,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80767,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":80768,"il_id":66,"ilce_id":1242}
+{"koyAdi":"CURALİ","koyKayitNo":33939,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CURALİ KÖYÜ, ESENTEPE MEVKİİ","adi":"ESENTEPE","kimlikNo":80772,"il_id":66,"ilce_id":1242}
+{"koyAdi":"CURALİ","koyKayitNo":33939,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CURALİ KÖYÜ, YEŞİLYURT MEVKİİ","adi":"YEŞİLYURT","kimlikNo":80773,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇOKRADAN MAHALLESİ","adi":"ÇOKRADAN","kimlikNo":183862,"il_id":66,"ilce_id":1242}
+{"koyAdi":"ÇUKURÖREN","koyKayitNo":49293,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇUKURÖREN KÖYÜ","adi":null,"kimlikNo":196849,"il_id":66,"ilce_id":1242}
+{"koyAdi":"DEREKEMAL","koyKayitNo":33941,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREKEMAL KÖYÜ","adi":null,"kimlikNo":89173,"il_id":66,"ilce_id":1242}
+{"koyAdi":"ELÇİ","koyKayitNo":33942,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ELÇİ KÖYÜ","adi":null,"kimlikNo":89174,"il_id":66,"ilce_id":1242}
+{"koyAdi":"EVCİLER","koyKayitNo":33943,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"EVCİLER KÖYÜ, KÖYÜN KENDİSİ MEVKİİ","adi":"KÖYÜN KENDİSİ","kimlikNo":80779,"il_id":66,"ilce_id":1242}
+{"koyAdi":"FAHRALI","koyKayitNo":33944,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FAHRALI KÖYÜ","adi":null,"kimlikNo":89175,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FATİH MAHALLESİ","adi":"FATİH","kimlikNo":80769,"il_id":66,"ilce_id":1242}
+{"koyAdi":"GÜLDERESİ","koyKayitNo":49295,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLDERESİ KÖYÜ","adi":null,"kimlikNo":196851,"il_id":66,"ilce_id":1242}
+{"koyAdi":"GÜNYAYLA","koyKayitNo":33945,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNYAYLA KÖYÜ","adi":null,"kimlikNo":89176,"il_id":66,"ilce_id":1242}
+{"koyAdi":"GÜZELYAYLA","koyKayitNo":33952,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜZELYAYLA KÖYÜ","adi":null,"kimlikNo":89182,"il_id":66,"ilce_id":1242}
+{"koyAdi":"İNÖNÜ","koyKayitNo":33946,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNÖNÜ KÖYÜ","adi":null,"kimlikNo":89177,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İSHAKLI MAHALLESİ","adi":"İSHAKLI","kimlikNo":80770,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KALETEPE","koyKayitNo":33947,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KALETEPE KÖYÜ","adi":null,"kimlikNo":89178,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KARAAZAP","koyKayitNo":49297,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAAZAP KÖYÜ","adi":null,"kimlikNo":196853,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KARAKIŞLA","koyKayitNo":33948,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAKIŞLA KÖYÜ","adi":null,"kimlikNo":89179,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KONUKLAR","koyKayitNo":33949,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KONUKLAR BELDESİ, FATİH MAHALLESİ","adi":"FATİH","kimlikNo":80782,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KONUKLAR","koyKayitNo":33949,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KONUKLAR BELDESİ, YAVUZ SULTAN SELİM MAHALLESİ","adi":"YAVUZ SULTAN SELİM","kimlikNo":197721,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KONUKLAR","koyKayitNo":33949,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KONUKLAR BELDESİ, YILDIRIM BEYAZIT MAHALLESİ","adi":"YILDIRIM BEYAZIT","kimlikNo":197723,"il_id":66,"ilce_id":1242}
+{"koyAdi":"KÜLEKÇİ","koyKayitNo":33950,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜLEKÇİ KÖYÜ","adi":null,"kimlikNo":89180,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MENTEŞE","koyKayitNo":33951,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MENTEŞE KÖYÜ","adi":null,"kimlikNo":89181,"il_id":66,"ilce_id":1242}
+{"koyAdi":"SÖBEÇİMEN","koyKayitNo":33953,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖBEÇİMEN KÖYÜ","adi":null,"kimlikNo":89183,"il_id":66,"ilce_id":1242}
+{"koyAdi":"TURLUHAN","koyKayitNo":33954,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TURLUHAN KÖYÜ","adi":null,"kimlikNo":89184,"il_id":66,"ilce_id":1242}
+{"koyAdi":"MERKEZ","koyKayitNo":33934,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80771,"il_id":66,"ilce_id":1242}
+{"koyAdi":"YUKARITEKKE","koyKayitNo":33955,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARITEKKE KÖYÜ","adi":null,"kimlikNo":89185,"il_id":66,"ilce_id":1242}
+{"koyAdi":"YUKARIYAHYASARAY","koyKayitNo":33956,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIYAHYASARAY KÖYÜ","adi":null,"kimlikNo":89186,"il_id":66,"ilce_id":1242}
+{"koyAdi":"ALIÇLI","koyKayitNo":33959,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALIÇLI KÖYÜ","adi":null,"kimlikNo":89187,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ARPAÇ","koyKayitNo":33960,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARPAÇ KÖYÜ","adi":null,"kimlikNo":89188,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ARPAÇ","koyKayitNo":33960,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ARPAÇ KÖYÜ, KAHYALI MEVKİİ","adi":"KAHYALI","kimlikNo":185028,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80783,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80784,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAŞALAN","koyKayitNo":33961,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞALAN KÖYÜ","adi":null,"kimlikNo":89189,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAŞPINAR","koyKayitNo":33962,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞPINAR KÖYÜ","adi":null,"kimlikNo":89190,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAYINDIRHÜYÜK","koyKayitNo":33958,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAYINDIRHÜYÜK KÖYÜ, ESENTEPE MEVKİİ","adi":"ESENTEPE","kimlikNo":80786,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAYINDIRHÜYÜK","koyKayitNo":33958,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAYINDIRHÜYÜK KÖYÜ, ZAFER MEVKİİ","adi":"ZAFER","kimlikNo":80787,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAZLAMBAÇ","koyKayitNo":33963,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAZLAMBAÇ KÖYÜ, GÜLVEREN MEVKİİ","adi":"GÜLVEREN","kimlikNo":80788,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BAZLAMBAÇ","koyKayitNo":33963,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAZLAMBAÇ KÖYÜ, MERCAN MEVKİİ","adi":"MERCAN","kimlikNo":80789,"il_id":66,"ilce_id":1245}
+{"koyAdi":"BEYYURDU","koyKayitNo":33964,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BEYYURDU KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80790,"il_id":66,"ilce_id":1245}
+{"koyAdi":"CEMALOĞLU","koyKayitNo":33965,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CEMALOĞLU KÖYÜ","adi":null,"kimlikNo":89191,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÇAKIRKÖY","koyKayitNo":33966,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAKIRKÖY KÖYÜ","adi":null,"kimlikNo":89192,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÇANDIR","koyKayitNo":33967,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇANDIR KÖYÜ","adi":null,"kimlikNo":89193,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÇAYIRÖZÜ","koyKayitNo":33968,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYIRÖZÜ KÖYÜ","adi":null,"kimlikNo":89194,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÇELTEK","koyKayitNo":33969,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇELTEK KÖYÜ","adi":null,"kimlikNo":89195,"il_id":66,"ilce_id":1245}
+{"koyAdi":"DEMİRCİALAN","koyKayitNo":33971,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEMİRCİALAN KÖYÜ","adi":null,"kimlikNo":89197,"il_id":66,"ilce_id":1245}
+{"koyAdi":"DOĞANOĞLU","koyKayitNo":33972,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DOĞANOĞLU KÖYÜ","adi":null,"kimlikNo":89198,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ELEMİN","koyKayitNo":33973,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ELEMİN KÖYÜ","adi":null,"kimlikNo":89199,"il_id":66,"ilce_id":1245}
+{"koyAdi":"FAKIDAĞI","koyKayitNo":33974,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FAKIDAĞI KÖYÜ","adi":null,"kimlikNo":89200,"il_id":66,"ilce_id":1245}
+{"koyAdi":"FUADİYE","koyKayitNo":33975,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FUADİYE KÖYÜ","adi":null,"kimlikNo":89201,"il_id":66,"ilce_id":1245}
+{"koyAdi":"GÖKDERE","koyKayitNo":33976,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKDERE KÖYÜ","adi":null,"kimlikNo":89202,"il_id":66,"ilce_id":1245}
+{"koyAdi":"GÖNÜLYURDU","koyKayitNo":33970,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖNÜLYURDU KÖYÜ","adi":null,"kimlikNo":89196,"il_id":66,"ilce_id":1245}
+{"koyAdi":"HAMZALI","koyKayitNo":33977,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HAMZALI KÖYÜ","adi":null,"kimlikNo":89203,"il_id":66,"ilce_id":1245}
+{"koyAdi":"İKİZCE","koyKayitNo":33978,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İKİZCE KÖYÜ","adi":null,"kimlikNo":89204,"il_id":66,"ilce_id":1245}
+{"koyAdi":"İLBEYLİ","koyKayitNo":33979,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İLBEYLİ KÖYÜ","adi":null,"kimlikNo":89205,"il_id":66,"ilce_id":1245}
+{"koyAdi":"İSAKLI","koyKayitNo":33980,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İSAKLI KÖYÜ","adi":null,"kimlikNo":89206,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KALEDERESİ","koyKayitNo":33982,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KALEDERESİ KÖYÜ","adi":null,"kimlikNo":89208,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KALEDERESİ","koyKayitNo":33982,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALEDERESİ KÖYÜ, SARIKAYA MEVKİİ","adi":"SARIKAYA","kimlikNo":185026,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KAMIŞCIK","koyKayitNo":33983,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAMIŞCIK KÖYÜ","adi":null,"kimlikNo":89209,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KARAHACILI","koyKayitNo":33999,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAHACILI KÖYÜ","adi":null,"kimlikNo":89225,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KARAKAYA","koyKayitNo":34000,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAKAYA KÖYÜ","adi":null,"kimlikNo":89226,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KAVAKALANI","koyKayitNo":33984,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAVAKALANI KÖYÜ","adi":null,"kimlikNo":89211,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KAYALAR","koyKayitNo":33985,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYALAR KÖYÜ","adi":null,"kimlikNo":89212,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KIRKDİLİM","koyKayitNo":33986,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIRKDİLİM KÖYÜ","adi":null,"kimlikNo":89213,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KOYUNCULU","koyKayitNo":33987,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOYUNCULU KÖYÜ","adi":null,"kimlikNo":89214,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KÖRPINAR","koyKayitNo":33988,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖRPINAR KÖYÜ","adi":null,"kimlikNo":89215,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KURTAĞILI","koyKayitNo":33989,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KURTAĞILI KÖYÜ","adi":null,"kimlikNo":89216,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KURUÇAY","koyKayitNo":33990,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KURUÇAY KÖYÜ","adi":null,"kimlikNo":89217,"il_id":66,"ilce_id":1245}
+{"koyAdi":"KUZGUN","koyKayitNo":33991,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUZGUN KÖYÜ","adi":null,"kimlikNo":89218,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MEHMETLİ","koyKayitNo":33992,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MEHMETLİ KÖYÜ","adi":null,"kimlikNo":89219,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEVLANA MAHALLESİ","adi":"MEVLANA","kimlikNo":140360,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ORTAOBA","koyKayitNo":33993,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ORTAOBA KÖYÜ","adi":null,"kimlikNo":89220,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÖZÖREN","koyKayitNo":33994,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖZÖREN KÖYÜ","adi":null,"kimlikNo":89221,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÖZÜKAVAK","koyKayitNo":33995,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÖZÜKAVAK BELDESİ, BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80791,"il_id":66,"ilce_id":1245}
+{"koyAdi":"ÖZÜKAVAK","koyKayitNo":33995,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÖZÜKAVAK BELDESİ, GÜLTEPE MAHALLESİ","adi":"GÜLTEPE","kimlikNo":80792,"il_id":66,"ilce_id":1245}
+{"koyAdi":"SARIKÖY","koyKayitNo":33997,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIKÖY KÖYÜ","adi":null,"kimlikNo":89223,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SEYİT AHMET MAHALLESİ","adi":"SEYİT AHMET","kimlikNo":140362,"il_id":66,"ilce_id":1245}
+{"koyAdi":"TİPİDERESİ","koyKayitNo":33998,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TİPİDERESİ KÖYÜ","adi":null,"kimlikNo":89224,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİYOL MAHALLESİ","adi":"YENİYOL","kimlikNo":80785,"il_id":66,"ilce_id":1245}
+{"koyAdi":"YUKARIOBA","koyKayitNo":34001,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIOBA KÖYÜ","adi":null,"kimlikNo":89227,"il_id":66,"ilce_id":1245}
+{"koyAdi":"MERKEZ","koyKayitNo":33957,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YUNUS EMRE MAHALLESİ","adi":"YUNUS EMRE","kimlikNo":140358,"il_id":66,"ilce_id":1245}
+{"koyAdi":"AŞAĞIKIZILÖZ","koyKayitNo":34004,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIKIZILÖZ KÖYÜ","adi":null,"kimlikNo":89229,"il_id":66,"ilce_id":1952}
+{"koyAdi":"BUZLUK","koyKayitNo":34030,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BUZLUK KÖYÜ","adi":null,"kimlikNo":89254,"il_id":66,"ilce_id":1952}
+{"koyAdi":"ÇAMSARAY","koyKayitNo":34006,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAMSARAY KÖYÜ","adi":null,"kimlikNo":89231,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇAYPINAR MAHALLESİ","adi":"ÇAYPINAR","kimlikNo":80793,"il_id":66,"ilce_id":1952}
+{"koyAdi":"DERBENT","koyKayitNo":34007,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DERBENT KÖYÜ","adi":null,"kimlikNo":89232,"il_id":66,"ilce_id":1952}
+{"koyAdi":"DİKMESÖĞÜT","koyKayitNo":34008,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DİKMESÖĞÜT KÖYÜ","adi":null,"kimlikNo":89233,"il_id":66,"ilce_id":1952}
+{"koyAdi":"ELMALIÇİFTLİĞİ","koyKayitNo":34010,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ELMALIÇİFTLİĞİ KÖYÜ","adi":null,"kimlikNo":89235,"il_id":66,"ilce_id":1952}
+{"koyAdi":"ELMALIÜTÜĞÜ","koyKayitNo":34011,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ELMALIÜTÜĞÜ KÖYÜ","adi":null,"kimlikNo":89236,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜMÜŞDİĞİN MAHALLESİ","adi":"GÜMÜŞDİĞİN","kimlikNo":99306,"il_id":66,"ilce_id":1952}
+{"koyAdi":"GÜMÜŞSU","koyKayitNo":34013,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜMÜŞSU KÖYÜ","adi":null,"kimlikNo":89238,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, AKÇAKALE MAHALLESİ","adi":"AKÇAKALE","kimlikNo":183872,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, BAHÇELİ EVLER MAHALLESİ","adi":"BAHÇELİ EVLER","kimlikNo":80799,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, BELÖREN MAHALLESİ","adi":"BELÖREN","kimlikNo":89230,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, ELMALI MAHALLESİ","adi":"ELMALI","kimlikNo":89234,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, FATİH  MAHALLESİ","adi":"FATİH ","kimlikNo":80798,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, YONCALIK MAHALLESİ","adi":"YONCALIK","kimlikNo":183870,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HALIKÖY","koyKayitNo":34014,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"HALIKÖY BELDESİ, YUKARIKIZILÖZ MAHALLESİ","adi":"YUKARIKIZILÖZ","kimlikNo":183868,"il_id":66,"ilce_id":1952}
+{"koyAdi":"HANÖZÜ","koyKayitNo":34015,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HANÖZÜ KÖYÜ","adi":null,"kimlikNo":89239,"il_id":66,"ilce_id":1952}
+{"koyAdi":"KABALI","koyKayitNo":34016,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABALI KÖYÜ","adi":null,"kimlikNo":89240,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KADIOĞLU MAHALLESİ","adi":"KADIOĞLU","kimlikNo":80794,"il_id":66,"ilce_id":1952}
+{"koyAdi":"KEMALLİ","koyKayitNo":34017,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KEMALLİ KÖYÜ","adi":null,"kimlikNo":89241,"il_id":66,"ilce_id":1952}
+{"koyAdi":"KIYILI","koyKayitNo":34018,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIYILI KÖYÜ","adi":null,"kimlikNo":89242,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"LÜTFULLAH KAYALAR MAHALLESİ","adi":"LÜTFULLAH KAYALAR","kimlikNo":80795,"il_id":66,"ilce_id":1952}
+{"koyAdi":"OVACIK","koyKayitNo":34019,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OVACIK KÖYÜ","adi":null,"kimlikNo":89243,"il_id":66,"ilce_id":1952}
+{"koyAdi":"ÖRENCİK","koyKayitNo":34020,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖRENCİK KÖYÜ","adi":null,"kimlikNo":89244,"il_id":66,"ilce_id":1952}
+{"koyAdi":"SEYHAN","koyKayitNo":34021,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEYHAN KÖYÜ","adi":null,"kimlikNo":89245,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÜÇAĞAÇ MAHALLESİ","adi":"ÜÇAĞAÇ","kimlikNo":140681,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"VASFIBEY  MAHALLESİ","adi":"VASFIBEY ","kimlikNo":80797,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YAKACIK MAHALLESİ","adi":"YAKACIK","kimlikNo":183866,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YANGI MAHALLESİ","adi":"YANGI","kimlikNo":183864,"il_id":66,"ilce_id":1952}
+{"koyAdi":"YANIK","koyKayitNo":34024,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YANIK KÖYÜ","adi":null,"kimlikNo":89248,"il_id":66,"ilce_id":1952}
+{"koyAdi":"YAVIHASAN","koyKayitNo":34026,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAVIHASAN KÖYÜ","adi":null,"kimlikNo":89250,"il_id":66,"ilce_id":1952}
+{"koyAdi":"YELTEN","koyKayitNo":34027,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YELTEN KÖYÜ","adi":null,"kimlikNo":89251,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":34002,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80796,"il_id":66,"ilce_id":1952}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AGAHEFENDİ MAHALLESİ","adi":"AGAHEFENDİ","kimlikNo":80669,"il_id":66,"ilce_id":1733}
+{"koyAdi":"AKTAŞ","koyKayitNo":33687,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKTAŞ KÖYÜ","adi":null,"kimlikNo":88938,"il_id":66,"ilce_id":1733}
+{"koyAdi":"AKYAMAÇ","koyKayitNo":33738,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKYAMAÇ KÖYÜ","adi":null,"kimlikNo":88993,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ALEMDAR","koyKayitNo":33688,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALEMDAR KÖYÜ","adi":null,"kimlikNo":88939,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AŞAĞI ÇATAK MAHALLESİ","adi":"AŞAĞI ÇATAK","kimlikNo":80671,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AŞAĞINOHUTLU MAHALLESİ","adi":"AŞAĞINOHUTLU","kimlikNo":80670,"il_id":66,"ilce_id":1733}
+{"koyAdi":"AYDOĞAN","koyKayitNo":33739,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYDOĞAN KÖYÜ","adi":null,"kimlikNo":88994,"il_id":66,"ilce_id":1733}
+{"koyAdi":"AZİZLİ","koyKayitNo":33689,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AZİZLİ KÖYÜ","adi":null,"kimlikNo":88940,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AZİZLİBAĞLARI MAHALLESİ","adi":"AZİZLİBAĞLARI","kimlikNo":183858,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BACILI","koyKayitNo":33740,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BACILI KÖYÜ","adi":null,"kimlikNo":88995,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BAHÇECİK","koyKayitNo":33741,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHÇECİK KÖYÜ","adi":null,"kimlikNo":88996,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇEŞEHİR MAHALLESİ","adi":"BAHÇEŞEHİR","kimlikNo":80672,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BALTASARILAR","koyKayitNo":33691,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BALTASARILAR KÖYÜ, KÖKLÜ  MEVKİİ","adi":"KÖKLÜ ","kimlikNo":88942,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BALTASARILAR","koyKayitNo":33691,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"BALTASARILAR KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":88943,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BAŞIBÜYÜKLÜ","koyKayitNo":33692,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞIBÜYÜKLÜ KÖYÜ","adi":null,"kimlikNo":88944,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BAŞINAYAYLA","koyKayitNo":33693,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞINAYAYLA KÖYÜ","adi":null,"kimlikNo":88945,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BATTAL","koyKayitNo":33766,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BATTAL KÖYÜ","adi":null,"kimlikNo":89023,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BAYATÖREN","koyKayitNo":33767,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAYATÖREN KÖYÜ","adi":null,"kimlikNo":89024,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BEYVELİOĞLU","koyKayitNo":33694,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEYVELİOĞLU KÖYÜ","adi":null,"kimlikNo":88946,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BİLAL ŞAHİN MAHALLESİ","adi":"BİLAL ŞAHİN","kimlikNo":139652,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BİŞEK","koyKayitNo":33742,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BİŞEK KÖYÜ, KALINBÜK MEVKİİ","adi":"KALINBÜK","kimlikNo":88997,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BİŞEK","koyKayitNo":33742,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"BİŞEK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":88998,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BOZLAR","koyKayitNo":33695,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOZLAR KÖYÜ","adi":null,"kimlikNo":88947,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BUZAĞCIOĞLU","koyKayitNo":33696,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BUZAĞCIOĞLU KÖYÜ","adi":null,"kimlikNo":88948,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BÜYÜKİNCİRLİ","koyKayitNo":33768,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKİNCİRLİ KÖYÜ","adi":null,"kimlikNo":89025,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BÜYÜKMAHAL","koyKayitNo":33697,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKMAHAL KÖYÜ","adi":null,"kimlikNo":88949,"il_id":66,"ilce_id":1733}
+{"koyAdi":"BÜYÜKNEFES","koyKayitNo":33743,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKNEFES KÖYÜ","adi":null,"kimlikNo":88999,"il_id":66,"ilce_id":1733}
+{"koyAdi":"CİHANPAŞA","koyKayitNo":33698,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CİHANPAŞA KÖYÜ","adi":null,"kimlikNo":88950,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇADIRARDIÇ","koyKayitNo":33744,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇADIRARDIÇ KÖYÜ, KARALAR MEVKİİ","adi":"KARALAR","kimlikNo":139971,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇADIRARDIÇ","koyKayitNo":33744,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇADIRARDIÇ KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80690,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇAĞLAYAN","koyKayitNo":33769,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAĞLAYAN KÖYÜ","adi":null,"kimlikNo":89026,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇALATLI","koyKayitNo":33699,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇALATLI KÖYÜ","adi":null,"kimlikNo":88951,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇALILI","koyKayitNo":33770,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇALILI KÖYÜ","adi":null,"kimlikNo":89027,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇAPANOĞLU MAHALLESİ","adi":"ÇAPANOĞLU","kimlikNo":139651,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇATMA","koyKayitNo":33745,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"ÇATMA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":89000,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇATMA","koyKayitNo":33745,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"ÇATMA KÖYÜ, YUKARI ÇATMA  MEVKİİ","adi":"YUKARI ÇATMA ","kimlikNo":89001,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÇORAK","koyKayitNo":33746,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇORAK KÖYÜ","adi":null,"kimlikNo":89002,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DAĞYENİCESİ","koyKayitNo":33700,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAĞYENİCESİ KÖYÜ","adi":null,"kimlikNo":88952,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DAMBASAN","koyKayitNo":33747,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAMBASAN KÖYÜ","adi":null,"kimlikNo":89003,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DARICI","koyKayitNo":33701,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DARICI KÖYÜ","adi":null,"kimlikNo":88953,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DAYILI","koyKayitNo":33748,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DAYILI KÖYÜ, ARAPLIÇİFTLİĞİ MEVKİİ","adi":"ARAPLIÇİFTLİĞİ","kimlikNo":89004,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DAYILI","koyKayitNo":33748,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"DAYILI KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":89005,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DELİHASANLI","koyKayitNo":33749,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DELİHASANLI KÖYÜ","adi":null,"kimlikNo":89006,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DERBENT","koyKayitNo":33702,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DERBENT KÖYÜ, ÇIRADERESİ MEVKİİ","adi":"ÇIRADERESİ","kimlikNo":88954,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DERBENT","koyKayitNo":33702,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"DERBENT KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":88955,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DEREBOYMUL","koyKayitNo":33750,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREBOYMUL KÖYÜ","adi":null,"kimlikNo":89007,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DEREKIŞLA","koyKayitNo":33703,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREKIŞLA KÖYÜ","adi":null,"kimlikNo":88956,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DEREMAHAL","koyKayitNo":33704,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREMAHAL KÖYÜ","adi":null,"kimlikNo":88957,"il_id":66,"ilce_id":1733}
+{"koyAdi":"DEREMUMLU","koyKayitNo":33705,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREMUMLU KÖYÜ","adi":null,"kimlikNo":88958,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DEVELİK MAHALLESİ","adi":"DEVELİK","kimlikNo":80673,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DİVANLI MAHALLESİ","adi":"DİVANLI","kimlikNo":183856,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ERDOĞAN AKDAĞ MAHALLESİ","adi":"ERDOĞAN AKDAĞ","kimlikNo":80674,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ERKEKLİ","koyKayitNo":34213,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ERKEKLİ KÖYÜ","adi":null,"kimlikNo":89421,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ESENLİ","koyKayitNo":33771,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENLİ KÖYÜ, BAHÇELİEVLER MEVKİİ","adi":"BAHÇELİEVLER","kimlikNo":80694,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ESENLİ","koyKayitNo":33771,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENLİ KÖYÜ, ÇAY MEVKİİ","adi":"ÇAY","kimlikNo":80695,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ESENLİ","koyKayitNo":33771,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENLİ KÖYÜ, GELİNGÜLLÜ MEVKİİ","adi":"GELİNGÜLLÜ","kimlikNo":80696,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ESENLİ","koyKayitNo":33771,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENLİ KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":80697,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ESKİPAZAR MAHALLESİ","adi":"ESKİPAZAR","kimlikNo":80675,"il_id":66,"ilce_id":1733}
+{"koyAdi":"EVCİ","koyKayitNo":33707,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EVCİ KÖYÜ","adi":null,"kimlikNo":88960,"il_id":66,"ilce_id":1733}
+{"koyAdi":"FAKIBEYLİ","koyKayitNo":33708,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FAKIBEYLİ KÖYÜ","adi":null,"kimlikNo":88961,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FATİH MAHALLESİ","adi":"FATİH","kimlikNo":80676,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GEVREK","koyKayitNo":33772,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GEVREK KÖYÜ","adi":null,"kimlikNo":89028,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÖKÇEKIŞLA","koyKayitNo":33773,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKÇEKIŞLA KÖYÜ","adi":null,"kimlikNo":89029,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜDÜLELMAHACILI","koyKayitNo":33709,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜDÜLELMAHACILI KÖYÜ","adi":null,"kimlikNo":88962,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜLLÜK","koyKayitNo":33710,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜK KÖYÜ","adi":null,"kimlikNo":88963,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜLLÜOLUK","koyKayitNo":33751,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜOLUK KÖYÜ","adi":null,"kimlikNo":89008,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜLYAYLA","koyKayitNo":33752,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜLYAYLA KÖYÜ, KİLLİK MEVKİİ","adi":"KİLLİK","kimlikNo":89009,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜLYAYLA","koyKayitNo":33752,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"GÜLYAYLA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":89010,"il_id":66,"ilce_id":1733}
+{"koyAdi":"GÜNEŞLİ","koyKayitNo":33756,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNEŞLİ KÖYÜ","adi":null,"kimlikNo":89014,"il_id":66,"ilce_id":1733}
+{"koyAdi":"HAMZALI","koyKayitNo":33711,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HAMZALI KÖYÜ","adi":null,"kimlikNo":88964,"il_id":66,"ilce_id":1733}
+{"koyAdi":"HAYDARBEYLİ","koyKayitNo":33753,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HAYDARBEYLİ KÖYÜ","adi":null,"kimlikNo":89011,"il_id":66,"ilce_id":1733}
+{"koyAdi":"İNCEÇAYIR","koyKayitNo":33712,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNCEÇAYIR KÖYÜ","adi":null,"kimlikNo":88965,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İSTANBULLUOĞLU MAHALLESİ","adi":"İSTANBULLUOĞLU","kimlikNo":80677,"il_id":66,"ilce_id":1733}
+{"koyAdi":"İŞLEĞEN","koyKayitNo":33713,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İŞLEĞEN KÖYÜ","adi":null,"kimlikNo":88966,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KABABEL","koyKayitNo":33714,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABABEL KÖYÜ","adi":null,"kimlikNo":88967,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KALEKÖY","koyKayitNo":33754,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KALEKÖY KÖYÜ","adi":null,"kimlikNo":89012,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KARABIYIK","koyKayitNo":33774,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARABIYIK KÖYÜ","adi":null,"kimlikNo":89030,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KARACALAR","koyKayitNo":33715,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARACALAR KÖYÜ","adi":null,"kimlikNo":88968,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KARALAR","koyKayitNo":33755,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARALAR KÖYÜ","adi":null,"kimlikNo":89013,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARATEPE MAHALLESİ","adi":"KARATEPE","kimlikNo":80678,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KAŞKIŞLA","koyKayitNo":33775,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAŞKIŞLA KÖYÜ","adi":null,"kimlikNo":89031,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KAVURGALI","koyKayitNo":33716,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAVURGALI KÖYÜ","adi":null,"kimlikNo":88969,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KIRIKSOKU","koyKayitNo":33717,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIRIKSOKU KÖYÜ","adi":null,"kimlikNo":88970,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KIRIM","koyKayitNo":33718,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"KIRIM KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":88972,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KIRIM","koyKayitNo":33718,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"KIRIM KÖYÜ, MOLLAHASAN MEVKİİ","adi":"MOLLAHASAN","kimlikNo":88971,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KIŞLAKÖY","koyKayitNo":33719,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIŞLAKÖY KÖYÜ","adi":null,"kimlikNo":88973,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KIZILTEPE","koyKayitNo":33720,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILTEPE KÖYÜ","adi":null,"kimlikNo":88974,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KOLANLI","koyKayitNo":33721,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOLANLI KÖYÜ","adi":null,"kimlikNo":88975,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KOYUNCULU","koyKayitNo":33776,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOYUNCULU KÖYÜ","adi":null,"kimlikNo":89032,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KÖÇEKKÖMÜ","koyKayitNo":33722,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖÇEKKÖMÜ KÖYÜ","adi":null,"kimlikNo":88976,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KÖÇEKLİOĞLU","koyKayitNo":33777,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖÇEKLİOĞLU KÖYÜ","adi":null,"kimlikNo":89033,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KÖRPELİ","koyKayitNo":33757,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖRPELİ KÖYÜ","adi":null,"kimlikNo":89015,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KÖSEOĞLU MAHALLESİ","adi":"KÖSEOĞLU","kimlikNo":80679,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KÖSEYUSUFLU","koyKayitNo":33723,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖSEYUSUFLU KÖYÜ","adi":null,"kimlikNo":88977,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KUŞÇU","koyKayitNo":33724,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUŞÇU KÖYÜ","adi":null,"kimlikNo":88978,"il_id":66,"ilce_id":1733}
+{"koyAdi":"KUYUMCU","koyKayitNo":33725,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUYUMCU KÖYÜ","adi":null,"kimlikNo":88979,"il_id":66,"ilce_id":1733}
+{"koyAdi":"LÖKKÖY","koyKayitNo":33778,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"LÖKKÖY KÖYÜ","adi":null,"kimlikNo":89034,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEDRESE MAHALLESİ","adi":"MEDRESE","kimlikNo":80680,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEHMET HULUSİ EFENDİ MAHALLESİ","adi":"MEHMET HULUSİ EFENDİ","kimlikNo":80681,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MEZRAA","koyKayitNo":33726,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MEZRAA KÖYÜ","adi":null,"kimlikNo":88980,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MUSABEYLİ","koyKayitNo":33737,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MUSABEYLİ KÖYÜ","adi":null,"kimlikNo":88992,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MUSABEYLİBOĞAZI","koyKayitNo":33758,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MUSABEYLİBOĞAZI KÖYÜ","adi":null,"kimlikNo":89016,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MUTAFOĞLU MAHALLESİ","adi":"MUTAFOĞLU","kimlikNo":80682,"il_id":66,"ilce_id":1733}
+{"koyAdi":"OSMANPAŞA","koyKayitNo":33765,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANPAŞA KÖYÜ, CAMİ MEVKİİ","adi":"CAMİ","kimlikNo":80691,"il_id":66,"ilce_id":1733}
+{"koyAdi":"OSMANPAŞA","koyKayitNo":33765,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANPAŞA KÖYÜ, ŞEHİTLER MEVKİİ","adi":"ŞEHİTLER","kimlikNo":80692,"il_id":66,"ilce_id":1733}
+{"koyAdi":"OSMANPAŞA","koyKayitNo":33765,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANPAŞA KÖYÜ, TEKKE MEVKİİ","adi":"TEKKE","kimlikNo":80693,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÖRENCİK","koyKayitNo":33759,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖRENCİK KÖYÜ","adi":null,"kimlikNo":89017,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ÖZLÜCE","koyKayitNo":33779,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖZLÜCE KÖYÜ","adi":null,"kimlikNo":89035,"il_id":66,"ilce_id":1733}
+{"koyAdi":"PEMBECİK","koyKayitNo":33760,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PEMBECİK KÖYÜ","adi":null,"kimlikNo":89018,"il_id":66,"ilce_id":1733}
+{"koyAdi":"RECEPLİ","koyKayitNo":33727,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"RECEPLİ KÖYÜ","adi":null,"kimlikNo":88981,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SAĞLIK","koyKayitNo":33761,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAĞLIK KÖYÜ","adi":null,"kimlikNo":89019,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SALMANFAKILI","koyKayitNo":33728,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SALMANFAKILI KÖYÜ","adi":null,"kimlikNo":88982,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SARIFATMA","koyKayitNo":33762,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIFATMA KÖYÜ","adi":null,"kimlikNo":89020,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SARIHACILI MAHALLESİ","adi":"SARIHACILI","kimlikNo":183854,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SARIMBEY","koyKayitNo":33730,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIMBEY KÖYÜ","adi":null,"kimlikNo":88984,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SARININÖREN","koyKayitNo":33780,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARININÖREN KÖYÜ","adi":null,"kimlikNo":89036,"il_id":66,"ilce_id":1733}
+{"koyAdi":"SÖĞÜTYAYLA","koyKayitNo":33763,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖĞÜTYAYLA KÖYÜ","adi":null,"kimlikNo":89021,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEYH AHMET EFENDİ MAHALLESİ","adi":"ŞEYH AHMET EFENDİ","kimlikNo":184316,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEYHOSMAN MAHALLESİ","adi":"ŞEYHOSMAN","kimlikNo":80683,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"TAŞKÖPRÜ MAHALLESİ","adi":"TAŞKÖPRÜ","kimlikNo":80684,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TAYFUR","koyKayitNo":33781,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAYFUR KÖYÜ","adi":null,"kimlikNo":89037,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TAYİP","koyKayitNo":33731,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAYİP KÖYÜ","adi":null,"kimlikNo":88985,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"TEKKE MAHALLESİ","adi":"TEKKE","kimlikNo":80685,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TEKKEYENİCESİ","koyKayitNo":33782,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEKKEYENİCESİ KÖYÜ","adi":null,"kimlikNo":89038,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TOPAÇ","koyKayitNo":33764,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOPAÇ KÖYÜ","adi":null,"kimlikNo":89022,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TOPÇU","koyKayitNo":33732,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOPÇU KÖYÜ","adi":null,"kimlikNo":88986,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"TUZKAYA MAHALLESİ","adi":"TUZKAYA","kimlikNo":80686,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TÜRKMEN","koyKayitNo":33733,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TÜRKMEN KÖYÜ","adi":null,"kimlikNo":88987,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TÜRKMENSARILAR","koyKayitNo":33734,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TÜRKMENSARILAR KÖYÜ, DÖNEDERESİ MEVKİİ","adi":"DÖNEDERESİ","kimlikNo":88988,"il_id":66,"ilce_id":1733}
+{"koyAdi":"TÜRKMENSARILAR","koyKayitNo":33734,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"TÜRKMENSARILAR KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":88989,"il_id":66,"ilce_id":1733}
+{"koyAdi":"YASSIHÜYÜK","koyKayitNo":33735,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YASSIHÜYÜK KÖYÜ","adi":null,"kimlikNo":88990,"il_id":66,"ilce_id":1733}
+{"koyAdi":"YAZPINARI","koyKayitNo":33736,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZPINARI KÖYÜ","adi":null,"kimlikNo":88991,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİCAMİ MAHALLESİ","adi":"YENİCAMİ","kimlikNo":80687,"il_id":66,"ilce_id":1733}
+{"koyAdi":"YEŞİLOVA","koyKayitNo":33783,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YEŞİLOVA KÖYÜ","adi":null,"kimlikNo":89039,"il_id":66,"ilce_id":1733}
+{"koyAdi":"YUDAN","koyKayitNo":33784,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUDAN KÖYÜ","adi":null,"kimlikNo":89040,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YUKARIÇATAK MAHALLESİ","adi":"YUKARIÇATAK","kimlikNo":80688,"il_id":66,"ilce_id":1733}
+{"koyAdi":"MERKEZ","koyKayitNo":33686,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YUKARINOHUTLU MAHALLESİ","adi":"YUKARINOHUTLU","kimlikNo":80689,"il_id":66,"ilce_id":1733}
+{"koyAdi":"ALTINSU","koyKayitNo":37820,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALTINSU KÖYÜ","adi":null,"kimlikNo":99754,"il_id":66,"ilce_id":1982}
+{"koyAdi":"BAŞPINAR","koyKayitNo":34034,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞPINAR KÖYÜ","adi":null,"kimlikNo":89257,"il_id":66,"ilce_id":1982}
+{"koyAdi":"BENLİ","koyKayitNo":34035,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BENLİ KÖYÜ","adi":null,"kimlikNo":89258,"il_id":66,"ilce_id":1982}
+{"koyAdi":"BEŞKAVAK","koyKayitNo":49301,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEŞKAVAK KÖYÜ","adi":null,"kimlikNo":196857,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BÜYÜK CAMİİ MAHALLESİ","adi":"BÜYÜK CAMİİ","kimlikNo":80800,"il_id":66,"ilce_id":1982}
+{"koyAdi":"ÇİÇEKLİ","koyKayitNo":34037,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİÇEKLİ KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80808,"il_id":66,"ilce_id":1982}
+{"koyAdi":"ÇİÇEKLİHÜYÜĞÜ","koyKayitNo":34038,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇİÇEKLİHÜYÜĞÜ KÖYÜ","adi":null,"kimlikNo":89260,"il_id":66,"ilce_id":1982}
+{"koyAdi":"DEDEFAKILI","koyKayitNo":34039,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DEDEFAKILI BELDESİ, BALKAYA MAHALLESİ","adi":"BALKAYA","kimlikNo":140673,"il_id":66,"ilce_id":1982}
+{"koyAdi":"DEDEFAKILI","koyKayitNo":34039,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DEDEFAKILI BELDESİ, DEDEFAKILI MERKEZ MAHALLESİ","adi":"DEDEFAKILI MERKEZ","kimlikNo":80811,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DİVANLI MAHALLESİ","adi":"DİVANLI","kimlikNo":80807,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FATİH SULTAN MEHMET MAHALLESİ","adi":"FATİH SULTAN MEHMET","kimlikNo":80801,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLDİBİ MAHALLESİ","adi":"GÜLDİBİ","kimlikNo":80806,"il_id":66,"ilce_id":1982}
+{"koyAdi":"İZİBÜYÜK","koyKayitNo":34040,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İZİBÜYÜK KÖYÜ","adi":null,"kimlikNo":89261,"il_id":66,"ilce_id":1982}
+{"koyAdi":"KAMBERLİ","koyKayitNo":34041,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAMBERLİ KÖYÜ","adi":null,"kimlikNo":89262,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARAPINAR MAHALLESİ","adi":"KARAPINAR","kimlikNo":706887,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80802,"il_id":66,"ilce_id":1982}
+{"koyAdi":"KESİKKÖPRÜ","koyKayitNo":34043,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KESİKKÖPRÜ KÖYÜ","adi":null,"kimlikNo":89264,"il_id":66,"ilce_id":1982}
+{"koyAdi":"KÖSEALİLİ","koyKayitNo":34044,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖSEALİLİ KÖYÜ","adi":null,"kimlikNo":89265,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"M.FEVZİ ÇAKMAK MAHALLESİ","adi":"M.FEVZİ ÇAKMAK","kimlikNo":80803,"il_id":66,"ilce_id":1982}
+{"koyAdi":"OZAN","koyKayitNo":34045,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OZAN BELDESİ, CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":80813,"il_id":66,"ilce_id":1982}
+{"koyAdi":"OZAN","koyKayitNo":34045,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"OZAN BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":80812,"il_id":66,"ilce_id":1982}
+{"koyAdi":"PARMAKSIZ","koyKayitNo":34046,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PARMAKSIZ KÖYÜ","adi":null,"kimlikNo":89266,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SARAY MAHALLESİ","adi":"SARAY","kimlikNo":80804,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SARAYÖZÜ MAHALLESİ","adi":"SARAYÖZÜ","kimlikNo":536672,"il_id":66,"ilce_id":1982}
+{"koyAdi":"SÖĞÜTLÜ","koyKayitNo":34048,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖĞÜTLÜ KÖYÜ","adi":null,"kimlikNo":89268,"il_id":66,"ilce_id":1982}
+{"koyAdi":"MERKEZ","koyKayitNo":34031,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80805,"il_id":66,"ilce_id":1982}
+{"koyAdi":"AKBENLİ","koyKayitNo":34050,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKBENLİ KÖYÜ","adi":null,"kimlikNo":89269,"il_id":66,"ilce_id":1602}
+{"koyAdi":"AKBUCAK","koyKayitNo":34051,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKBUCAK KÖYÜ","adi":null,"kimlikNo":89270,"il_id":66,"ilce_id":1602}
+{"koyAdi":"AKÇADAM","koyKayitNo":34090,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKÇADAM KÖYÜ","adi":null,"kimlikNo":89306,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ALEMBEY","koyKayitNo":34091,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALEMBEY KÖYÜ","adi":null,"kimlikNo":89307,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ALİFAKILI","koyKayitNo":34052,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALİFAKILI KÖYÜ","adi":null,"kimlikNo":89271,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ARPALIK","koyKayitNo":34053,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARPALIK KÖYÜ","adi":null,"kimlikNo":89272,"il_id":66,"ilce_id":1602}
+{"koyAdi":"AZAPBAŞILI","koyKayitNo":34092,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AZAPBAŞILI KÖYÜ","adi":null,"kimlikNo":89308,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BABAYAĞMUR","koyKayitNo":34054,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BABAYAĞMUR KÖYÜ, BAĞLARBAŞI MEVKİİ","adi":"BAĞLARBAŞI","kimlikNo":80829,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BABAYAĞMUR","koyKayitNo":34054,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BABAYAĞMUR KÖYÜ, BAHÇELİEVLER MEVKİİ","adi":"BAHÇELİEVLER","kimlikNo":80830,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BABAYAĞMUR","koyKayitNo":34054,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BABAYAĞMUR KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":80831,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BABAYAĞMUR","koyKayitNo":34054,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BABAYAĞMUR KÖYÜ, YENİ MEVKİİ","adi":"YENİ","kimlikNo":80832,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BAĞLICA","koyKayitNo":34055,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAĞLICA KÖYÜ","adi":null,"kimlikNo":89273,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80814,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BARAKLI","koyKayitNo":34056,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BARAKLI KÖYÜ","adi":null,"kimlikNo":89274,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BATTALGAZİ MAHALLESİ","adi":"BATTALGAZİ","kimlikNo":80815,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BEBEKKÖY","koyKayitNo":34057,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEBEKKÖY KÖYÜ","adi":null,"kimlikNo":89275,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BEYAZIT MAHALLESİ","adi":"BEYAZIT","kimlikNo":80828,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BOYALIK","koyKayitNo":34058,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOYALIK KÖYÜ","adi":null,"kimlikNo":89276,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BURUNKIŞLA","koyKayitNo":34059,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BURUNKIŞLA KÖYÜ","adi":null,"kimlikNo":89277,"il_id":66,"ilce_id":1602}
+{"koyAdi":"BÜYÜKÇALAĞIL","koyKayitNo":34093,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKÇALAĞIL KÖYÜ","adi":null,"kimlikNo":89309,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":80816,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ÇATAK","koyKayitNo":34060,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇATAK KÖYÜ","adi":null,"kimlikNo":89278,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ÇOKUMEŞME","koyKayitNo":34062,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇOKUMEŞME KÖYÜ","adi":null,"kimlikNo":89280,"il_id":66,"ilce_id":1602}
+{"koyAdi":"DEREDOĞAN","koyKayitNo":34063,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREDOĞAN KÖYÜ","adi":null,"kimlikNo":89281,"il_id":66,"ilce_id":1602}
+{"koyAdi":"DEREKAPLANCI","koyKayitNo":34094,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREKAPLANCI KÖYÜ","adi":null,"kimlikNo":89310,"il_id":66,"ilce_id":1602}
+{"koyAdi":"DOĞANSARAY","koyKayitNo":34064,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DOĞANSARAY KÖYÜ","adi":null,"kimlikNo":89282,"il_id":66,"ilce_id":1602}
+{"koyAdi":"EMİRBEY","koyKayitNo":34095,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EMİRBEY KÖYÜ","adi":null,"kimlikNo":89311,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ERBEK","koyKayitNo":34096,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ERBEK KÖYÜ","adi":null,"kimlikNo":89312,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FATİH MAHALLESİ","adi":"FATİH","kimlikNo":80817,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FEVZİ ÇAKMAK MAHALLESİ","adi":"FEVZİ ÇAKMAK","kimlikNo":80818,"il_id":66,"ilce_id":1602}
+{"koyAdi":"GÜLPINAR","koyKayitNo":34065,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLPINAR KÖYÜ","adi":null,"kimlikNo":89283,"il_id":66,"ilce_id":1602}
+{"koyAdi":"GÜNDÜZLÜ","koyKayitNo":34097,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNDÜZLÜ KÖYÜ","adi":null,"kimlikNo":89313,"il_id":66,"ilce_id":1602}
+{"koyAdi":"HASBEK","koyKayitNo":34089,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HASBEK KÖYÜ","adi":null,"kimlikNo":89305,"il_id":66,"ilce_id":1602}
+{"koyAdi":"HİSARBEY","koyKayitNo":34098,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HİSARBEY KÖYÜ","adi":null,"kimlikNo":89314,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HÜRRİYET MAHALLESİ","adi":"HÜRRİYET","kimlikNo":80819,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ILISU","koyKayitNo":34066,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ILISU KÖYÜ","adi":null,"kimlikNo":89284,"il_id":66,"ilce_id":1602}
+{"koyAdi":"İNEVİ","koyKayitNo":34067,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNEVİ KÖYÜ","adi":null,"kimlikNo":89285,"il_id":66,"ilce_id":1602}
+{"koyAdi":"İNKIŞLA CELALHÜYÜĞÜ","koyKayitNo":34099,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNKIŞLA CELALHÜYÜĞÜ KÖYÜ","adi":null,"kimlikNo":89315,"il_id":66,"ilce_id":1602}
+{"koyAdi":"İNKIŞLA CELALHÜYÜĞÜ","koyKayitNo":34099,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İNKIŞLA CELALHÜYÜĞÜ KÖYÜ, CELALHÜYÜĞÜ MEVKİİ","adi":"CELALHÜYÜĞÜ","kimlikNo":139761,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İSTİKLAL MAHALLESİ","adi":"İSTİKLAL","kimlikNo":80820,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KADIGÜLLÜ","koyKayitNo":34100,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KADIGÜLLÜ KÖYÜ","adi":null,"kimlikNo":89316,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KADILI","koyKayitNo":34068,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KADILI KÖYÜ","adi":null,"kimlikNo":89286,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KAPLICA MAHALLESİ","adi":"KAPLICA","kimlikNo":80821,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARABACAK","koyKayitNo":34069,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARABACAK KÖYÜ","adi":null,"kimlikNo":89287,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARACALAR","koyKayitNo":34070,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARACALAR KÖYÜ","adi":null,"kimlikNo":89288,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARAELLİ","koyKayitNo":34101,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAELLİ KÖYÜ","adi":null,"kimlikNo":89317,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARAHALLI","koyKayitNo":34071,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAHALLI KÖYÜ","adi":null,"kimlikNo":89289,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARAYAKUP","koyKayitNo":34072,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KARAYAKUP BELDESİ, ÇIKRIKÇI MAHALLESİ","adi":"ÇIKRIKÇI","kimlikNo":140679,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARAYAKUP","koyKayitNo":34072,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KARAYAKUP BELDESİ, KARAYAKUP MAHALLESİ","adi":"KARAYAKUP","kimlikNo":80833,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARAYAKUP","koyKayitNo":34072,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KARAYAKUP BELDESİ, TERZİLİ MAHALLESİ","adi":"TERZİLİ","kimlikNo":80834,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KARGALIK","koyKayitNo":34073,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARGALIK KÖYÜ","adi":null,"kimlikNo":89290,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80822,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KAYAPINAR MAHALLESİ","adi":"KAYAPINAR","kimlikNo":80823,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KAZIM KARABEKİR MAHALLESİ","adi":"KAZIM KARABEKİR","kimlikNo":80824,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KEMALLI","koyKayitNo":34102,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KEMALLI KÖYÜ","adi":null,"kimlikNo":89318,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KERPİÇÇİK","koyKayitNo":34074,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KERPİÇÇİK KÖYÜ","adi":null,"kimlikNo":89291,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KOÇAK","koyKayitNo":34103,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOÇAK KÖYÜ","adi":null,"kimlikNo":89319,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KOÇÇAĞIZ","koyKayitNo":34075,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOÇÇAĞIZ KÖYÜ","adi":null,"kimlikNo":89292,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KONURLU","koyKayitNo":34076,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KONURLU KÖYÜ","adi":null,"kimlikNo":89293,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KÖPRÜCEK MAHALLESİ","adi":"KÖPRÜCEK","kimlikNo":183874,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KÜÇÜKÇALAĞIL","koyKayitNo":34078,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKÇALAĞIL KÖYÜ","adi":null,"kimlikNo":89295,"il_id":66,"ilce_id":1602}
+{"koyAdi":"KÜRKÇÜ","koyKayitNo":34079,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜRKÇÜ KÖYÜ","adi":null,"kimlikNo":89296,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MESCİTLİ","koyKayitNo":34104,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MESCİTLİ KÖYÜ","adi":null,"kimlikNo":89320,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"OSMAN GAZİ MAHALLESİ","adi":"OSMAN GAZİ","kimlikNo":80825,"il_id":66,"ilce_id":1602}
+{"koyAdi":"PINARKAYA","koyKayitNo":34080,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PINARKAYA KÖYÜ","adi":null,"kimlikNo":89297,"il_id":66,"ilce_id":1602}
+{"koyAdi":"RAMAZANLI","koyKayitNo":34105,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"RAMAZANLI KÖYÜ","adi":null,"kimlikNo":89321,"il_id":66,"ilce_id":1602}
+{"koyAdi":"SELİMLİ","koyKayitNo":34081,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SELİMLİ KÖYÜ","adi":null,"kimlikNo":89298,"il_id":66,"ilce_id":1602}
+{"koyAdi":"SÖYLEMEZ","koyKayitNo":34082,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖYLEMEZ KÖYÜ","adi":null,"kimlikNo":89299,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEKERPINAR MAHALLESİ","adi":"ŞEKERPINAR","kimlikNo":80826,"il_id":66,"ilce_id":1602}
+{"koyAdi":"TEPEDOĞAN","koyKayitNo":34083,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEPEDOĞAN KÖYÜ","adi":null,"kimlikNo":89300,"il_id":66,"ilce_id":1602}
+{"koyAdi":"TOMARCAHÜYÜĞÜ","koyKayitNo":34084,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOMARCAHÜYÜĞÜ KÖYÜ","adi":null,"kimlikNo":89301,"il_id":66,"ilce_id":1602}
+{"koyAdi":"TOPAKTAŞ","koyKayitNo":34106,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOPAKTAŞ KÖYÜ","adi":null,"kimlikNo":89322,"il_id":66,"ilce_id":1602}
+{"koyAdi":"TOPRAKPINAR","koyKayitNo":34085,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOPRAKPINAR KÖYÜ","adi":null,"kimlikNo":89302,"il_id":66,"ilce_id":1602}
+{"koyAdi":"ÜRKÜTLÜ","koyKayitNo":34107,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÜRKÜTLÜ KÖYÜ","adi":null,"kimlikNo":89323,"il_id":66,"ilce_id":1602}
+{"koyAdi":"YAHYALI","koyKayitNo":34086,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAHYALI KÖYÜ","adi":null,"kimlikNo":89303,"il_id":66,"ilce_id":1602}
+{"koyAdi":"YAYLAGÜL","koyKayitNo":34087,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAYLAGÜL KÖYÜ","adi":null,"kimlikNo":89304,"il_id":66,"ilce_id":1602}
+{"koyAdi":"YAZIKAPLANCI","koyKayitNo":34108,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZIKAPLANCI KÖYÜ","adi":null,"kimlikNo":89324,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34049,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİDOĞAN MAHALLESİ","adi":"YENİDOĞAN","kimlikNo":80827,"il_id":66,"ilce_id":1602}
+{"koyAdi":"YUKARISARIKAYA","koyKayitNo":34088,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARISARIKAYA KÖYÜ, FATİH MEVKİİ","adi":"FATİH","kimlikNo":80835,"il_id":66,"ilce_id":1602}
+{"koyAdi":"YUKARISARIKAYA","koyKayitNo":34088,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARISARIKAYA KÖYÜ, TURGUT ÖZAL MEVKİİ","adi":"TURGUT ÖZAL","kimlikNo":80836,"il_id":66,"ilce_id":1602}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AGAHEFENDİ MAHALLESİ","adi":"AGAHEFENDİ","kimlikNo":80837,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AĞCIN","koyKayitNo":34110,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AĞCIN KÖYÜ","adi":null,"kimlikNo":89325,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AHMETEFENDİ MAHALLESİ","adi":"AHMETEFENDİ","kimlikNo":80847,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AKOLUK","koyKayitNo":34112,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKOLUK KÖYÜ","adi":null,"kimlikNo":89326,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ALCI","koyKayitNo":34113,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALCI KÖYÜ","adi":null,"kimlikNo":89327,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ALİŞAR","koyKayitNo":34114,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALİŞAR KÖYÜ","adi":null,"kimlikNo":89328,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ARAPLI","koyKayitNo":34115,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ARAPLI BELDESİ, GÜZEL YURT MAHALLESİ","adi":"GÜZEL YURT","kimlikNo":80853,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ARAPLI","koyKayitNo":34115,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ARAPLI BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":80852,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ARAPLI","koyKayitNo":34115,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ARAPLI BELDESİ, YAYCILAR MAHALLESİ","adi":"YAYCILAR","kimlikNo":140691,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AŞAĞICUMAFAKILI","koyKayitNo":34116,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞICUMAFAKILI KÖYÜ","adi":null,"kimlikNo":89329,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AŞAĞIEMİRLER","koyKayitNo":34189,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIEMİRLER KÖYÜ","adi":null,"kimlikNo":89398,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AŞAĞIKARAHACILI","koyKayitNo":34117,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIKARAHACILI KÖYÜ","adi":null,"kimlikNo":89330,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AŞAĞIKARAKAYA","koyKayitNo":34118,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIKARAKAYA KÖYÜ","adi":null,"kimlikNo":89331,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AYDINLIKEVLER MAHALLESİ","adi":"AYDINLIKEVLER","kimlikNo":80838,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AYRIDAM","koyKayitNo":34119,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYRIDAM KÖYÜ","adi":null,"kimlikNo":89332,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AYRIDAM","koyKayitNo":34119,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"AYRIDAM KÖYÜ, AYRIDAM YOZGAT YOLU MEVKİ  MEVKİİ","adi":"AYRIDAM YOZGAT YOLU MEVKİ ","kimlikNo":89334,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BABALI","koyKayitNo":34121,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BABALI KÖYÜ","adi":null,"kimlikNo":89338,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAĞLARBAŞI","koyKayitNo":34122,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAĞLARBAŞI KÖYÜ","adi":null,"kimlikNo":89339,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ,  SORGUN TATLISI MAHALLESİ","adi":" SORGUN TATLISI","kimlikNo":80860,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, AYDINLAR MAHALLESİ","adi":"AYDINLAR","kimlikNo":80854,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, GÜMÜŞKAVAK MAHALLESİ","adi":"GÜMÜŞKAVAK","kimlikNo":80857,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, HÜRRİYET MAHALLESİ","adi":"HÜRRİYET","kimlikNo":80855,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, MÜLAZIM MAHALLESİ","adi":"MÜLAZIM","kimlikNo":80856,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, SALUR MAHALLESİ","adi":"SALUR","kimlikNo":80859,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BAHADIN","koyKayitNo":34123,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAHADIN BELDESİ, SUNGUR MAHALLESİ","adi":"SUNGUR","kimlikNo":80858,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80839,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BEDİRBABA  MAHALLESİ","adi":"BEDİRBABA ","kimlikNo":80849,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BELENCUMAFAKILI","koyKayitNo":34124,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BELENCUMAFAKILI KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80861,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BOĞAZCUMAFAKILI","koyKayitNo":34125,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOĞAZCUMAFAKILI KÖYÜ","adi":null,"kimlikNo":89340,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BÜYÜKEYNELLİ","koyKayitNo":34190,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKEYNELLİ KÖYÜ","adi":null,"kimlikNo":89399,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BÜYÜKKIŞLA","koyKayitNo":34126,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKKIŞLA KÖYÜ","adi":null,"kimlikNo":89341,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BÜYÜKÖREN","koyKayitNo":34127,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKÖREN KÖYÜ","adi":null,"kimlikNo":89342,"il_id":66,"ilce_id":1635}
+{"koyAdi":"BÜYÜKTAŞLIK","koyKayitNo":34128,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜYÜKTAŞLIK KÖYÜ","adi":null,"kimlikNo":89343,"il_id":66,"ilce_id":1635}
+{"koyAdi":"CAFERLİ","koyKayitNo":34129,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CAFERLİ KÖYÜ","adi":null,"kimlikNo":89344,"il_id":66,"ilce_id":1635}
+{"koyAdi":"CİHANŞARLI","koyKayitNo":34136,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CİHANŞARLI KÖYÜ","adi":null,"kimlikNo":89350,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇAKIRHACILI","koyKayitNo":34130,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAKIRHACILI KÖYÜ","adi":null,"kimlikNo":89345,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇAMURLU","koyKayitNo":34131,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAMURLU KÖYÜ","adi":null,"kimlikNo":89346,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇAVUŞKÖYÜ","koyKayitNo":34133,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAVUŞKÖYÜ KÖYÜ","adi":null,"kimlikNo":89348,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ÇAY MAHALLESİ","adi":"ÇAY","kimlikNo":80840,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇAYÖZÜ","koyKayitNo":34134,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYÖZÜ KÖYÜ","adi":null,"kimlikNo":89349,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, BURUNÖREN MAHALLESİ","adi":"BURUNÖREN","kimlikNo":80868,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, CAMİİKEBİR MAHALLESİ","adi":"CAMİİKEBİR","kimlikNo":80863,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, DURALİDAYILI MAHALLESİ","adi":"DURALİDAYILI","kimlikNo":80869,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, GÜLVEREN MAHALLESİ","adi":"GÜLVEREN","kimlikNo":80864,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, İSMAİLHACILI MAHALLESİ","adi":"İSMAİLHACILI","kimlikNo":80867,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, KALE MAHALLESİ","adi":"KALE","kimlikNo":80865,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ÇİĞDEMLİ","koyKayitNo":34135,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇİĞDEMLİ BELDESİ, KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80866,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DİŞLİ","koyKayitNo":34137,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DİŞLİ KÖYÜ","adi":null,"kimlikNo":89351,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANKENT","koyKayitNo":34138,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DOĞANKENT BELDESİ, AKSARAY MAHALLESİ","adi":"AKSARAY","kimlikNo":80870,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANKENT","koyKayitNo":34138,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DOĞANKENT BELDESİ, ÇAVUŞLU MAHALLESİ","adi":"ÇAVUŞLU","kimlikNo":80873,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANKENT","koyKayitNo":34138,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DOĞANKENT BELDESİ, KAYABAŞI MAHALLESİ","adi":"KAYABAŞI","kimlikNo":80871,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANKENT","koyKayitNo":34138,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DOĞANKENT BELDESİ, MAHMATLI MAHALLESİ","adi":"MAHMATLI","kimlikNo":80874,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANKENT","koyKayitNo":34138,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"DOĞANKENT BELDESİ, YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80872,"il_id":66,"ilce_id":1635}
+{"koyAdi":"DOĞANLI","koyKayitNo":34139,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DOĞANLI KÖYÜ","adi":null,"kimlikNo":89352,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EMİRHAN","koyKayitNo":34140,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EMİRHAN KÖYÜ","adi":null,"kimlikNo":89353,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EMİRLER","koyKayitNo":34191,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EMİRLER KÖYÜ","adi":null,"kimlikNo":89400,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ERKEKLİ","koyKayitNo":49303,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ERKEKLİ KÖYÜ","adi":null,"kimlikNo":196859,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, AKOCAK MAHALLESİ","adi":"AKOCAK","kimlikNo":196451,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, ÇARŞIBAŞI MAHALLESİ","adi":"ÇARŞIBAŞI","kimlikNo":80880,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, ÇAY MAHALLESİ","adi":"ÇAY","kimlikNo":80881,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80883,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, KAYAKIŞLA MAHALLESİ","adi":"KAYAKIŞLA","kimlikNo":140687,"il_id":66,"ilce_id":1635}
+{"koyAdi":"EYMİR","koyKayitNo":34187,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"EYMİR BELDESİ, MUSU BABA MAHALLESİ","adi":"MUSU BABA","kimlikNo":140689,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GARİPLER","koyKayitNo":34142,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GARİPLER KÖYÜ","adi":null,"kimlikNo":89356,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GEDİKHASANLI","koyKayitNo":34143,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GEDİKHASANLI KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":80875,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GEVREK","koyKayitNo":34144,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GEVREK KÖYÜ","adi":null,"kimlikNo":89357,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÖKİNİŞ","koyKayitNo":34145,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKİNİŞ KÖYÜ","adi":null,"kimlikNo":89358,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÖKÖZ","koyKayitNo":34192,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKÖZ KÖYÜ","adi":null,"kimlikNo":89401,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÖZBABA","koyKayitNo":34146,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖZBABA KÖYÜ","adi":null,"kimlikNo":89359,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜLŞEHRİ","koyKayitNo":34185,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜLŞEHRİ BELDESİ, ÇÖTELLİ MAHALLESİ","adi":"ÇÖTELLİ","kimlikNo":80877,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜLŞEHRİ","koyKayitNo":34185,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜLŞEHRİ BELDESİ, FARAŞLI MAHALLESİ","adi":"FARAŞLI","kimlikNo":140683,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜLŞEHRİ","koyKayitNo":34185,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜLŞEHRİ BELDESİ, HOŞUMLU MAHALLESİ","adi":"HOŞUMLU","kimlikNo":80878,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜLŞEHRİ","koyKayitNo":34185,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜLŞEHRİ BELDESİ, KESER MAHALLESİ","adi":"KESER","kimlikNo":140685,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜNGÖREN","koyKayitNo":34147,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNGÖREN KÖYÜ","adi":null,"kimlikNo":89360,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜNPINAR","koyKayitNo":34148,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNPINAR KÖYÜ","adi":null,"kimlikNo":89361,"il_id":66,"ilce_id":1635}
+{"koyAdi":"GÜNYAZI","koyKayitNo":34149,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNYAZI KÖYÜ","adi":null,"kimlikNo":89362,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜZELYURT MAHALLESİ","adi":"GÜZELYURT","kimlikNo":80850,"il_id":66,"ilce_id":1635}
+{"koyAdi":"HALİLFAKILI","koyKayitNo":34150,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HALİLFAKILI KÖYÜ","adi":null,"kimlikNo":89363,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HANBAŞI MAHALLESİ","adi":"HANBAŞI","kimlikNo":80841,"il_id":66,"ilce_id":1635}
+{"koyAdi":"İDRİSLİ","koyKayitNo":34151,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İDRİSLİ KÖYÜ","adi":null,"kimlikNo":89364,"il_id":66,"ilce_id":1635}
+{"koyAdi":"İKİKARA","koyKayitNo":34152,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İKİKARA KÖYÜ","adi":null,"kimlikNo":89365,"il_id":66,"ilce_id":1635}
+{"koyAdi":"İNCESU","koyKayitNo":34153,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNCESU KÖYÜ","adi":null,"kimlikNo":89366,"il_id":66,"ilce_id":1635}
+{"koyAdi":"İSAFAKILI","koyKayitNo":34154,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İSAFAKILI KÖYÜ","adi":null,"kimlikNo":89367,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KAPAKLI","koyKayitNo":34186,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAPAKLI KÖYÜ","adi":null,"kimlikNo":89210,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARAABALI","koyKayitNo":34155,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAABALI KÖYÜ","adi":null,"kimlikNo":89368,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARABURUN","koyKayitNo":34156,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARABURUN KÖYÜ","adi":null,"kimlikNo":89369,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARAKOCAOĞLU","koyKayitNo":34158,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAKOCAOĞLU KÖYÜ","adi":null,"kimlikNo":89370,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARALIK","koyKayitNo":34159,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARALIK KÖYÜ","adi":null,"kimlikNo":89371,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARAVELİ","koyKayitNo":34160,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAVELİ KÖYÜ","adi":null,"kimlikNo":89372,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KARLIK AYVALIK","koyKayitNo":34120,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARLIK AYVALIK KÖYÜ","adi":null,"kimlikNo":89335,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":80842,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KEPİRCE","koyKayitNo":34161,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KEPİRCE KÖYÜ","adi":null,"kimlikNo":89373,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KODALLI","koyKayitNo":34163,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KODALLI KÖYÜ","adi":null,"kimlikNo":89375,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KODALLIÇİFTLİĞİ","koyKayitNo":34164,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KODALLIÇİFTLİĞİ KÖYÜ","adi":null,"kimlikNo":89376,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KÜÇÜKEYNELLİ","koyKayitNo":34194,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKEYNELLİ KÖYÜ","adi":null,"kimlikNo":89403,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KÜÇÜKKÖHNE","koyKayitNo":34165,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKKÖHNE KÖYÜ","adi":null,"kimlikNo":89377,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KÜÇÜKTAŞLIK","koyKayitNo":34166,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKTAŞLIK KÖYÜ","adi":null,"kimlikNo":89378,"il_id":66,"ilce_id":1635}
+{"koyAdi":"KÜLHÜYÜK","koyKayitNo":34167,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜLHÜYÜK KÖYÜ","adi":null,"kimlikNo":89379,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MANSUROĞLU","koyKayitNo":34168,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MANSUROĞLU KÖYÜ","adi":null,"kimlikNo":89380,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MEHMETBEYLİ","koyKayitNo":34169,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MEHMETBEYLİ KÖYÜ","adi":null,"kimlikNo":89381,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MİRAHOR","koyKayitNo":34170,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MİRAHOR KÖYÜ","adi":null,"kimlikNo":89382,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MUĞALLI","koyKayitNo":34171,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MUĞALLI KÖYÜ","adi":null,"kimlikNo":89383,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MÜKREMİN MAHALLESİ","adi":"MÜKREMİN","kimlikNo":140693,"il_id":66,"ilce_id":1635}
+{"koyAdi":"OCAKLI","koyKayitNo":34172,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OCAKLI KÖYÜ","adi":null,"kimlikNo":89384,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"OSMANÇAVUŞ MAHALLESİ","adi":"OSMANÇAVUŞ","kimlikNo":80848,"il_id":66,"ilce_id":1635}
+{"koyAdi":"OSMANİYE","koyKayitNo":34173,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OSMANİYE KÖYÜ","adi":null,"kimlikNo":89385,"il_id":66,"ilce_id":1635}
+{"koyAdi":"PEYNİRYEMEZ","koyKayitNo":34174,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PEYNİRYEMEZ KÖYÜ","adi":null,"kimlikNo":89386,"il_id":66,"ilce_id":1635}
+{"koyAdi":"SARIHACILI","koyKayitNo":34175,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIHACILI KÖYÜ","adi":null,"kimlikNo":89387,"il_id":66,"ilce_id":1635}
+{"koyAdi":"SARIHAMZALI","koyKayitNo":34176,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIHAMZALI KÖYÜ","adi":null,"kimlikNo":89388,"il_id":66,"ilce_id":1635}
+{"koyAdi":"SİVRİ","koyKayitNo":34177,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SİVRİ KÖYÜ","adi":null,"kimlikNo":89389,"il_id":66,"ilce_id":1635}
+{"koyAdi":"ŞAHMURATLI","koyKayitNo":34178,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞAHMURATLI KÖYÜ","adi":null,"kimlikNo":89390,"il_id":66,"ilce_id":1635}
+{"koyAdi":"TAŞPINAR","koyKayitNo":34179,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAŞPINAR KÖYÜ","adi":null,"kimlikNo":89391,"il_id":66,"ilce_id":1635}
+{"koyAdi":"TEMREZLİ","koyKayitNo":34180,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEMREZLİ KÖYÜ","adi":null,"kimlikNo":89392,"il_id":66,"ilce_id":1635}
+{"koyAdi":"TİFTİK","koyKayitNo":34181,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TİFTİK KÖYÜ","adi":null,"kimlikNo":89393,"il_id":66,"ilce_id":1635}
+{"koyAdi":"TULUM","koyKayitNo":34195,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TULUM KÖYÜ","adi":null,"kimlikNo":89404,"il_id":66,"ilce_id":1635}
+{"koyAdi":"TUZLACIK","koyKayitNo":34182,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TUZLACIK KÖYÜ","adi":null,"kimlikNo":89394,"il_id":66,"ilce_id":1635}
+{"koyAdi":"VELİÖLDÜĞÜ","koyKayitNo":34196,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"VELİÖLDÜĞÜ KÖYÜ","adi":null,"kimlikNo":89405,"il_id":66,"ilce_id":1635}
+{"koyAdi":"YAZILITAŞ","koyKayitNo":34184,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZILITAŞ KÖYÜ","adi":null,"kimlikNo":89396,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YAZLAK MAHALLESİ","adi":"YAZLAK","kimlikNo":80843,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80844,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİDOĞAN MAHALLESİ","adi":"YENİDOĞAN","kimlikNo":80845,"il_id":66,"ilce_id":1635}
+{"koyAdi":"YENİYER","koyKayitNo":34157,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİYER BELDESİ, AHMETFAKILI MAHALLESİ","adi":"AHMETFAKILI","kimlikNo":140927,"il_id":66,"ilce_id":1635}
+{"koyAdi":"YENİYER","koyKayitNo":34157,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YENİYER BELDESİ, KARAKIZ MAHALLESİ","adi":"KARAKIZ","kimlikNo":80876,"il_id":66,"ilce_id":1635}
+{"koyAdi":"MERKEZ","koyKayitNo":34109,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YEŞİLÖZ MAHALLESİ","adi":"YEŞİLÖZ","kimlikNo":80846,"il_id":66,"ilce_id":1635}
+{"koyAdi":"AKCAMİ","koyKayitNo":34199,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKCAMİ KÖYÜ","adi":null,"kimlikNo":89407,"il_id":66,"ilce_id":1655}
+{"koyAdi":"AKÇAKOYUNLU","koyKayitNo":34200,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKÇAKOYUNLU KÖYÜ","adi":null,"kimlikNo":89408,"il_id":66,"ilce_id":1655}
+{"koyAdi":"ALİFAKILI","koyKayitNo":34201,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALİFAKILI KÖYÜ","adi":null,"kimlikNo":89409,"il_id":66,"ilce_id":1655}
+{"koyAdi":"ARİFE","koyKayitNo":34202,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARİFE KÖYÜ","adi":null,"kimlikNo":89410,"il_id":66,"ilce_id":1655}
+{"koyAdi":"ARMAĞAN","koyKayitNo":34203,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARMAĞAN KÖYÜ","adi":null,"kimlikNo":89411,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80885,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":80886,"il_id":66,"ilce_id":1655}
+{"koyAdi":"BAŞKÖY","koyKayitNo":34205,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞKÖY KÖYÜ","adi":null,"kimlikNo":89413,"il_id":66,"ilce_id":1655}
+{"koyAdi":"CAFERLİ","koyKayitNo":34206,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CAFERLİ KÖYÜ","adi":null,"kimlikNo":89414,"il_id":66,"ilce_id":1655}
+{"koyAdi":"CANKILI","koyKayitNo":34207,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CANKILI KÖYÜ","adi":null,"kimlikNo":89415,"il_id":66,"ilce_id":1655}
+{"koyAdi":"CICIKLAR","koyKayitNo":34208,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CICIKLAR KÖYÜ","adi":null,"kimlikNo":89416,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":80893,"il_id":66,"ilce_id":1655}
+{"koyAdi":"ÇAYDOĞAN","koyKayitNo":34209,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYDOĞAN KÖYÜ","adi":null,"kimlikNo":89417,"il_id":66,"ilce_id":1655}
+{"koyAdi":"DEDELİ","koyKayitNo":34210,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEDELİ KÖYÜ","adi":null,"kimlikNo":89418,"il_id":66,"ilce_id":1655}
+{"koyAdi":"EKİNCİUŞAĞI","koyKayitNo":34212,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EKİNCİUŞAĞI KÖYÜ","adi":null,"kimlikNo":89420,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"FATİH  MAHALLESİ","adi":"FATİH ","kimlikNo":80892,"il_id":66,"ilce_id":1655}
+{"koyAdi":"GÜLİSTAN","koyKayitNo":34214,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLİSTAN KÖYÜ","adi":null,"kimlikNo":89422,"il_id":66,"ilce_id":1655}
+{"koyAdi":"GÜLPINAR","koyKayitNo":34215,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLPINAR KÖYÜ","adi":null,"kimlikNo":89423,"il_id":66,"ilce_id":1655}
+{"koyAdi":"GÜZELLİ","koyKayitNo":34216,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜZELLİ KÖYÜ","adi":null,"kimlikNo":89424,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"H.BAYRAM KARABULUT MAHALLESİ","adi":"H.BAYRAM KARABULUT","kimlikNo":80887,"il_id":66,"ilce_id":1655}
+{"koyAdi":"HALLAÇLI","koyKayitNo":34217,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HALLAÇLI KÖYÜ","adi":null,"kimlikNo":89425,"il_id":66,"ilce_id":1655}
+{"koyAdi":"HAMZALI","koyKayitNo":34218,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HAMZALI KÖYÜ","adi":null,"kimlikNo":89426,"il_id":66,"ilce_id":1655}
+{"koyAdi":"HÜYÜKKIŞLA","koyKayitNo":34219,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HÜYÜKKIŞLA KÖYÜ","adi":null,"kimlikNo":89427,"il_id":66,"ilce_id":1655}
+{"koyAdi":"İBRAHİMHACILI","koyKayitNo":34220,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İBRAHİMHACILI KÖYÜ","adi":null,"kimlikNo":89428,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"İNCEŞEHİR MAHALLESİ","adi":"İNCEŞEHİR","kimlikNo":80888,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KABACIOĞLU","koyKayitNo":34221,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABACIOĞLU KÖYÜ","adi":null,"kimlikNo":89429,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KABAKİNİ","koyKayitNo":34222,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABAKİNİ KÖYÜ","adi":null,"kimlikNo":89430,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KALE MAHALLESİ","adi":"KALE","kimlikNo":80889,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KARAKAYA","koyKayitNo":34223,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAKAYA KÖYÜ","adi":null,"kimlikNo":89431,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARALAR MAHALLESİ","adi":"KARALAR","kimlikNo":183878,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KAYGILI","koyKayitNo":34225,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYGILI KÖYÜ","adi":null,"kimlikNo":89433,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KAZLIUŞAĞI","koyKayitNo":34226,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAZLIUŞAĞI KÖYÜ","adi":null,"kimlikNo":89434,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KIZILKOCA","koyKayitNo":34227,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILKOCA KÖYÜ","adi":null,"kimlikNo":89435,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KIZILYAR","koyKayitNo":34228,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILYAR KÖYÜ","adi":null,"kimlikNo":89436,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KOÇKÖY","koyKayitNo":34229,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOÇKÖY KÖYÜ","adi":null,"kimlikNo":89437,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KONAKLI MAHALLESİ","adi":"KONAKLI","kimlikNo":183876,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KUMKUYU","koyKayitNo":34231,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUMKUYU KÖYÜ","adi":null,"kimlikNo":89439,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KUZAYCA","koyKayitNo":34232,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KUZAYCA KÖYÜ, BAHÇELİEVLER MEVKİİ","adi":"BAHÇELİEVLER","kimlikNo":80894,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KUZAYCA","koyKayitNo":34232,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KUZAYCA KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":80895,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KUZAYCA","koyKayitNo":34232,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KUZAYCA KÖYÜ, SAVAŞTEPE MEVKİİ","adi":"SAVAŞTEPE","kimlikNo":80896,"il_id":66,"ilce_id":1655}
+{"koyAdi":"KÜÇÜKİNCİRLİ","koyKayitNo":34233,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKİNCİRLİ KÖYÜ","adi":null,"kimlikNo":89440,"il_id":66,"ilce_id":1655}
+{"koyAdi":"OSMANLI","koyKayitNo":34211,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OSMANLI KÖYÜ","adi":null,"kimlikNo":89419,"il_id":66,"ilce_id":1655}
+{"koyAdi":"PAŞAKÖY","koyKayitNo":34234,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAŞAKÖY KÖYÜ, BAHÇELİEVLER MEVKİİ","adi":"BAHÇELİEVLER","kimlikNo":80897,"il_id":66,"ilce_id":1655}
+{"koyAdi":"PAŞAKÖY","koyKayitNo":34234,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAŞAKÖY KÖYÜ, HASANPAŞA MEVKİİ","adi":"HASANPAŞA","kimlikNo":80899,"il_id":66,"ilce_id":1655}
+{"koyAdi":"PAŞAKÖY","koyKayitNo":34234,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAŞAKÖY KÖYÜ, YENİCAMİ MEVKİİ","adi":"YENİCAMİ","kimlikNo":80898,"il_id":66,"ilce_id":1655}
+{"koyAdi":"RIZVAN","koyKayitNo":34204,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"RIZVAN KÖYÜ","adi":null,"kimlikNo":89412,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SAATLI","koyKayitNo":34235,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAATLI KÖYÜ","adi":null,"kimlikNo":89441,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SAÇLI","koyKayitNo":34236,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAÇLI KÖYÜ","adi":null,"kimlikNo":89442,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SARIKENT","koyKayitNo":34237,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARIKENT KÖYÜ, ALTINDAĞ MEVKİİ","adi":"ALTINDAĞ","kimlikNo":80900,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SARIKENT","koyKayitNo":34237,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARIKENT KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":80901,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SARIKENT","koyKayitNo":34237,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARIKENT KÖYÜ, İSTASYON MEVKİİ","adi":"İSTASYON","kimlikNo":80902,"il_id":66,"ilce_id":1655}
+{"koyAdi":"SEYDİYAR","koyKayitNo":34242,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEYDİYAR KÖYÜ","adi":null,"kimlikNo":89447,"il_id":66,"ilce_id":1655}
+{"koyAdi":"ŞEREFOĞLU","koyKayitNo":34238,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞEREFOĞLU KÖYÜ","adi":null,"kimlikNo":89443,"il_id":66,"ilce_id":1655}
+{"koyAdi":"TAHİROĞLU","koyKayitNo":34239,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAHİROĞLU KÖYÜ","adi":null,"kimlikNo":89444,"il_id":66,"ilce_id":1655}
+{"koyAdi":"TEMLİK","koyKayitNo":34240,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEMLİK KÖYÜ","adi":null,"kimlikNo":89445,"il_id":66,"ilce_id":1655}
+{"koyAdi":"TÜRÜDÜLER","koyKayitNo":34241,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TÜRÜDÜLER KÖYÜ","adi":null,"kimlikNo":89446,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YAYLAPINAR MAHALLESİ","adi":"YAYLAPINAR","kimlikNo":80890,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34198,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80891,"il_id":66,"ilce_id":1655}
+{"koyAdi":"MERKEZ","koyKayitNo":34243,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ALTINDAĞ MAHALLESİ","adi":"ALTINDAĞ","kimlikNo":80903,"il_id":66,"ilce_id":1998}
+{"koyAdi":"BAŞPINAR","koyKayitNo":34244,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞPINAR KÖYÜ","adi":null,"kimlikNo":89448,"il_id":66,"ilce_id":1998}
+{"koyAdi":"BEKTAŞLI","koyKayitNo":34245,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BEKTAŞLI KÖYÜ, BAŞAĞA MEVKİİ","adi":"BAŞAĞA","kimlikNo":80907,"il_id":66,"ilce_id":1998}
+{"koyAdi":"BEKTAŞLI","koyKayitNo":34245,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BEKTAŞLI KÖYÜ, CAMİKEBİR MEVKİİ","adi":"CAMİKEBİR","kimlikNo":80908,"il_id":66,"ilce_id":1998}
+{"koyAdi":"BEKTAŞLI","koyKayitNo":34245,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BEKTAŞLI KÖYÜ, YENİCAMİİ MEVKİİ","adi":"YENİCAMİİ","kimlikNo":80909,"il_id":66,"ilce_id":1998}
+{"koyAdi":"BEKTAŞLI","koyKayitNo":34245,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BEKTAŞLI KÖYÜ, ZAFER MEVKİİ","adi":"ZAFER","kimlikNo":80910,"il_id":66,"ilce_id":1998}
+{"koyAdi":"MERKEZ","koyKayitNo":34243,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CANKURTARAN MAHALLESİ","adi":"CANKURTARAN","kimlikNo":80904,"il_id":66,"ilce_id":1998}
+{"koyAdi":"ÇÖPLÜÇİFTLİĞİ","koyKayitNo":34246,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇÖPLÜÇİFTLİĞİ KÖYÜ","adi":null,"kimlikNo":89449,"il_id":66,"ilce_id":1998}
+{"koyAdi":"ESKİÖREN","koyKayitNo":34247,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ESKİÖREN KÖYÜ","adi":null,"kimlikNo":89450,"il_id":66,"ilce_id":1998}
+{"koyAdi":"FEHİMLİ","koyKayitNo":34248,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FEHİMLİ KÖYÜ","adi":null,"kimlikNo":89451,"il_id":66,"ilce_id":1998}
+{"koyAdi":"MERKEZ","koyKayitNo":34243,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEHMET AKİF ERSOY MAHALLESİ","adi":"MEHMET AKİF ERSOY","kimlikNo":100158,"il_id":66,"ilce_id":1998}
+{"koyAdi":"ÜÇOBALAR","koyKayitNo":34249,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÜÇOBALAR KÖYÜ","adi":null,"kimlikNo":89452,"il_id":66,"ilce_id":1998}
+{"koyAdi":"MERKEZ","koyKayitNo":34243,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YAZLAK MAHALLESİ","adi":"YAZLAK","kimlikNo":80905,"il_id":66,"ilce_id":1998}
+{"koyAdi":"MERKEZ","koyKayitNo":34243,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİ MAHALLESİ","adi":"YENİ","kimlikNo":80906,"il_id":66,"ilce_id":1998}
+{"koyAdi":"YİĞİTLER","koyKayitNo":34250,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YİĞİTLER KÖYÜ","adi":null,"kimlikNo":89454,"il_id":66,"ilce_id":1998}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"100.YIL MAHALLESİ","adi":"100.YIL","kimlikNo":80923,"il_id":66,"ilce_id":1726}
+{"koyAdi":"AKPINAR","koyKayitNo":34252,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKPINAR KÖYÜ","adi":null,"kimlikNo":89455,"il_id":66,"ilce_id":1726}
+{"koyAdi":"AKPINAR","koyKayitNo":34252,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AKPINAR KÖYÜ, KIZIL GEDİK FABRİKA SAHASI MEVKİİ","adi":"KIZIL GEDİK FABRİKA SAHASI","kimlikNo":89456,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ALİ GALİP GENÇOĞLU MAHALLESİ","adi":"ALİ GALİP GENÇOĞLU","kimlikNo":80915,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ALTMIŞ EVLER MAHALLESİ","adi":"ALTMIŞ EVLER","kimlikNo":80924,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ARİFEOĞLU","koyKayitNo":34253,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARİFEOĞLU KÖYÜ","adi":null,"kimlikNo":89457,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ARSLANHACILI","koyKayitNo":34290,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ARSLANHACILI KÖYÜ","adi":null,"kimlikNo":89494,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ARSLANHACILI","koyKayitNo":34290,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"ARSLANHACILI KÖYÜ, YAYLAEVLERİ YAYLA EVLERİ","adi":"YAYLAEVLERİ","kimlikNo":89495,"il_id":66,"ilce_id":1726}
+{"koyAdi":"AŞAĞIELMAHACILI","koyKayitNo":34255,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIELMAHACILI KÖYÜ","adi":null,"kimlikNo":89459,"il_id":66,"ilce_id":1726}
+{"koyAdi":"AŞAĞIEYERCİ","koyKayitNo":34254,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIEYERCİ KÖYÜ","adi":null,"kimlikNo":89458,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AYANOĞLU MAHALLESİ","adi":"AYANOĞLU","kimlikNo":80912,"il_id":66,"ilce_id":1726}
+{"koyAdi":"AYDINGÜN","koyKayitNo":34256,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYDINGÜN KÖYÜ","adi":null,"kimlikNo":89460,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAĞLARBAŞI MAHALLESİ","adi":"BAĞLARBAŞI","kimlikNo":80913,"il_id":66,"ilce_id":1726}
+{"koyAdi":"BELKAVAK","koyKayitNo":34257,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BELKAVAK KÖYÜ","adi":null,"kimlikNo":89461,"il_id":66,"ilce_id":1726}
+{"koyAdi":"BESEREK","koyKayitNo":34291,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BESEREK KÖYÜ","adi":null,"kimlikNo":89496,"il_id":66,"ilce_id":1726}
+{"koyAdi":"BİCİKLER","koyKayitNo":34258,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BİCİKLER KÖYÜ","adi":null,"kimlikNo":89462,"il_id":66,"ilce_id":1726}
+{"koyAdi":"BURUNCUK","koyKayitNo":34259,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BURUNCUK KÖYÜ","adi":null,"kimlikNo":89463,"il_id":66,"ilce_id":1726}
+{"koyAdi":"CAKCAK","koyKayitNo":34260,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CAKCAK KÖYÜ","adi":null,"kimlikNo":89464,"il_id":66,"ilce_id":1726}
+{"koyAdi":"CAKCAK","koyKayitNo":34260,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CAKCAK KÖYÜ, DURAK MEVKİİ","adi":"DURAK","kimlikNo":89465,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇAKIRHACILI","koyKayitNo":34292,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAKIRHACILI KÖYÜ","adi":null,"kimlikNo":89497,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇAKIRLAR","koyKayitNo":34261,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAKIRLAR KÖYÜ","adi":null,"kimlikNo":89466,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇALIKLI","koyKayitNo":34293,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇALIKLI KÖYÜ","adi":null,"kimlikNo":89498,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇAMDİBİ","koyKayitNo":34294,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAMDİBİ KÖYÜ","adi":null,"kimlikNo":89499,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇAMLIBEL","koyKayitNo":34295,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAMLIBEL KÖYÜ","adi":null,"kimlikNo":89500,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ÇAYKÖY","koyKayitNo":34296,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYKÖY KÖYÜ","adi":null,"kimlikNo":89501,"il_id":66,"ilce_id":1726}
+{"koyAdi":"DELİCE","koyKayitNo":34262,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DELİCE KÖYÜ","adi":null,"kimlikNo":89467,"il_id":66,"ilce_id":1726}
+{"koyAdi":"DELİCE","koyKayitNo":34262,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DELİCE KÖYÜ, ABDALLAR MEVKİİ","adi":"ABDALLAR","kimlikNo":89468,"il_id":66,"ilce_id":1726}
+{"koyAdi":"DEREBAĞ","koyKayitNo":34297,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREBAĞ KÖYÜ","adi":null,"kimlikNo":89502,"il_id":66,"ilce_id":1726}
+{"koyAdi":"DERECİK","koyKayitNo":34263,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DERECİK KÖYÜ","adi":null,"kimlikNo":89469,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ERZURUM MAHALLESİ","adi":"ERZURUM","kimlikNo":80914,"il_id":66,"ilce_id":1726}
+{"koyAdi":"GÖÇERLİ","koyKayitNo":34264,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖÇERLİ KÖYÜ","adi":null,"kimlikNo":89470,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLTEPE MAHALLESİ","adi":"GÜLTEPE","kimlikNo":80916,"il_id":66,"ilce_id":1726}
+{"koyAdi":"GÜNDOĞDU","koyKayitNo":34265,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNDOĞDU KÖYÜ","adi":null,"kimlikNo":89471,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HACIÇEŞMESİ","koyKayitNo":34266,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIÇEŞMESİ KÖYÜ","adi":null,"kimlikNo":89472,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HACILI","koyKayitNo":34267,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACILI KÖYÜ","adi":null,"kimlikNo":89473,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HACIMUSALI","koyKayitNo":34268,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIMUSALI KÖYÜ","adi":null,"kimlikNo":89474,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HACIOSMANLI","koyKayitNo":34298,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIOSMANLI KÖYÜ","adi":null,"kimlikNo":89503,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HACIUŞAĞI","koyKayitNo":34269,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HACIUŞAĞI KÖYÜ","adi":null,"kimlikNo":89475,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HARGAŞAN","koyKayitNo":49305,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HARGAŞAN KÖYÜ","adi":null,"kimlikNo":196861,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HAŞİM KILIÇ MAHALLESİ","adi":"HAŞİM KILIÇ","kimlikNo":80922,"il_id":66,"ilce_id":1726}
+{"koyAdi":"HATİP","koyKayitNo":34271,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HATİP KÖYÜ","adi":null,"kimlikNo":89477,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HÜYÜK MAHALLESİ","adi":"HÜYÜK","kimlikNo":80917,"il_id":66,"ilce_id":1726}
+{"koyAdi":"İĞDECİK","koyKayitNo":49307,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İĞDECİK KÖYÜ","adi":null,"kimlikNo":196863,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KAHYAKÖY","koyKayitNo":34273,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAHYAKÖY KÖYÜ","adi":null,"kimlikNo":89479,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KALE MAHALLESİ","adi":"KALE","kimlikNo":80918,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KARAAĞAÇ","koyKayitNo":34274,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARAAĞAÇ KÖYÜ","adi":null,"kimlikNo":89480,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KARACAAHMETLİ","koyKayitNo":34275,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARACAAHMETLİ KÖYÜ","adi":null,"kimlikNo":89481,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KARACAOSMANOĞLU","koyKayitNo":34276,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARACAOSMANOĞLU KÖYÜ","adi":null,"kimlikNo":89482,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KARACAŞAR MAHALLESİ","adi":"KARACAŞAR","kimlikNo":80919,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KARLI","koyKayitNo":34299,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARLI KÖYÜ","adi":null,"kimlikNo":89504,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KAYADİBİ","koyKayitNo":34289,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYADİBİ KÖYÜ","adi":null,"kimlikNo":89493,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KOCAOĞLU","koyKayitNo":34277,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOCAOĞLU KÖYÜ","adi":null,"kimlikNo":89483,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KÖMÜŞÖREN","koyKayitNo":34278,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖMÜŞÖREN KÖYÜ","adi":null,"kimlikNo":89484,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KÖRDEVE","koyKayitNo":34279,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖRDEVE KÖYÜ","adi":null,"kimlikNo":89485,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KÖYCÜ","koyKayitNo":34280,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÖYCÜ KÖYÜ","adi":null,"kimlikNo":89486,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KUMLUCA","koyKayitNo":34281,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KUMLUCA KÖYÜ","adi":null,"kimlikNo":89487,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KÜÇÜKÇALIKLI","koyKayitNo":34300,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKÇALIKLI KÖYÜ","adi":null,"kimlikNo":89505,"il_id":66,"ilce_id":1726}
+{"koyAdi":"KÜÇÜKNEFES","koyKayitNo":34282,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KÜÇÜKNEFES KÖYÜ","adi":null,"kimlikNo":89488,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ORHAN","koyKayitNo":34301,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ORHAN KÖYÜ","adi":null,"kimlikNo":89506,"il_id":66,"ilce_id":1726}
+{"koyAdi":"POYRAZ","koyKayitNo":34302,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"POYRAZ KÖYÜ","adi":null,"kimlikNo":89507,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SALİHLİ","koyKayitNo":34303,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SALİHLİ KÖYÜ","adi":null,"kimlikNo":89508,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SARAY","koyKayitNo":34283,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARAY KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":80925,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SARAY","koyKayitNo":34283,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARAY KÖYÜ, FATİH MEVKİİ","adi":"FATİH","kimlikNo":80926,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SARAY","koyKayitNo":34283,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SARAY KÖYÜ, ORGANİZE SANAYİ BÖLGESİ MEVKİİ","adi":"ORGANİZE SANAYİ BÖLGESİ","kimlikNo":80927,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SARIYAPRAK","koyKayitNo":34284,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SARIYAPRAK KÖYÜ","adi":null,"kimlikNo":89489,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SEDİR","koyKayitNo":34304,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEDİR KÖYÜ","adi":null,"kimlikNo":89509,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SEKİLİ","koyKayitNo":34285,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SEKİLİ KÖYÜ, SAĞLIK MEVKİİ","adi":"SAĞLIK","kimlikNo":80929,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SEKİLİ","koyKayitNo":34285,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SEKİLİ KÖYÜ, VARLIK MEVKİİ","adi":"VARLIK","kimlikNo":80928,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SELÇUK MAHALLESİ","adi":"SELÇUK","kimlikNo":80920,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SUSUZ","koyKayitNo":34305,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SUSUZ KÖYÜ","adi":null,"kimlikNo":89510,"il_id":66,"ilce_id":1726}
+{"koyAdi":"SÜLEYMANLI","koyKayitNo":34306,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÜLEYMANLI KÖYÜ","adi":null,"kimlikNo":89511,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞENTEPE MAHALLESİ","adi":"ŞENTEPE","kimlikNo":80921,"il_id":66,"ilce_id":1726}
+{"koyAdi":"TERZİLİ","koyKayitNo":34307,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TERZİLİ KÖYÜ","adi":null,"kimlikNo":89512,"il_id":66,"ilce_id":1726}
+{"koyAdi":"TOPAÇ","koyKayitNo":34308,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TOPAÇ KÖYÜ","adi":null,"kimlikNo":89513,"il_id":66,"ilce_id":1726}
+{"koyAdi":"MERKEZ","koyKayitNo":34251,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"VEFİ PANDIR MAHALLESİ","adi":"VEFİ PANDIR","kimlikNo":80911,"il_id":66,"ilce_id":1726}
+{"koyAdi":"YAKUPLU","koyKayitNo":34309,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAKUPLU KÖYÜ","adi":null,"kimlikNo":89514,"il_id":66,"ilce_id":1726}
+{"koyAdi":"YERKÖY","koyKayitNo":34286,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YERKÖY KÖYÜ","adi":null,"kimlikNo":89490,"il_id":66,"ilce_id":1726}
+{"koyAdi":"YUKARIELMAHACILI","koyKayitNo":34288,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIELMAHACILI KÖYÜ","adi":null,"kimlikNo":89492,"il_id":66,"ilce_id":1726}
+{"koyAdi":"YUKARIEYERCİ","koyKayitNo":34287,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIEYERCİ KÖYÜ","adi":null,"kimlikNo":89491,"il_id":66,"ilce_id":1726}
+{"koyAdi":"YUKARIİHSANGAZİLİ","koyKayitNo":34310,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIİHSANGAZİLİ KÖYÜ","adi":null,"kimlikNo":89515,"il_id":66,"ilce_id":1726}
+{"koyAdi":"ZİNCİR","koyKayitNo":34311,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ZİNCİR KÖYÜ","adi":null,"kimlikNo":89516,"il_id":66,"ilce_id":1726}
