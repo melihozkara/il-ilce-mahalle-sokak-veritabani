@@ -1,10 +1,13 @@
 {
   "name": "adres_data",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "walker.mjs",
   "type": "module",
   "scripts": {
-    "start": "node index.mjs"
+    "build:mysql:upper": "node build-sql.mjs --db=mysql --case=upper --out=sql/uppercase_data.sql",
+    "build:mysql:title": "node build-sql.mjs --db=mysql --case=title --out=sql/titlecase_data.sql",
+    "build:psql:upper": "node build-sql.mjs --db=psql --case=upper --out=sql/uppercase_psql.sql",
+    "build:psql:title": "node build-sql.mjs --db=psql --case=title --out=sql/titlecase_psql.sql"
   },
   "keywords": [],
   "author": "melihozkara",
@@ -12,9 +15,7 @@
   "description": "İl, ilçe, mahalle, sokak, semt verilerini çekebilmek için basit nodejs projesi.",
   "dependencies": {
     "2captcha": "^3.0.5-2",
-    "mysql2": "^3.12.0",
     "puppeteer": "^24.2.0",
-    "titlecase": "^1.1.3",
     "undici": "^8.0.2"
   }
 }
