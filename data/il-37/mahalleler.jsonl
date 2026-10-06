@@ -567,7 +567,7 @@
 {"koyAdi":"ÇAMLIBÜK","koyKayitNo":18250,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇAMLIBÜK KÖYÜ, OLUKLU MEVKİİ","adi":"OLUKLU","kimlikNo":46302,"il_id":37,"ilce_id":1162}
 {"koyAdi":"ÇAMLIBÜK","koyKayitNo":18250,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇAMLIBÜK KÖYÜ, TEPEKÖY MEVKİİ","adi":"TEPEKÖY","kimlikNo":46307,"il_id":37,"ilce_id":1162}
 {"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, ÇUKURHARMAN MEVKİİ","adi":"ÇUKURHARMAN","kimlikNo":46310,"il_id":37,"ilce_id":1162}
-{"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, KÖYÜNKENDİSİ MEVKİİ","adi":"KÖYÜNKENDİSİ","kimlikNo":46309,"il_id":37,"ilce_id":1162}
+{"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":1,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, KÖYÜN KENDİSİ MAHALLESİ","adi":"KÖYÜN KENDİSİ","kimlikNo":46309,"il_id":37,"ilce_id":1162}
 {"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, MENE MEVKİİ","adi":"MENE","kimlikNo":46311,"il_id":37,"ilce_id":1162}
 {"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, SÜLLER MEVKİİ","adi":"SÜLLER","kimlikNo":46312,"il_id":37,"ilce_id":1162}
 {"koyAdi":"ÇOÇUKÖREN","koyKayitNo":18251,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOÇUKÖREN KÖYÜ, TEKKE MEVKİİ","adi":"TEKKE","kimlikNo":46308,"il_id":37,"ilce_id":1162}
@@ -2446,7 +2446,6 @@
 {"koyAdi":"ERENYOLU","koyKayitNo":18666,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERENYOLU KÖYÜ, KÜLLÜ MEVKİİ","adi":"KÜLLÜ","kimlikNo":48193,"il_id":37,"ilce_id":1410}
 {"koyAdi":"ERENYOLU","koyKayitNo":18666,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERENYOLU KÖYÜ, SERENLİ MEVKİİ","adi":"SERENLİ","kimlikNo":48194,"il_id":37,"ilce_id":1410}
 {"koyAdi":"ERENYOLU","koyKayitNo":18666,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERENYOLU KÖYÜ, ŞİŞMAN MEVKİİ","adi":"ŞİŞMAN","kimlikNo":48195,"il_id":37,"ilce_id":1410}
-{"koyAdi":"ERKEKARPA","koyKayitNo":18667,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERKEKARPA KÖYÜ, ERKEKARPA MÜCAVİR MEVKİİ","adi":"ERKEKARPA MÜCAVİR","kimlikNo":140103,"il_id":37,"ilce_id":1410}
 {"koyAdi":"ERKEKARPA","koyKayitNo":18667,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERKEKARPA KÖYÜ, GÖLLER MEVKİİ","adi":"GÖLLER","kimlikNo":48197,"il_id":37,"ilce_id":1410}
 {"koyAdi":"ERKEKARPA","koyKayitNo":18667,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERKEKARPA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":48196,"il_id":37,"ilce_id":1410}
 {"koyAdi":"ESENYURT","koyKayitNo":18668,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENYURT KÖYÜ, DEMİRCİ MEVKİİ","adi":"DEMİRCİ","kimlikNo":48199,"il_id":37,"ilce_id":1410}

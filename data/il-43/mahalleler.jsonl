@@ -454,7 +454,6 @@
 {"koyAdi":"MERKEZ","koyKayitNo":21011,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GEVEN MAHALLESİ","adi":"GEVEN","kimlikNo":140571,"il_id":43,"ilce_id":1500}
 {"koyAdi":"GÖÇERİ","koyKayitNo":21041,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖÇERİ KÖYÜ","adi":null,"kimlikNo":54941,"il_id":43,"ilce_id":1500}
 {"koyAdi":"GÖYNÜKÖREN","koyKayitNo":21042,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖYNÜKÖREN KÖYÜ","adi":null,"kimlikNo":54942,"il_id":43,"ilce_id":1500}
-{"koyAdi":"GÖYNÜKÖREN","koyKayitNo":21042,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖYNÜKÖREN KÖYÜ, GÖYNÜKÖREN MÜCAVİR MEVKİİ","adi":"GÖYNÜKÖREN MÜCAVİR","kimlikNo":98603,"il_id":43,"ilce_id":1500}
 {"koyAdi":"GÖYNÜKÖREN","koyKayitNo":21042,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖYNÜKÖREN KÖYÜ, PORSUK ÇİFTLİĞİ MEVKİİ","adi":"PORSUK ÇİFTLİĞİ","kimlikNo":54943,"il_id":43,"ilce_id":1500}
 {"koyAdi":"GÜLLÜDERE","koyKayitNo":21043,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜDERE KÖYÜ","adi":null,"kimlikNo":54944,"il_id":43,"ilce_id":1500}
 {"koyAdi":"MERKEZ","koyKayitNo":21011,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLTEPE MAHALLESİ","adi":"GÜLTEPE","kimlikNo":51399,"il_id":43,"ilce_id":1500}
@@ -535,7 +534,6 @@
 {"koyAdi":"SAKAÇİFTLİĞİ","koyKayitNo":21066,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAKAÇİFTLİĞİ KÖYÜ","adi":null,"kimlikNo":54970,"il_id":43,"ilce_id":1500}
 {"koyAdi":"MERKEZ","koyKayitNo":21011,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SARAY MAHALLESİ","adi":"SARAY","kimlikNo":51419,"il_id":43,"ilce_id":1500}
 {"koyAdi":"SEKİÖREN","koyKayitNo":21067,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEKİÖREN KÖYÜ","adi":null,"kimlikNo":54971,"il_id":43,"ilce_id":1500}
-{"koyAdi":"SEKİÖREN","koyKayitNo":21067,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SEKİÖREN KÖYÜ, SEKİÖREN MÜCAVİR MEVKİİ","adi":"SEKİÖREN MÜCAVİR","kimlikNo":98596,"il_id":43,"ilce_id":1500}
 {"koyAdi":"MERKEZ","koyKayitNo":21011,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SERVİ MAHALLESİ","adi":"SERVİ","kimlikNo":51418,"il_id":43,"ilce_id":1500}
 {"koyAdi":"SEYDİKÖY","koyKayitNo":21118,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEYDİKÖY KÖYÜ","adi":null,"kimlikNo":55022,"il_id":43,"ilce_id":1500}
 {"koyAdi":"SEYİTÖMER","koyKayitNo":21068,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"SEYİTÖMER BELDESİ, BOZCAHÖYÜK MAHALLESİ","adi":"BOZCAHÖYÜK","kimlikNo":51460,"il_id":43,"ilce_id":1500}
@@ -649,8 +647,6 @@
 {"koyAdi":"GILMANLAR","koyKayitNo":21478,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GILMANLAR KÖYÜ","adi":null,"kimlikNo":55408,"il_id":43,"ilce_id":1625}
 {"koyAdi":"GÖKÇELER","koyKayitNo":21419,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKÇELER KÖYÜ","adi":null,"kimlikNo":55351,"il_id":43,"ilce_id":1625}
 {"koyAdi":"GÖLKÖY","koyKayitNo":21420,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖLKÖY KÖYÜ","adi":null,"kimlikNo":55352,"il_id":43,"ilce_id":1625}
-{"koyAdi":"GÜMÜŞSU","koyKayitNo":21436,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜMÜŞSU KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":51626,"il_id":43,"ilce_id":1625}
-{"koyAdi":"GÜMÜŞSU","koyKayitNo":21436,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜMÜŞSU KÖYÜ, HÜRRİYET MEVKİİ","adi":"HÜRRİYET","kimlikNo":51627,"il_id":43,"ilce_id":1625}
 {"koyAdi":"GÜNEY","koyKayitNo":21421,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜNEY BELDESİ, CUMA MAHALLESİ","adi":"CUMA","kimlikNo":51618,"il_id":43,"ilce_id":1625}
 {"koyAdi":"GÜNEY","koyKayitNo":21421,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜNEY BELDESİ, FATİH MAHALLESİ","adi":"FATİH","kimlikNo":51619,"il_id":43,"ilce_id":1625}
 {"koyAdi":"GÜZELYURT","koyKayitNo":21470,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜZELYURT KÖYÜ","adi":null,"kimlikNo":55397,"il_id":43,"ilce_id":1625}
@@ -684,6 +680,8 @@
 {"koyAdi":"KAYALIDERE","koyKayitNo":21434,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAYALIDERE KÖYÜ","adi":null,"kimlikNo":55368,"il_id":43,"ilce_id":1625}
 {"koyAdi":"KAYALIDERE","koyKayitNo":21434,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KAYALIDERE KÖYÜ, MERCANLAR MEVKİİ","adi":"MERCANLAR","kimlikNo":55367,"il_id":43,"ilce_id":1625}
 {"koyAdi":"MERKEZ","koyKayitNo":21401,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KEKLİKTEPE MAHALLESİ","adi":"KEKLİKTEPE","kimlikNo":51595,"il_id":43,"ilce_id":1625}
+{"koyAdi":"KELEMYENİCE","koyKayitNo":21436,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KELEMYENİCE KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":51626,"il_id":43,"ilce_id":1625}
+{"koyAdi":"KELEMYENİCE","koyKayitNo":21436,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KELEMYENİCE KÖYÜ, HÜRRİYET MEVKİİ","adi":"HÜRRİYET","kimlikNo":51627,"il_id":43,"ilce_id":1625}
 {"koyAdi":"KESTEL","koyKayitNo":21437,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KESTEL KÖYÜ, FATİH MEVKİİ","adi":"FATİH","kimlikNo":51629,"il_id":43,"ilce_id":1625}
 {"koyAdi":"KESTEL","koyKayitNo":21437,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KESTEL KÖYÜ, GAZİ MEVKİİ","adi":"GAZİ","kimlikNo":51630,"il_id":43,"ilce_id":1625}
 {"koyAdi":"KIZILCIK","koyKayitNo":21438,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KIZILCIK KÖYÜ","adi":null,"kimlikNo":55370,"il_id":43,"ilce_id":1625}

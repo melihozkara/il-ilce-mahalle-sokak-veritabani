@@ -185,7 +185,6 @@
 {"koyAdi":"BOSTANÖZÜ","koyKayitNo":35148,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOSTANÖZÜ KÖYÜ","adi":null,"kimlikNo":92832,"il_id":70,"ilce_id":1439}
 {"koyAdi":"BOYALI","koyKayitNo":35101,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOYALI KÖYÜ","adi":null,"kimlikNo":92752,"il_id":70,"ilce_id":1439}
 {"koyAdi":"BOZKANDAK","koyKayitNo":35102,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOZKANDAK KÖYÜ","adi":null,"kimlikNo":92753,"il_id":70,"ilce_id":1439}
-{"koyAdi":"BÖLÜKYAZI","koyKayitNo":35103,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÖLÜKYAZI KÖYÜ","adi":null,"kimlikNo":92754,"il_id":70,"ilce_id":1439}
 {"koyAdi":"BUCAKKIŞLA","koyKayitNo":35141,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BUCAKKIŞLA KÖYÜ","adi":null,"kimlikNo":92821,"il_id":70,"ilce_id":1439}
 {"koyAdi":"BURHAN","koyKayitNo":35104,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BURHAN KÖYÜ, AŞAĞI MEVKİİ","adi":"AŞAĞI","kimlikNo":92763,"il_id":70,"ilce_id":1439}
 {"koyAdi":"BURHAN","koyKayitNo":35104,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BURHAN KÖYÜ, BAĞLIK MEVKİİ","adi":"BAĞLIK","kimlikNo":92761,"il_id":70,"ilce_id":1439}
@@ -304,6 +303,7 @@
 {"koyAdi":"MADENŞEHRİ","koyKayitNo":35174,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MADENŞEHRİ KÖYÜ","adi":null,"kimlikNo":92866,"il_id":70,"ilce_id":1439}
 {"koyAdi":"MERKEZ","koyKayitNo":35091,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MAHMUDİYE MAHALLESİ","adi":"MAHMUDİYE","kimlikNo":90189,"il_id":70,"ilce_id":1439}
 {"koyAdi":"MERKEZ","koyKayitNo":35091,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MANSURDEDE MAHALLESİ","adi":"MANSURDEDE","kimlikNo":90190,"il_id":70,"ilce_id":1439}
+{"koyAdi":"MASARA","koyKayitNo":35103,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MASARA KÖYÜ","adi":null,"kimlikNo":92754,"il_id":70,"ilce_id":1439}
 {"koyAdi":"MEDRESELİK","koyKayitNo":35125,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MEDRESELİK KÖYÜ","adi":null,"kimlikNo":92805,"il_id":70,"ilce_id":1439}
 {"koyAdi":"MERKEZ","koyKayitNo":35091,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MEHMET AKİF ERSOY MAHALLESİ","adi":"MEHMET AKİF ERSOY","kimlikNo":90191,"il_id":70,"ilce_id":1439}
 {"koyAdi":"MESUDİYE","koyKayitNo":35126,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MESUDİYE KÖYÜ","adi":null,"kimlikNo":92806,"il_id":70,"ilce_id":1439}

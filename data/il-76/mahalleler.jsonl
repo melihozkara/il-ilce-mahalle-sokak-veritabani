@@ -159,6 +159,7 @@
 {"koyAdi":"BAHÇECİK","koyKayitNo":36652,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"BAHÇECİK KÖYÜ, DİPSİZ MEZRASI","adi":"DİPSİZ","kimlikNo":95586,"il_id":76,"ilce_id":1692}
 {"koyAdi":"BAHÇECİK","koyKayitNo":36652,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"BAHÇECİK KÖYÜ, RAĞBET MEZRASI","adi":"RAĞBET","kimlikNo":95587,"il_id":76,"ilce_id":1692}
 {"koyAdi":"BAHÇELİMEYDAN","koyKayitNo":36653,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHÇELİMEYDAN KÖYÜ","adi":null,"kimlikNo":95588,"il_id":76,"ilce_id":1692}
+{"koyAdi":"BEYLER","koyKayitNo":36671,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEYLER KÖYÜ","adi":null,"kimlikNo":95608,"il_id":76,"ilce_id":1692}
 {"koyAdi":"BEYOĞLU","koyKayitNo":36654,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEYOĞLU KÖYÜ","adi":null,"kimlikNo":95589,"il_id":76,"ilce_id":1692}
 {"koyAdi":"BOSTANLI","koyKayitNo":36655,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOSTANLI KÖYÜ","adi":null,"kimlikNo":95590,"il_id":76,"ilce_id":1692}
 {"koyAdi":"BURUKSU","koyKayitNo":36604,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BURUKSU KÖYÜ","adi":null,"kimlikNo":95518,"il_id":76,"ilce_id":1692}
@@ -174,7 +175,6 @@
 {"koyAdi":"GAZİLER","koyKayitNo":36646,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GAZİLER KÖYÜ","adi":null,"kimlikNo":95579,"il_id":76,"ilce_id":1692}
 {"koyAdi":"GEDİKLİ","koyKayitNo":36609,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GEDİKLİ KÖYÜ","adi":null,"kimlikNo":95524,"il_id":76,"ilce_id":1692}
 {"koyAdi":"GÖKTAŞ","koyKayitNo":36610,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKTAŞ KÖYÜ","adi":null,"kimlikNo":95525,"il_id":76,"ilce_id":1692}
-{"koyAdi":"GÖKTAŞ","koyKayitNo":36610,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖKTAŞ KÖYÜ, YENİKÖY MEVKİİ","adi":"YENİKÖY","kimlikNo":95526,"il_id":76,"ilce_id":1692}
 {"koyAdi":"GÜLLÜCE","koyKayitNo":36611,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜCE KÖYÜ","adi":null,"kimlikNo":95527,"il_id":76,"ilce_id":1692}
 {"koyAdi":"GÜLLÜCE","koyKayitNo":36611,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜLLÜCE KÖYÜ, GÜLTEPE MEVKİİ","adi":"GÜLTEPE","kimlikNo":95528,"il_id":76,"ilce_id":1692}
 {"koyAdi":"GÜZELDERE","koyKayitNo":36658,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜZELDERE KÖYÜ","adi":null,"kimlikNo":95594,"il_id":76,"ilce_id":1692}
@@ -229,7 +229,6 @@
 {"koyAdi":"SÜRMELİ","koyKayitNo":36635,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SÜRMELİ KÖYÜ, PİRLİ MEVKİİ","adi":"PİRLİ","kimlikNo":95555,"il_id":76,"ilce_id":1692}
 {"koyAdi":"TAŞUÇAN","koyKayitNo":36636,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAŞUÇAN KÖYÜ","adi":null,"kimlikNo":95557,"il_id":76,"ilce_id":1692}
 {"koyAdi":"TAŞUÇAN","koyKayitNo":36636,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"TAŞUÇAN KÖYÜ, KOÇBAŞI MEZRASI","adi":"KOÇBAŞI","kimlikNo":95558,"il_id":76,"ilce_id":1692}
-{"koyAdi":"TEZEKÇİ","koyKayitNo":36671,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEZEKÇİ KÖYÜ","adi":null,"kimlikNo":95608,"il_id":76,"ilce_id":1692}
 {"koyAdi":"TURABİ","koyKayitNo":36637,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TURABİ KÖYÜ","adi":null,"kimlikNo":95559,"il_id":76,"ilce_id":1692}
 {"koyAdi":"TUTAK","koyKayitNo":36638,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TUTAK KÖYÜ","adi":null,"kimlikNo":95561,"il_id":76,"ilce_id":1692}
 {"koyAdi":"UĞRUCA","koyKayitNo":36672,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"UĞRUCA KÖYÜ","adi":null,"kimlikNo":95609,"il_id":76,"ilce_id":1692}

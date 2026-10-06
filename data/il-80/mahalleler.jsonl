@@ -204,7 +204,7 @@
 {"koyAdi":"ANBERİNARKI","koyKayitNo":37249,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ANBERİNARKI KÖYÜ","adi":null,"kimlikNo":97216,"il_id":80,"ilce_id":1423}
 {"koyAdi":"AŞAĞIBOZKUYU","koyKayitNo":37250,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AŞAĞIBOZKUYU KÖYÜ, DİKENLİ MEVKİİ","adi":"DİKENLİ","kimlikNo":197439,"il_id":80,"ilce_id":1423}
 {"koyAdi":"AŞAĞIBOZKUYU","koyKayitNo":37250,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AŞAĞIBOZKUYU KÖYÜ, KÖYÜN KENDİSİ MEVKİİ","adi":"KÖYÜN KENDİSİ","kimlikNo":197437,"il_id":80,"ilce_id":1423}
-{"koyAdi":"AŞAĞIÇAYANLI","koyKayitNo":37251,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIÇAYANLI KÖYÜ","adi":null,"kimlikNo":97222,"il_id":80,"ilce_id":1423}
+{"koyAdi":"AŞAĞIÇİYANLI","koyKayitNo":37251,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIÇİYANLI KÖYÜ","adi":null,"kimlikNo":97222,"il_id":80,"ilce_id":1423}
 {"koyAdi":"AYDINLAR","koyKayitNo":37252,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AYDINLAR KÖYÜ, AHMETFAKILAR MEVKİİ","adi":"AHMETFAKILAR","kimlikNo":97230,"il_id":80,"ilce_id":1423}
 {"koyAdi":"AYDINLAR","koyKayitNo":37252,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AYDINLAR KÖYÜ, BAHÇECİLER MEVKİİ","adi":"BAHÇECİLER","kimlikNo":97225,"il_id":80,"ilce_id":1423}
 {"koyAdi":"AYDINLAR","koyKayitNo":37252,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AYDINLAR KÖYÜ, ÇİLDİRLER MEVKİİ","adi":"ÇİLDİRLER","kimlikNo":97226,"il_id":80,"ilce_id":1423}
@@ -220,13 +220,13 @@
 {"koyAdi":"BEKERECİ","koyKayitNo":37255,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BEKERECİ KÖYÜ","adi":null,"kimlikNo":97235,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CEMALPAŞA MAHALLESİ","adi":"CEMALPAŞA","kimlikNo":91120,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CENGİZ TOPEL MAHALLESİ","adi":"CENGİZ TOPEL","kimlikNo":91121,"il_id":80,"ilce_id":1423}
+{"koyAdi":"CIĞCIK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CIĞCIK KÖYÜ, ALABEYLİ MEVKİİ","adi":"ALABEYLİ","kimlikNo":97239,"il_id":80,"ilce_id":1423}
+{"koyAdi":"CIĞCIK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CIĞCIK KÖYÜ, GANİAĞALAR MEVKİİ","adi":"GANİAĞALAR","kimlikNo":97238,"il_id":80,"ilce_id":1423}
+{"koyAdi":"CIĞCIK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CIĞCIK KÖYÜ, HÜSEYİNLER MEVKİİ","adi":"HÜSEYİNLER","kimlikNo":197441,"il_id":80,"ilce_id":1423}
+{"koyAdi":"CIĞCIK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CIĞCIK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97240,"il_id":80,"ilce_id":1423}
 {"koyAdi":"COŞKUNLAR","koyKayitNo":37256,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"COŞKUNLAR KÖYÜ","adi":null,"kimlikNo":97236,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ÇAYGEÇİT","koyKayitNo":37305,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYGEÇİT KÖYÜ","adi":null,"kimlikNo":97414,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ÇINAR","koyKayitNo":37257,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇINAR KÖYÜ","adi":null,"kimlikNo":97237,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ÇİĞCİK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞCİK KÖYÜ, ALABEYLİ MEVKİİ","adi":"ALABEYLİ","kimlikNo":97239,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ÇİĞCİK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞCİK KÖYÜ, GANİAĞALAR MEVKİİ","adi":"GANİAĞALAR","kimlikNo":97238,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ÇİĞCİK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞCİK KÖYÜ, HÜSEYİNLER MEVKİİ","adi":"HÜSEYİNLER","kimlikNo":197441,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ÇİĞCİK","koyKayitNo":37258,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞCİK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97240,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ÇİĞDEMLİ","koyKayitNo":37259,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞDEMLİ KÖYÜ, ÇİĞİLLİ MEVKİİ","adi":"ÇİĞİLLİ","kimlikNo":97241,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ÇİĞDEMLİ","koyKayitNo":37259,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞDEMLİ KÖYÜ, GÖZÜBÖYÜKLÜ MEVKİİ","adi":"GÖZÜBÖYÜKLÜ","kimlikNo":97244,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ÇİĞDEMLİ","koyKayitNo":37259,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇİĞDEMLİ KÖYÜ, KÖYÜN KENDİSİ MEVKİİ","adi":"KÖYÜN KENDİSİ","kimlikNo":197443,"il_id":80,"ilce_id":1423}
@@ -242,7 +242,6 @@
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DERE MAHALLESİ","adi":"DERE","kimlikNo":91122,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DERVİŞPAŞA MAHALLESİ","adi":"DERVİŞPAŞA","kimlikNo":91123,"il_id":80,"ilce_id":1423}
 {"koyAdi":"DURMUŞSOFULAR","koyKayitNo":37261,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DURMUŞSOFULAR KÖYÜ","adi":null,"kimlikNo":97266,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ELBİSTANLI","koyKayitNo":37262,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ELBİSTANLI KÖYÜ","adi":null,"kimlikNo":97267,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ERDOĞDU","koyKayitNo":37263,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERDOĞDU KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97268,"il_id":80,"ilce_id":1423}
 {"koyAdi":"ERDOĞDU","koyKayitNo":37263,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ERDOĞDU KÖYÜ, YARMADİBİ MEVKİİ","adi":"YARMADİBİ","kimlikNo":97269,"il_id":80,"ilce_id":1423}
 {"koyAdi":"GÖZTAŞI","koyKayitNo":37264,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖZTAŞI KÖYÜ, HASARKAYA MEVKİİ","adi":"HASARKAYA","kimlikNo":97272,"il_id":80,"ilce_id":1423}
@@ -259,9 +258,10 @@
 {"koyAdi":"HARDALLIK","koyKayitNo":37306,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARDALLIK KÖYÜ, AKKIZLAR MEVKİİ","adi":"AKKIZLAR","kimlikNo":97417,"il_id":80,"ilce_id":1423}
 {"koyAdi":"HARDALLIK","koyKayitNo":37306,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARDALLIK KÖYÜ, GÖÇMENLER MEVKİİ","adi":"GÖÇMENLER","kimlikNo":97416,"il_id":80,"ilce_id":1423}
 {"koyAdi":"HARDALLIK","koyKayitNo":37306,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARDALLIK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97419,"il_id":80,"ilce_id":1423}
-{"koyAdi":"HARKAŞTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HARKAŞTIĞI KÖYÜ","adi":null,"kimlikNo":97280,"il_id":80,"ilce_id":1423}
-{"koyAdi":"HARKAŞTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARKAŞTIĞI KÖYÜ, YANIKLAR MEVKİİ","adi":"YANIKLAR","kimlikNo":197455,"il_id":80,"ilce_id":1423}
-{"koyAdi":"HARKAŞTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARKAŞTIĞI KÖYÜ, ZİYANLI MEVKİİ","adi":"ZİYANLI","kimlikNo":197457,"il_id":80,"ilce_id":1423}
+{"koyAdi":"HARKAÇTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HARKAÇTIĞI KÖYÜ","adi":null,"kimlikNo":97280,"il_id":80,"ilce_id":1423}
+{"koyAdi":"HARKAÇTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARKAÇTIĞI KÖYÜ, YANIKLAR MEVKİİ","adi":"YANIKLAR","kimlikNo":197455,"il_id":80,"ilce_id":1423}
+{"koyAdi":"HARKAÇTIĞI","koyKayitNo":37267,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HARKAÇTIĞI KÖYÜ, ZİYANLI MEVKİİ","adi":"ZİYANLI","kimlikNo":197457,"il_id":80,"ilce_id":1423}
+{"koyAdi":"İLBİSTANLI","koyKayitNo":37262,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İLBİSTANLI KÖYÜ","adi":null,"kimlikNo":97267,"il_id":80,"ilce_id":1423}
 {"koyAdi":"KABAYAR","koyKayitNo":37307,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABAYAR KÖYÜ","adi":null,"kimlikNo":97421,"il_id":80,"ilce_id":1423}
 {"koyAdi":"KARABACAK","koyKayitNo":37268,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARABACAK KÖYÜ","adi":null,"kimlikNo":97281,"il_id":80,"ilce_id":1423}
 {"koyAdi":"KARAKÜTÜK","koyKayitNo":37269,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KARAKÜTÜK KÖYÜ, ÇONTARLAR MEVKİİ","adi":"ÇONTARLAR","kimlikNo":197461,"il_id":80,"ilce_id":1423}
@@ -366,7 +366,7 @@
 {"koyAdi":"SOFULAR","koyKayitNo":37287,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SOFULAR KÖYÜ, ABUZERLİ MEVKİİ","adi":"ABUZERLİ","kimlikNo":181720,"il_id":80,"ilce_id":1423}
 {"koyAdi":"SOFULAR","koyKayitNo":37287,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SOFULAR KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97368,"il_id":80,"ilce_id":1423}
 {"koyAdi":"SÖĞÜTLÜDERE","koyKayitNo":37288,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖĞÜTLÜDERE KÖYÜ","adi":null,"kimlikNo":97370,"il_id":80,"ilce_id":1423}
-{"koyAdi":"ŞAHAPLI","koyKayitNo":37289,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞAHAPLI KÖYÜ","adi":null,"kimlikNo":97371,"il_id":80,"ilce_id":1423}
+{"koyAdi":"ŞABAPLI","koyKayitNo":37289,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞABAPLI KÖYÜ","adi":null,"kimlikNo":97371,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİT HALİS ŞİŞMAN MAHALLESİ","adi":"ŞEHİT HALİS ŞİŞMAN","kimlikNo":91127,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİT İBRAHİM KUNDAKÇI MAHALLESİ","adi":"ŞEHİT İBRAHİM KUNDAKÇI","kimlikNo":91128,"il_id":80,"ilce_id":1423}
 {"koyAdi":"MERKEZ","koyKayitNo":37247,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİT KANSU KÜÇÜKATEŞ MAHALLESİ","adi":"ŞEHİT KANSU KÜÇÜKATEŞ","kimlikNo":91129,"il_id":80,"ilce_id":1423}
@@ -407,16 +407,16 @@
 {"koyAdi":"YOĞUNOLUK","koyKayitNo":37299,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YOĞUNOLUK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97397,"il_id":80,"ilce_id":1423}
 {"koyAdi":"YOĞUNOLUK","koyKayitNo":37299,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YOĞUNOLUK KÖYÜ, ZİNDEĞEN MEVKİİ","adi":"ZİNDEĞEN","kimlikNo":97395,"il_id":80,"ilce_id":1423}
 {"koyAdi":"YUKARIBOZKUYU","koyKayitNo":37300,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YUKARIBOZKUYU KÖYÜ","adi":null,"kimlikNo":97400,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, BOZERLER MEVKİİ","adi":"BOZERLER","kimlikNo":97409,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, ÇİNÇİKLER SOLAKLAR MEVKİİ","adi":"ÇİNÇİKLER SOLAKLAR","kimlikNo":97408,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, DÖĞÜŞ GEDİĞİ MEVKİİ","adi":"DÖĞÜŞ GEDİĞİ","kimlikNo":97404,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, HAYVALI MEVKİİ","adi":"HAYVALI","kimlikNo":97403,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, İSPİRLER MEVKİİ","adi":"İSPİRLER","kimlikNo":97406,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, KARATOPAKLI MEVKİİ","adi":"KARATOPAKLI","kimlikNo":97402,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, MOLLA DURDULAR MEVKİİ","adi":"MOLLA DURDULAR","kimlikNo":466847,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, SEMERCİLER MEVKİİ","adi":"SEMERCİLER","kimlikNo":97405,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, TEKEREKLİ MEVKİİ","adi":"TEKEREKLİ","kimlikNo":97401,"il_id":80,"ilce_id":1423}
-{"koyAdi":"YUKARIÇAYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇAYANLI KÖYÜ, ÜDÜRÜKLER MEVKİİ","adi":"ÜDÜRÜKLER","kimlikNo":97407,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, BOZERLER MEVKİİ","adi":"BOZERLER","kimlikNo":97409,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, ÇİNÇİKLER SOLAKLAR MEVKİİ","adi":"ÇİNÇİKLER SOLAKLAR","kimlikNo":97408,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, DÖĞÜŞ GEDİĞİ MEVKİİ","adi":"DÖĞÜŞ GEDİĞİ","kimlikNo":97404,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, HAYVALI MEVKİİ","adi":"HAYVALI","kimlikNo":97403,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, İSPİRLER MEVKİİ","adi":"İSPİRLER","kimlikNo":97406,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, KARATOPAKLI MEVKİİ","adi":"KARATOPAKLI","kimlikNo":97402,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, MOLLA DURDULAR MEVKİİ","adi":"MOLLA DURDULAR","kimlikNo":466847,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, SEMERCİLER MEVKİİ","adi":"SEMERCİLER","kimlikNo":97405,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, TEKEREKLİ MEVKİİ","adi":"TEKEREKLİ","kimlikNo":97401,"il_id":80,"ilce_id":1423}
+{"koyAdi":"YUKARIÇİYANLI","koyKayitNo":37301,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUKARIÇİYANLI KÖYÜ, ÜDÜRÜKLER MEVKİİ","adi":"ÜDÜRÜKLER","kimlikNo":97407,"il_id":80,"ilce_id":1423}
 {"koyAdi":"YUSUFİZZETTİN","koyKayitNo":37302,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUSUFİZZETTİN KÖYÜ, KADİRLİOSB MEVKİİ","adi":"KADİRLİOSB","kimlikNo":91139,"il_id":80,"ilce_id":1423}
 {"koyAdi":"YUSUFİZZETTİN","koyKayitNo":37302,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUSUFİZZETTİN KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":97411,"il_id":80,"ilce_id":1423}
 {"koyAdi":"YUSUFİZZETTİN","koyKayitNo":37302,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUSUFİZZETTİN KÖYÜ, PAMPALLI MEVKİİ","adi":"PAMPALLI","kimlikNo":97410,"il_id":80,"ilce_id":1423}

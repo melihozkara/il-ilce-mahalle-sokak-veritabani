@@ -295,7 +295,6 @@
 {"koyAdi":"DUYGULU","koyKayitNo":35661,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"DUYGULU KÖYÜ, YOLBAŞI MEZRASI","adi":"YOLBAŞI","kimlikNo":93564,"il_id":72,"ilce_id":1487}
 {"koyAdi":"DÜVECİK","koyKayitNo":35662,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DÜVECİK KÖYÜ","adi":null,"kimlikNo":93565,"il_id":72,"ilce_id":1487}
 {"koyAdi":"ESKİCE","koyKayitNo":35663,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ESKİCE KÖYÜ","adi":null,"kimlikNo":93566,"il_id":72,"ilce_id":1487}
-{"koyAdi":"ESKİCE","koyKayitNo":35663,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ESKİCE KÖYÜ, SATI MEZRASI","adi":"SATI","kimlikNo":93567,"il_id":72,"ilce_id":1487}
 {"koyAdi":"ESKİCE","koyKayitNo":35663,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESKİCE KÖYÜ, SEYİTLER MEVKİİ","adi":"SEYİTLER","kimlikNo":197081,"il_id":72,"ilce_id":1487}
 {"koyAdi":"GEÇİTALTI","koyKayitNo":35637,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GEÇİTALTI KÖYÜ","adi":null,"kimlikNo":93507,"il_id":72,"ilce_id":1487}
 {"koyAdi":"GEÇİTALTI","koyKayitNo":35637,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GEÇİTALTI KÖYÜ, GELŞE MEVKİİ","adi":"GELŞE","kimlikNo":196711,"il_id":72,"ilce_id":1487}
@@ -370,6 +369,7 @@
 {"koyAdi":"PINARHİSAR","koyKayitNo":35675,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"PINARHİSAR KÖYÜ, YEŞİLTEPE MEZRASI","adi":"YEŞİLTEPE","kimlikNo":93595,"il_id":72,"ilce_id":1487}
 {"koyAdi":"MERKEZ","koyKayitNo":35631,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SAĞLIK MAHALLESİ","adi":"SAĞLIK","kimlikNo":832832,"il_id":72,"ilce_id":1487}
 {"koyAdi":"SAMANYOLU","koyKayitNo":35676,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAMANYOLU KÖYÜ","adi":null,"kimlikNo":93596,"il_id":72,"ilce_id":1487}
+{"koyAdi":"SATI","koyKayitNo":795237,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"SATI KÖYÜ, KÖYÜN KENDİSİ MEZRASI","adi":"KÖYÜN KENDİSİ","kimlikNo":93567,"il_id":72,"ilce_id":1487}
 {"koyAdi":"MERKEZ","koyKayitNo":35631,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SELAHADDİNİ EYYÜBİ MAHALLESİ","adi":"SELAHADDİNİ EYYÜBİ","kimlikNo":99379,"il_id":72,"ilce_id":1487}
 {"koyAdi":"SEYİTLER","koyKayitNo":37778,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SEYİTLER KÖYÜ, KÖYÜN KENDİSİ MEVKİİ","adi":"KÖYÜN KENDİSİ","kimlikNo":93579,"il_id":72,"ilce_id":1487}
 {"koyAdi":"SEYRANTEPE","koyKayitNo":35646,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SEYRANTEPE KÖYÜ","adi":null,"kimlikNo":93529,"il_id":72,"ilce_id":1487}

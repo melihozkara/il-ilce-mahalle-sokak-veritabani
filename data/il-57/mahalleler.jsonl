@@ -136,7 +136,7 @@
 {"koyAdi":"GÖLKÖY","koyKayitNo":28126,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖLKÖY KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":74833,"il_id":57,"ilce_id":1156}
 {"koyAdi":"GÖLKÖY","koyKayitNo":28126,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖLKÖY KÖYÜ, ŞIHLAR MEVKİİ","adi":"ŞIHLAR","kimlikNo":74836,"il_id":57,"ilce_id":1156}
 {"koyAdi":"GÖLKÖY","koyKayitNo":28126,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖLKÖY KÖYÜ, VELET MEVKİİ","adi":"VELET","kimlikNo":74835,"il_id":57,"ilce_id":1156}
-{"koyAdi":"GÜLPINAR","koyKayitNo":28127,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLPINAR KÖYÜ","adi":null,"kimlikNo":74837,"il_id":57,"ilce_id":1156}
+{"koyAdi":"GÜRPINAR","koyKayitNo":28127,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜRPINAR KÖYÜ","adi":null,"kimlikNo":74837,"il_id":57,"ilce_id":1156}
 {"koyAdi":"GÜRSÖKÜ","koyKayitNo":28128,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜRSÖKÜ KÖYÜ, ECEK MEVKİİ","adi":"ECEK","kimlikNo":74841,"il_id":57,"ilce_id":1156}
 {"koyAdi":"GÜRSÖKÜ","koyKayitNo":28128,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜRSÖKÜ KÖYÜ, HÜSEYİN USTA MEVKİİ","adi":"HÜSEYİN USTA","kimlikNo":74844,"il_id":57,"ilce_id":1156}
 {"koyAdi":"GÜRSÖKÜ","koyKayitNo":28128,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜRSÖKÜ KÖYÜ, IŞIKLAR MEVKİİ","adi":"IŞIKLAR","kimlikNo":74839,"il_id":57,"ilce_id":1156}
@@ -236,7 +236,6 @@
 {"koyAdi":"PAZARCIK","koyKayitNo":28102,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAZARCIK KÖYÜ, KOÇVAZ MEVKİİ","adi":"KOÇVAZ","kimlikNo":74716,"il_id":57,"ilce_id":1156}
 {"koyAdi":"PAZARCIK","koyKayitNo":28102,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAZARCIK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":74715,"il_id":57,"ilce_id":1156}
 {"koyAdi":"PAZARCIK","koyKayitNo":28102,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAZARCIK KÖYÜ, ÖRENSE MEVKİİ","adi":"ÖRENSE","kimlikNo":74717,"il_id":57,"ilce_id":1156}
-{"koyAdi":"PAZARCIK","koyKayitNo":28102,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAZARCIK KÖYÜ, PAZARCIK MÜCAVİR MEVKİİ","adi":"PAZARCIK MÜCAVİR","kimlikNo":98785,"il_id":57,"ilce_id":1156}
 {"koyAdi":"PAZARCIK","koyKayitNo":28102,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"PAZARCIK KÖYÜ, TANIŞMAN MEVKİİ","adi":"TANIŞMAN","kimlikNo":74718,"il_id":57,"ilce_id":1156}
 {"koyAdi":"SOFU","koyKayitNo":28103,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SOFU KÖYÜ, HAMDİ MEVKİİ","adi":"HAMDİ","kimlikNo":74719,"il_id":57,"ilce_id":1156}
 {"koyAdi":"SOFU","koyKayitNo":28103,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SOFU KÖYÜ, KAPI MEVKİİ","adi":"KAPI","kimlikNo":74722,"il_id":57,"ilce_id":1156}
@@ -415,7 +414,6 @@
 {"koyAdi":"DARIÖZÜ","koyKayitNo":28176,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DARIÖZÜ KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":75019,"il_id":57,"ilce_id":1204}
 {"koyAdi":"DARIÖZÜ","koyKayitNo":28176,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DARIÖZÜ KÖYÜ, SÜYEME MEVKİİ","adi":"SÜYEME","kimlikNo":75018,"il_id":57,"ilce_id":1204}
 {"koyAdi":"DAYLI","koyKayitNo":28177,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DAYLI KÖYÜ","adi":null,"kimlikNo":75020,"il_id":57,"ilce_id":1204}
-{"koyAdi":"DAYLI","koyKayitNo":28177,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DAYLI KÖYÜ, ADNAN MENDERES (DAYLI MÜCAVİR) MEVKİİ","adi":"ADNAN MENDERES (DAYLI MÜCAVİR)","kimlikNo":100047,"il_id":57,"ilce_id":1204}
 {"koyAdi":"DEREÇATI","koyKayitNo":28178,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREÇATI KÖYÜ","adi":null,"kimlikNo":75021,"il_id":57,"ilce_id":1204}
 {"koyAdi":"DODURGA","koyKayitNo":28179,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"DODURGA KÖYÜ, AŞAĞI MEVKİİ","adi":"AŞAĞI","kimlikNo":75024,"il_id":57,"ilce_id":1204}
 {"koyAdi":"DODURGA","koyKayitNo":28179,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"DODURGA KÖYÜ, ÇAL YAYLA EVLERİ","adi":"ÇAL","kimlikNo":75023,"il_id":57,"ilce_id":1204}
@@ -483,7 +481,7 @@
 {"koyAdi":"HAMZALI","koyKayitNo":28198,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HAMZALI KÖYÜ, KARAÇAYIR MEVKİİ","adi":"KARAÇAYIR","kimlikNo":75085,"il_id":57,"ilce_id":1204}
 {"koyAdi":"HAMZALI","koyKayitNo":28198,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HAMZALI KÖYÜ, KARAÇOMAK MEVKİİ","adi":"KARAÇOMAK","kimlikNo":75088,"il_id":57,"ilce_id":1204}
 {"koyAdi":"HAMZALI","koyKayitNo":28198,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HAMZALI KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":75087,"il_id":57,"ilce_id":1204}
-{"koyAdi":"ILICAKÖY","koyKayitNo":28199,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ILICAKÖY KÖYÜ","adi":null,"kimlikNo":75089,"il_id":57,"ilce_id":1204}
+{"koyAdi":"ILICA","koyKayitNo":28199,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ILICA KÖYÜ","adi":null,"kimlikNo":75089,"il_id":57,"ilce_id":1204}
 {"koyAdi":"İMAMLI","koyKayitNo":28200,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İMAMLI KÖYÜ","adi":null,"kimlikNo":75090,"il_id":57,"ilce_id":1204}
 {"koyAdi":"İMAMLI","koyKayitNo":28200,"koyKurumBelediyeTur":null,"mahalleTur":6,"bilesenAdi":"İMAMLI KÖYÜ, DAMLACA MEVKİİ","adi":"DAMLACA","kimlikNo":75091,"il_id":57,"ilce_id":1204}
 {"koyAdi":"İSAOĞLU","koyKayitNo":28201,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İSAOĞLU KÖYÜ, CAMİLİ MEVKİİ","adi":"CAMİLİ","kimlikNo":75095,"il_id":57,"ilce_id":1204}
@@ -567,7 +565,6 @@
 {"koyAdi":"OKÇUMEHMETLİ","koyKayitNo":28226,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"OKÇUMEHMETLİ KÖYÜ","adi":null,"kimlikNo":75169,"il_id":57,"ilce_id":1204}
 {"koyAdi":"OSMANKÖY","koyKayitNo":28227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANKÖY KÖYÜ, ELMACIK MEVKİİ","adi":"ELMACIK","kimlikNo":75172,"il_id":57,"ilce_id":1204}
 {"koyAdi":"OSMANKÖY","koyKayitNo":28227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANKÖY KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":75170,"il_id":57,"ilce_id":1204}
-{"koyAdi":"OSMANKÖY","koyKayitNo":28227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"OSMANKÖY KÖYÜ, OSMANKÖY KÜMEEVLER MÜCAVİR MEVKİİ","adi":"OSMANKÖY KÜMEEVLER MÜCAVİR","kimlikNo":100048,"il_id":57,"ilce_id":1204}
 {"koyAdi":"ÖMERKÖY","koyKayitNo":28228,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖMERKÖY KÖYÜ","adi":null,"kimlikNo":75173,"il_id":57,"ilce_id":1204}
 {"koyAdi":"ÖREN","koyKayitNo":28229,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖREN KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":75175,"il_id":57,"ilce_id":1204}
 {"koyAdi":"ÖREN","koyKayitNo":28229,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖREN KÖYÜ, YUKARIMAH MEVKİİ","adi":"YUKARIMAH","kimlikNo":75174,"il_id":57,"ilce_id":1204}

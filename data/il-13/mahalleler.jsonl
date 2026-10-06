@@ -206,7 +206,6 @@
 {"koyAdi":"BUDAKLI","koyKayitNo":6367,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"BUDAKLI KÖYÜ, SAMANYOLU MEZRASI","adi":"SAMANYOLU","kimlikNo":17204,"il_id":13,"ilce_id":1394}
 {"koyAdi":"ÇALIŞKANLAR","koyKayitNo":6368,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇALIŞKANLAR KÖYÜ","adi":null,"kimlikNo":17205,"il_id":13,"ilce_id":1394}
 {"koyAdi":"ÇATAKDEĞİRMEN","koyKayitNo":6406,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇATAKDEĞİRMEN KÖYÜ","adi":null,"kimlikNo":17308,"il_id":13,"ilce_id":1394}
-{"koyAdi":"ÇATAKDEĞİRMEN","koyKayitNo":6406,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ÇATAKDEĞİRMEN KÖYÜ, ÇAYIRLI MEZRASI","adi":"ÇAYIRLI","kimlikNo":17310,"il_id":13,"ilce_id":1394}
 {"koyAdi":"ÇATAKDEĞİRMEN","koyKayitNo":6406,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ÇATAKDEĞİRMEN KÖYÜ, KİŞ MEZRASI","adi":"KİŞ","kimlikNo":17309,"il_id":13,"ilce_id":1394}
 {"koyAdi":"ÇAVUŞLAR","koyKayitNo":834713,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAVUŞLAR KÖYÜ","adi":null,"kimlikNo":17340,"il_id":13,"ilce_id":1394}
 {"koyAdi":"ÇAYIR","koyKayitNo":6369,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇAYIR KÖYÜ","adi":null,"kimlikNo":17206,"il_id":13,"ilce_id":1394}
@@ -267,8 +266,8 @@
 {"koyAdi":"İÇLİKAVAL","koyKayitNo":6375,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"İÇLİKAVAL KÖYÜ, HIDIR MEZRASI","adi":"HIDIR","kimlikNo":17221,"il_id":13,"ilce_id":1394}
 {"koyAdi":"İNCİRLİ","koyKayitNo":6397,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İNCİRLİ KÖYÜ","adi":null,"kimlikNo":17288,"il_id":13,"ilce_id":1394}
 {"koyAdi":"KALKANLI","koyKayitNo":6418,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KALKANLI KÖYÜ","adi":null,"kimlikNo":17330,"il_id":13,"ilce_id":1394}
+{"koyAdi":"KALKANLI","koyKayitNo":6418,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KALKANLI KÖYÜ, AŞAĞIGÖZE MEZRASI","adi":"AŞAĞIGÖZE","kimlikNo":17331,"il_id":13,"ilce_id":1394}
 {"koyAdi":"KALKANLI","koyKayitNo":6418,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KALKANLI KÖYÜ, CEVİZLİ MEZRASI","adi":"CEVİZLİ","kimlikNo":17332,"il_id":13,"ilce_id":1394}
-{"koyAdi":"KALKANLI","koyKayitNo":6418,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KALKANLI KÖYÜ, GÖZE MEZRASI","adi":"GÖZE","kimlikNo":17331,"il_id":13,"ilce_id":1394}
 {"koyAdi":"KAPISUYU","koyKayitNo":6376,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAPISUYU KÖYÜ","adi":null,"kimlikNo":17222,"il_id":13,"ilce_id":1394}
 {"koyAdi":"KAPISUYU","koyKayitNo":6376,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KAPISUYU KÖYÜ, ÇİÇEKLİ MEZRASI","adi":"ÇİÇEKLİ","kimlikNo":17224,"il_id":13,"ilce_id":1394}
 {"koyAdi":"KAPISUYU","koyKayitNo":6376,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KAPISUYU KÖYÜ, YAZMALI MEZRASI","adi":"YAZMALI","kimlikNo":17223,"il_id":13,"ilce_id":1394}
@@ -411,8 +410,7 @@
 {"koyAdi":"ESENBURUN","koyKayitNo":6265,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ESENBURUN KÖYÜ, KÜLLİCE MEVKİİ","adi":"KÜLLİCE","kimlikNo":99349,"il_id":13,"ilce_id":1196}
 {"koyAdi":"MERKEZ","koyKayitNo":6200,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GAZİ BEY MAHALLESİ","adi":"GAZİ BEY","kimlikNo":10748,"il_id":13,"ilce_id":1196}
 {"koyAdi":"GEÇİTBAŞI","koyKayitNo":6230,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GEÇİTBAŞI KÖYÜ","adi":null,"kimlikNo":17028,"il_id":13,"ilce_id":1196}
-{"koyAdi":"GEÇİTBAŞI","koyKayitNo":6230,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GEÇİTBAŞI KÖYÜ, BOYLU MEZRASI","adi":"BOYLU","kimlikNo":17030,"il_id":13,"ilce_id":1196}
-{"koyAdi":"GEÇİTBAŞI","koyKayitNo":6230,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GEÇİTBAŞI KÖYÜ, KAPLI MEZRASI","adi":"KAPLI","kimlikNo":17029,"il_id":13,"ilce_id":1196}
+{"koyAdi":"GEÇİTBAŞI","koyKayitNo":6230,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GEÇİTBAŞI KÖYÜ, KAPALI MEZRASI","adi":"KAPALI","kimlikNo":17029,"il_id":13,"ilce_id":1196}
 {"koyAdi":"MERKEZ","koyKayitNo":6200,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HERSAN MAHALLESİ","adi":"HERSAN","kimlikNo":10749,"il_id":13,"ilce_id":1196}
 {"koyAdi":"MERKEZ","koyKayitNo":6200,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HÜSREV PAŞA MAHALLESİ","adi":"HÜSREV PAŞA","kimlikNo":10750,"il_id":13,"ilce_id":1196}
 {"koyAdi":"ILICAK","koyKayitNo":6231,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ILICAK KÖYÜ","adi":null,"kimlikNo":17031,"il_id":13,"ilce_id":1196}
@@ -430,7 +428,7 @@
 {"koyAdi":"KINALI","koyKayitNo":6268,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KINALI KÖYÜ, BAYIRLI MEVKİİ","adi":"BAYIRLI","kimlikNo":99348,"il_id":13,"ilce_id":1196}
 {"koyAdi":"KİREÇTAŞI","koyKayitNo":6209,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KİREÇTAŞI KÖYÜ","adi":null,"kimlikNo":17002,"il_id":13,"ilce_id":1196}
 {"koyAdi":"KOKARSU","koyKayitNo":6236,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KOKARSU KÖYÜ","adi":null,"kimlikNo":17037,"il_id":13,"ilce_id":1196}
-{"koyAdi":"KOKARSU","koyKayitNo":6236,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KOKARSU KÖYÜ, ÇAYLI MEZRASI","adi":"ÇAYLI","kimlikNo":17038,"il_id":13,"ilce_id":1196}
+{"koyAdi":"KOKARSU","koyKayitNo":6236,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KOKARSU KÖYÜ, ÇAYIRLI MEZRASI","adi":"ÇAYIRLI","kimlikNo":17038,"il_id":13,"ilce_id":1196}
 {"koyAdi":"KOKARSU","koyKayitNo":6236,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KOKARSU KÖYÜ, ÇUBUK MEVKİİ","adi":"ÇUBUK","kimlikNo":140031,"il_id":13,"ilce_id":1196}
 {"koyAdi":"KONALGA","koyKayitNo":6269,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KONALGA KÖYÜ","adi":null,"kimlikNo":17077,"il_id":13,"ilce_id":1196}
 {"koyAdi":"KONUKSAYAR","koyKayitNo":6210,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KONUKSAYAR KÖYÜ","adi":null,"kimlikNo":17003,"il_id":13,"ilce_id":1196}

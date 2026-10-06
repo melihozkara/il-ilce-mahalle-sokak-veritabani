@@ -4,6 +4,7 @@
 {"koyAdi":"AKPINAR","koyKayitNo":9211,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKPINAR KÖYÜ","adi":null,"kimlikNo":24002,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ALACAHÜYÜK","koyKayitNo":9212,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ALACAHÜYÜK KÖYÜ, HÖYÜK MEVKİİ","adi":"HÖYÜK","kimlikNo":20360,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ALTINTAŞ","koyKayitNo":9213,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALTINTAŞ KÖYÜ","adi":null,"kimlikNo":24003,"il_id":19,"ilce_id":1124}
+{"koyAdi":"AVUTMUŞ","koyKayitNo":9237,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AVUTMUŞ KÖYÜ","adi":null,"kimlikNo":24025,"il_id":19,"ilce_id":1124}
 {"koyAdi":"MERKEZ","koyKayitNo":9207,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AYHAN MAHALLESİ","adi":"AYHAN","kimlikNo":20353,"il_id":19,"ilce_id":1124}
 {"koyAdi":"BAHÇELİ","koyKayitNo":9214,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHÇELİ KÖYÜ","adi":null,"kimlikNo":24004,"il_id":19,"ilce_id":1124}
 {"koyAdi":"BALÇIKHİSAR","koyKayitNo":9215,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BALÇIKHİSAR KÖYÜ","adi":null,"kimlikNo":24005,"il_id":19,"ilce_id":1124}
@@ -33,13 +34,11 @@
 {"koyAdi":"ÇOPRAŞIK","koyKayitNo":9235,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOPRAŞIK KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":20367,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ÇOPRAŞIK","koyKayitNo":9235,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇOPRAŞIK KÖYÜ, FATİH MEVKİİ","adi":"FATİH","kimlikNo":20368,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ÇÖPLÜ","koyKayitNo":9236,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇÖPLÜ KÖYÜ","adi":null,"kimlikNo":24024,"il_id":19,"ilce_id":1124}
-{"koyAdi":"ÇÖPLÜAVUTMUŞ","koyKayitNo":9237,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÇÖPLÜAVUTMUŞ KÖYÜ","adi":null,"kimlikNo":24025,"il_id":19,"ilce_id":1124}
 {"koyAdi":"DEDEPINAR","koyKayitNo":9238,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEDEPINAR KÖYÜ","adi":null,"kimlikNo":24026,"il_id":19,"ilce_id":1124}
 {"koyAdi":"DEĞİRMENDERESİ","koyKayitNo":9239,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEĞİRMENDERESİ KÖYÜ","adi":null,"kimlikNo":24027,"il_id":19,"ilce_id":1124}
 {"koyAdi":"DEĞİRMENÖNÜ","koyKayitNo":9240,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEĞİRMENÖNÜ KÖYÜ","adi":null,"kimlikNo":24028,"il_id":19,"ilce_id":1124}
 {"koyAdi":"MERKEZ","koyKayitNo":9207,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"DENİZHAN MAHALLESİ","adi":"DENİZHAN","kimlikNo":20356,"il_id":19,"ilce_id":1124}
 {"koyAdi":"DEREYAZICI","koyKayitNo":9241,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DEREYAZICI KÖYÜ","adi":null,"kimlikNo":24029,"il_id":19,"ilce_id":1124}
-{"koyAdi":"DUTLUCA","koyKayitNo":9243,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"DUTLUCA KÖYÜ","adi":null,"kimlikNo":24031,"il_id":19,"ilce_id":1124}
 {"koyAdi":"EREN","koyKayitNo":9244,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EREN KÖYÜ","adi":null,"kimlikNo":24032,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ESKİYAPAR","koyKayitNo":9245,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ESKİYAPAR KÖYÜ","adi":null,"kimlikNo":24033,"il_id":19,"ilce_id":1124}
 {"koyAdi":"EVCİ","koyKayitNo":9246,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"EVCİ KÖYÜ","adi":null,"kimlikNo":24034,"il_id":19,"ilce_id":1124}
@@ -102,6 +101,7 @@
 {"koyAdi":"TAHİRABAT","koyKayitNo":9296,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAHİRABAT KÖYÜ","adi":null,"kimlikNo":24084,"il_id":19,"ilce_id":1124}
 {"koyAdi":"TEVFİKİYE","koyKayitNo":9297,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TEVFİKİYE KÖYÜ","adi":null,"kimlikNo":24085,"il_id":19,"ilce_id":1124}
 {"koyAdi":"TUTAŞ","koyKayitNo":9298,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TUTAŞ KÖYÜ","adi":null,"kimlikNo":24086,"il_id":19,"ilce_id":1124}
+{"koyAdi":"TUTLUCA","koyKayitNo":9243,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TUTLUCA KÖYÜ","adi":null,"kimlikNo":24031,"il_id":19,"ilce_id":1124}
 {"koyAdi":"ÜNALAN","koyKayitNo":9299,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÜNALAN KÖYÜ","adi":null,"kimlikNo":24087,"il_id":19,"ilce_id":1124}
 {"koyAdi":"YATANKAVAK","koyKayitNo":9300,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YATANKAVAK KÖYÜ","adi":null,"kimlikNo":24088,"il_id":19,"ilce_id":1124}
 {"koyAdi":"YENİCE","koyKayitNo":9301,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YENİCE KÖYÜ","adi":null,"kimlikNo":24089,"il_id":19,"ilce_id":1124}

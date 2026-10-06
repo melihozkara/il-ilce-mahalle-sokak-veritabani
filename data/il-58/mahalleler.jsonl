@@ -136,8 +136,7 @@
 {"koyAdi":"GÖLÖREN","koyKayitNo":28798,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖLÖREN KÖYÜ","adi":null,"kimlikNo":76742,"il_id":58,"ilce_id":1282}
 {"koyAdi":"GÖLÖREN","koyKayitNo":28798,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÖLÖREN KÖYÜ, KAYGISIZ MEVKİİ","adi":"KAYGISIZ","kimlikNo":76743,"il_id":58,"ilce_id":1282}
 {"koyAdi":"GÖNDÜREN","koyKayitNo":28780,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖNDÜREN KÖYÜ","adi":null,"kimlikNo":76719,"il_id":58,"ilce_id":1282}
-{"koyAdi":"GÖZECİK (MERKEZ BUCAĞI)","koyKayitNo":28728,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖZECİK (MERKEZ BUCAĞI) KÖYÜ","adi":null,"kimlikNo":76616,"il_id":58,"ilce_id":1282}
-{"koyAdi":"GÖZECİK (SİNCAN BUCAĞI)","koyKayitNo":28799,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖZECİK (SİNCAN BUCAĞI) KÖYÜ","adi":null,"kimlikNo":76744,"il_id":58,"ilce_id":1282}
+{"koyAdi":"GÖZECİK","koyKayitNo":28728,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖZECİK KÖYÜ","adi":null,"kimlikNo":76616,"il_id":58,"ilce_id":1282}
 {"koyAdi":"MERKEZ","koyKayitNo":28709,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLLÜBAĞ MAHALLESİ","adi":"GÜLLÜBAĞ","kimlikNo":70345,"il_id":58,"ilce_id":1282}
 {"koyAdi":"GÜLLÜCE","koyKayitNo":28800,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜLLÜCE KÖYÜ","adi":null,"kimlikNo":76745,"il_id":58,"ilce_id":1282}
 {"koyAdi":"GÜLLÜCE","koyKayitNo":28800,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GÜLLÜCE KÖYÜ, HALİLBEY MEZRASI","adi":"HALİLBEY","kimlikNo":76746,"il_id":58,"ilce_id":1282}
@@ -222,6 +221,7 @@
 {"koyAdi":"ÖLÇEKLİ","koyKayitNo":28808,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖLÇEKLİ KÖYÜ","adi":null,"kimlikNo":76758,"il_id":58,"ilce_id":1282}
 {"koyAdi":"ÖLÇEKLİ","koyKayitNo":28808,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ÖLÇEKLİ KÖYÜ, ÖZLÜCE MEZRASI","adi":"ÖZLÜCE","kimlikNo":76759,"il_id":58,"ilce_id":1282}
 {"koyAdi":"ÖZBAĞI","koyKayitNo":28809,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ÖZBAĞI KÖYÜ","adi":null,"kimlikNo":76760,"il_id":58,"ilce_id":1282}
+{"koyAdi":"PURUNÖNÜ","koyKayitNo":28799,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"PURUNÖNÜ KÖYÜ","adi":null,"kimlikNo":76744,"il_id":58,"ilce_id":1282}
 {"koyAdi":"MERKEZ","koyKayitNo":28709,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"PURUNSUR MAHALLESİ","adi":"PURUNSUR","kimlikNo":183796,"il_id":58,"ilce_id":1282}
 {"koyAdi":"SELİMOĞLU","koyKayitNo":28766,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SELİMOĞLU KÖYÜ","adi":null,"kimlikNo":76672,"il_id":58,"ilce_id":1282}
 {"koyAdi":"SIRÇALI","koyKayitNo":28810,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SIRÇALI KÖYÜ","adi":null,"kimlikNo":76761,"il_id":58,"ilce_id":1282}
@@ -1849,10 +1849,10 @@
 {"koyAdi":"KADIKÖY","koyKayitNo":29633,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KADIKÖY KÖYÜ","adi":null,"kimlikNo":78025,"il_id":58,"ilce_id":1731}
 {"koyAdi":"KADILI","koyKayitNo":29549,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KADILI KÖYÜ","adi":null,"kimlikNo":77943,"il_id":58,"ilce_id":1731}
 {"koyAdi":"KALEKÖY","koyKayitNo":29601,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KALEKÖY KÖYÜ","adi":null,"kimlikNo":77993,"il_id":58,"ilce_id":1731}
-{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KALIN BELDESİ, CAMİİ MAHALLESİ","adi":"CAMİİ","kimlikNo":70522,"il_id":58,"ilce_id":1731}
-{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KALIN BELDESİ, ŞEHİTOSMAN MAHALLESİ","adi":"ŞEHİTOSMAN","kimlikNo":70523,"il_id":58,"ilce_id":1731}
-{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KALIN BELDESİ, TERMAL MAHALLESİ","adi":"TERMAL","kimlikNo":70525,"il_id":58,"ilce_id":1731}
-{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"KALIN BELDESİ, ZAFER MAHALLESİ","adi":"ZAFER","kimlikNo":70524,"il_id":58,"ilce_id":1731}
+{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALIN KÖYÜ, CAMİİ MEVKİİ","adi":"CAMİİ","kimlikNo":70522,"il_id":58,"ilce_id":1731}
+{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALIN KÖYÜ, ŞEHİTOSMAN MEVKİİ","adi":"ŞEHİTOSMAN","kimlikNo":70523,"il_id":58,"ilce_id":1731}
+{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALIN KÖYÜ, TERMAL MEVKİİ","adi":"TERMAL","kimlikNo":70525,"il_id":58,"ilce_id":1731}
+{"koyAdi":"KALIN","koyKayitNo":29602,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALIN KÖYÜ, ZAFER MEVKİİ","adi":"ZAFER","kimlikNo":70524,"il_id":58,"ilce_id":1731}
 {"koyAdi":"KAMAN","koyKayitNo":29550,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAMAN KÖYÜ","adi":null,"kimlikNo":77944,"il_id":58,"ilce_id":1731}
 {"koyAdi":"KAPAKLIKAYA","koyKayitNo":29603,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAPAKLIKAYA KÖYÜ","adi":null,"kimlikNo":77994,"il_id":58,"ilce_id":1731}
 {"koyAdi":"KAPI","koyKayitNo":29634,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAPI KÖYÜ","adi":null,"kimlikNo":78026,"il_id":58,"ilce_id":1731}
@@ -2222,9 +2222,9 @@
 {"koyAdi":"ŞAFAKLI","koyKayitNo":29714,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ŞAFAKLI KÖYÜ, HAÇYURT MEZRASI","adi":"HAÇYURT","kimlikNo":78207,"il_id":58,"ilce_id":1738}
 {"koyAdi":"MERKEZ","koyKayitNo":29655,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİTLER MAHALLESİ","adi":"ŞEHİTLER","kimlikNo":70538,"il_id":58,"ilce_id":1738}
 {"koyAdi":"ŞENYAYLA","koyKayitNo":29782,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ŞENYAYLA KÖYÜ","adi":null,"kimlikNo":78416,"il_id":58,"ilce_id":1738}
-{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ŞEREFİYE BELDESİ, ATATÜRK MAHALLESİ","adi":"ATATÜRK","kimlikNo":70541,"il_id":58,"ilce_id":1738}
-{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ŞEREFİYE BELDESİ, FATİH MAHALLESİ","adi":"FATİH","kimlikNo":70542,"il_id":58,"ilce_id":1738}
-{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ŞEREFİYE BELDESİ, KARŞIYAKA MAHALLESİ","adi":"KARŞIYAKA","kimlikNo":70543,"il_id":58,"ilce_id":1738}
+{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ŞEREFİYE KÖYÜ, ATATÜRK MEVKİİ","adi":"ATATÜRK","kimlikNo":70541,"il_id":58,"ilce_id":1738}
+{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ŞEREFİYE KÖYÜ, FATİH MEVKİİ","adi":"FATİH","kimlikNo":70542,"il_id":58,"ilce_id":1738}
+{"koyAdi":"ŞEREFİYE","koyKayitNo":29766,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ŞEREFİYE KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":70543,"il_id":58,"ilce_id":1738}
 {"koyAdi":"MERKEZ","koyKayitNo":29655,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEYHMERZUBAN MAHALLESİ","adi":"ŞEYHMERZUBAN","kimlikNo":70539,"il_id":58,"ilce_id":1738}
 {"koyAdi":"TAŞGÖZE","koyKayitNo":29759,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TAŞGÖZE KÖYÜ","adi":null,"kimlikNo":78372,"il_id":58,"ilce_id":1738}
 {"koyAdi":"TAŞGÖZE","koyKayitNo":29759,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"TAŞGÖZE KÖYÜ, AZİZAĞA MEZRASI","adi":"AZİZAĞA","kimlikNo":78365,"il_id":58,"ilce_id":1738}

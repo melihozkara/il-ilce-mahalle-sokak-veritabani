@@ -999,9 +999,6 @@
 {"koyAdi":"IŞIK","koyKayitNo":15225,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"IŞIK KÖYÜ, MERKEZ MH. MEVKİİ","adi":"MERKEZ MH.","kimlikNo":38056,"il_id":29,"ilce_id":1684}
 {"koyAdi":"İLECİK","koyKayitNo":15226,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İLECİK KÖYÜ, ACEKİSE MH. MEVKİİ","adi":"ACEKİSE MH.","kimlikNo":38060,"il_id":29,"ilce_id":1684}
 {"koyAdi":"İLECİK","koyKayitNo":15226,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İLECİK KÖYÜ, MERKEZ  MEVKİİ","adi":"MERKEZ ","kimlikNo":38058,"il_id":29,"ilce_id":1684}
-{"koyAdi":"İNKILAP","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İNKILAP KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":38062,"il_id":29,"ilce_id":1684}
-{"koyAdi":"İNKILAP","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İNKILAP KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":38064,"il_id":29,"ilce_id":1684}
-{"koyAdi":"İNKILAP","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"İNKILAP KÖYÜ, YEDE MEVKİİ","adi":"YEDE","kimlikNo":38063,"il_id":29,"ilce_id":1684}
 {"koyAdi":"KALECİK","koyKayitNo":15228,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALECİK KÖYÜ, KADİRLİ MEVKİİ","adi":"KADİRLİ","kimlikNo":38065,"il_id":29,"ilce_id":1684}
 {"koyAdi":"KALECİK","koyKayitNo":15228,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALECİK KÖYÜ, KONAK MEVKİİ","adi":"KONAK","kimlikNo":38067,"il_id":29,"ilce_id":1684}
 {"koyAdi":"KALECİK","koyKayitNo":15228,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KALECİK KÖYÜ, MEHMETLİ MEVKİİ","adi":"MEHMETLİ","kimlikNo":38066,"il_id":29,"ilce_id":1684}
@@ -1040,6 +1037,9 @@
 {"koyAdi":"KÜÇÜKÇİT","koyKayitNo":15233,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"KÜÇÜKÇİT KÖYÜ, YAYLA   EVLERİ YAYLA EVLERİ","adi":"YAYLA   EVLERİ","kimlikNo":38101,"il_id":29,"ilce_id":1684}
 {"koyAdi":"KÜÇÜKÇİT","koyKayitNo":15233,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"KÜÇÜKÇİT KÖYÜ, YAYLA EVLERİ YAYLA EVLERİ","adi":"YAYLA EVLERİ","kimlikNo":38100,"il_id":29,"ilce_id":1684}
 {"koyAdi":"MERKEZ","koyKayitNo":15204,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":30985,"il_id":29,"ilce_id":1684}
+{"koyAdi":"MUSALLA","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"MUSALLA KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":38062,"il_id":29,"ilce_id":1684}
+{"koyAdi":"MUSALLA","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"MUSALLA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":38064,"il_id":29,"ilce_id":1684}
+{"koyAdi":"MUSALLA","koyKayitNo":15227,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"MUSALLA KÖYÜ, YEDE MEVKİİ","adi":"YEDE","kimlikNo":38063,"il_id":29,"ilce_id":1684}
 {"koyAdi":"MERKEZ","koyKayitNo":15204,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SOĞUKSU MAHALLESİ","adi":"SOĞUKSU","kimlikNo":30986,"il_id":29,"ilce_id":1684}
 {"koyAdi":"TOKÇAM","koyKayitNo":15234,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TOKÇAM KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":38103,"il_id":29,"ilce_id":1684}
 {"koyAdi":"TOKÇAM","koyKayitNo":15234,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"TOKÇAM KÖYÜ, TOKÇAM YAYLA EVLERİ","adi":"TOKÇAM","kimlikNo":38106,"il_id":29,"ilce_id":1684}

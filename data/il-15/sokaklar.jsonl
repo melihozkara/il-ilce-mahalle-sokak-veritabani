@@ -1470,7 +1470,12 @@
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"48 (Sokak)","adi":"48","kimlikNo":846928,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"5. (Sokak)","adi":"5.","kimlikNo":602610,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"50 (Sokak)","adi":"50","kimlikNo":912837,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
+{"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"51. (Sokak)","adi":"51.","kimlikNo":987800831,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
+{"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"57. (Sokak)","adi":"57.","kimlikNo":981077171,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
+{"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"58. (Sokak)","adi":"58.","kimlikNo":712700781,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
+{"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"59. (Sokak)","adi":"59.","kimlikNo":743257051,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"6. (Sokak)","adi":"6.","kimlikNo":602171,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
+{"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"60. (Sokak)","adi":"60.","kimlikNo":840805971,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"7. (Sokak)","adi":"7.","kimlikNo":278952,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":2,"bilesenAdi":"ALPARSLAN TÜRKEŞ (Bulvar)","adi":"ALPARSLAN TÜRKEŞ","kimlikNo":1230449,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
 {"mahalleKayitNo":11027,"turKod":4,"bilesenAdi":"BİNBAŞI LEVENT ARSLAN (Sokak)","adi":"BİNBAŞI LEVENT ARSLAN","kimlikNo":278956,"il_id":15,"ilce_id":1211,"mahalle_id":11027}
@@ -1496,6 +1501,7 @@
 {"mahalleKayitNo":11025,"turKod":4,"bilesenAdi":"92. (Sokak)","adi":"92.","kimlikNo":47238043,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
 {"mahalleKayitNo":11025,"turKod":4,"bilesenAdi":"93. (Sokak)","adi":"93.","kimlikNo":38626842,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
 {"mahalleKayitNo":11025,"turKod":4,"bilesenAdi":"94. (Sokak)","adi":"94.","kimlikNo":52018074,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
+{"mahalleKayitNo":11025,"turKod":4,"bilesenAdi":"95 (Sokak)","adi":"95","kimlikNo":994061671,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
 {"mahalleKayitNo":11025,"turKod":4,"bilesenAdi":"AHMET ŞİMŞEK (Sokak)","adi":"AHMET ŞİMŞEK","kimlikNo":131867,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
 {"mahalleKayitNo":11025,"turKod":2,"bilesenAdi":"ALPARSLAN TÜRKEŞ (Bulvar)","adi":"ALPARSLAN TÜRKEŞ","kimlikNo":1230445,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
 {"mahalleKayitNo":11025,"turKod":3,"bilesenAdi":"ATATÜRK (Cadde)","adi":"ATATÜRK","kimlikNo":131869,"il_id":15,"ilce_id":1211,"mahalle_id":11025}
@@ -4338,7 +4344,6 @@
 {"mahalleKayitNo":19574,"turKod":4,"bilesenAdi":"4 NOLU (Sokak)","adi":"4 NOLU","kimlikNo":535826,"il_id":15,"ilce_id":1813,"mahalle_id":19574}
 {"mahalleKayitNo":19574,"turKod":4,"bilesenAdi":"9 NOLU (Sokak)","adi":"9 NOLU","kimlikNo":16619173,"il_id":15,"ilce_id":1813,"mahalle_id":19574}
 {"mahalleKayitNo":11070,"turKod":4,"bilesenAdi":"102 NOLU (Sokak)","adi":"102 NOLU","kimlikNo":1219213,"il_id":15,"ilce_id":1813,"mahalle_id":11070}
-{"mahalleKayitNo":11070,"turKod":4,"bilesenAdi":"86 NOLU (Sokak)","adi":"86 NOLU","kimlikNo":130810,"il_id":15,"ilce_id":1813,"mahalle_id":11070}
 {"mahalleKayitNo":11070,"turKod":4,"bilesenAdi":"AZİZLER (Sokak)","adi":"AZİZLER","kimlikNo":130811,"il_id":15,"ilce_id":1813,"mahalle_id":11070}
 {"mahalleKayitNo":11070,"turKod":4,"bilesenAdi":"BALAMUT (Sokak)","adi":"BALAMUT","kimlikNo":1219281,"il_id":15,"ilce_id":1813,"mahalle_id":11070}
 {"mahalleKayitNo":11070,"turKod":4,"bilesenAdi":"BEKİRLER (Sokak)","adi":"BEKİRLER","kimlikNo":130812,"il_id":15,"ilce_id":1813,"mahalle_id":11070}
@@ -4393,9 +4398,8 @@
 {"mahalleKayitNo":11071,"turKod":4,"bilesenAdi":"TOPCULAR ÇIKMAZI (Sokak)","adi":"TOPCULAR ÇIKMAZI","kimlikNo":399983,"il_id":15,"ilce_id":1813,"mahalle_id":11071}
 {"mahalleKayitNo":11071,"turKod":3,"bilesenAdi":"YAYLA (Cadde)","adi":"YAYLA","kimlikNo":130836,"il_id":15,"ilce_id":1813,"mahalle_id":11071}
 {"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"100 NOLU (Sokak)","adi":"100 NOLU","kimlikNo":399986,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
-{"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"55 NOLU (Sokak)","adi":"55 NOLU","kimlikNo":130840,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
-{"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"57 NOLU (Sokak)","adi":"57 NOLU","kimlikNo":22450,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
-{"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"59 NOLU (Sokak)","adi":"59 NOLU","kimlikNo":131164,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
+{"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"79 NOLU (Sokak)","adi":"79 NOLU","kimlikNo":130840,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
+{"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"83 NOLU (Sokak)","adi":"83 NOLU","kimlikNo":131164,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
 {"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"94 NOLU (Sokak)","adi":"94 NOLU","kimlikNo":131163,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
 {"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"96 NOLU (Sokak)","adi":"96 NOLU","kimlikNo":399985,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
 {"mahalleKayitNo":11072,"turKod":4,"bilesenAdi":"98 NOLU (Sokak)","adi":"98 NOLU","kimlikNo":131165,"il_id":15,"ilce_id":1813,"mahalle_id":11072}
@@ -4455,9 +4459,7 @@
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"11 NOLU (Sokak)","adi":"11 NOLU","kimlikNo":135706,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"12 NOLU (Sokak)","adi":"12 NOLU","kimlikNo":400632,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"122 NOLU (Sokak)","adi":"122 NOLU","kimlikNo":146058020,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
-{"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"125 NOLU (Sokak)","adi":"125 NOLU","kimlikNo":870363230,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
-{"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"126 NOLU (Sokak)","adi":"126 NOLU","kimlikNo":676800820,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
-{"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"127 NOLU (Sokak)","adi":"127 NOLU","kimlikNo":698873470,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
+{"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"127 NOLU (Sokak)","adi":"127 NOLU","kimlikNo":676800820,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"13 NOLU (Sokak)","adi":"13 NOLU","kimlikNo":135707,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"130 NOLU (Sokak)","adi":"130 NOLU","kimlikNo":691792080,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"132 NOLU (Sokak)","adi":"132 NOLU","kimlikNo":848916960,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
@@ -4504,6 +4506,7 @@
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"54 NOLU (Sokak)","adi":"54 NOLU","kimlikNo":707147,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"56 NOLU (Sokak)","adi":"56 NOLU","kimlikNo":713166,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"58 NOLU (Sokak)","adi":"58 NOLU","kimlikNo":709018,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
+{"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"59 NOLU (Sokak)","adi":"59 NOLU","kimlikNo":870363230,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"6 NOLU (Sokak)","adi":"6 NOLU","kimlikNo":135733,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"60 NOLU (Sokak)","adi":"60 NOLU","kimlikNo":713184,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
 {"mahalleKayitNo":11074,"turKod":4,"bilesenAdi":"62 NOLU (Sokak)","adi":"62 NOLU","kimlikNo":707222,"il_id":15,"ilce_id":1813,"mahalle_id":11074}
@@ -4571,28 +4574,71 @@
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"122 (Sokak)","adi":"122","kimlikNo":543312511,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"124 NOLU (Sokak)","adi":"124 NOLU","kimlikNo":698486,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"128 NOLU (Sokak)","adi":"128 NOLU","kimlikNo":364378530,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"144 (Sokak)","adi":"144","kimlikNo":930770971,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"146 (Sokak)","adi":"146","kimlikNo":713131261,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"148 NOLU (Sokak)","adi":"148 NOLU","kimlikNo":961851861,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"150 NOLU (Sokak)","adi":"150 NOLU","kimlikNo":810005491,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"152 (Sokak)","adi":"152","kimlikNo":400265851,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"156 (Sokak)","adi":"156","kimlikNo":331826011,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"158 (Sokak)","adi":"158","kimlikNo":754323361,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"166 NOLU (Sokak)","adi":"166 NOLU","kimlikNo":891076011,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"180 (Sokak)","adi":"180","kimlikNo":291616761,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"150 NOLU (Sokak)","adi":"150 NOLU","kimlikNo":166743351,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"151 NOLU (Sokak)","adi":"151 NOLU","kimlikNo":466251741,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"152 NOLU (Sokak)","adi":"152 NOLU","kimlikNo":754323361,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"153 NOLU SOKAL (Sokak)","adi":"153 NOLU SOKAL","kimlikNo":776969871,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"154 NOLU SOKAK (Sokak)","adi":"154 NOLU SOKAK","kimlikNo":331826011,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"155 NOLU (Sokak)","adi":"155 NOLU","kimlikNo":662414231,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"156 NOLU (Sokak)","adi":"156 NOLU","kimlikNo":220136501,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"157 NOLU (Sokak)","adi":"157 NOLU","kimlikNo":526143851,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"158 NOLU (Sokak)","adi":"158 NOLU","kimlikNo":400265851,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"160 NOLU (Sokak)","adi":"160 NOLU","kimlikNo":129910711,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"162 NOLU (Sokak)","adi":"162 NOLU","kimlikNo":961851861,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"163 NOLU (Sokak)","adi":"163 NOLU","kimlikNo":308240151,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"164 NOLU (Sokak)","adi":"164 NOLU","kimlikNo":999667231,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"168 NOLU (Sokak)","adi":"168 NOLU","kimlikNo":869448401,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"172 NOLU (Sokak)","adi":"172 NOLU","kimlikNo":647013601,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"178 NOLU (Sokak)","adi":"178 NOLU","kimlikNo":103680331,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"184 NOLU (Sokak)","adi":"184 NOLU","kimlikNo":589132941,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"186 NOLU (Sokak)","adi":"186 NOLU","kimlikNo":971809211,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"2001 (Sokak)","adi":"2001","kimlikNo":969765681,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"2009 NOLU (Sokak)","adi":"2009 NOLU","kimlikNo":188193830,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"2023 NOLU (Sokak)","adi":"2023 NOLU","kimlikNo":366016231,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3001 NOLU (Sokak)","adi":"3001 NOLU","kimlikNo":894281630,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3011 NOLU (Sokak)","adi":"3011 NOLU","kimlikNo":538403101,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3015 NOLU (Sokak)","adi":"3015 NOLU","kimlikNo":382097301,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3023 NOLU (Sokak)","adi":"3023 NOLU","kimlikNo":262412810,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3027 NOLU (Sokak)","adi":"3027 NOLU","kimlikNo":570305380,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3035 NOLU (Sokak)","adi":"3035 NOLU","kimlikNo":535791990,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3037 NOLU (Sokak)","adi":"3037 NOLU","kimlikNo":261580631,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"3043 NOLU (Sokak)","adi":"3043 NOLU","kimlikNo":883865031,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"4001 NOLU (Sokak)","adi":"4001 NOLU","kimlikNo":266225710,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"4002 NOLU (Sokak)","adi":"4002 NOLU","kimlikNo":1373157,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"401 NOLU (Sokak)","adi":"401 NOLU","kimlikNo":565376991,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"402 NOLU (Sokak)","adi":"402 NOLU","kimlikNo":579488381,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"403 NOLU (Sokak)","adi":"403 NOLU","kimlikNo":526264881,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"404 NOLU (Sokak)","adi":"404 NOLU","kimlikNo":978204271,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"405 NOLU (Sokak)","adi":"405 NOLU","kimlikNo":998990721,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"408 NOLU (Sokak)","adi":"408 NOLU","kimlikNo":160810441,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"410 NOLU (Sokak)","adi":"410 NOLU","kimlikNo":301141281,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"412 NOLU (Sokak)","adi":"412 NOLU","kimlikNo":148515701,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"413 NOLU (Sokak)","adi":"413 NOLU","kimlikNo":538403101,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"415 NOLU (Sokak)","adi":"415 NOLU","kimlikNo":271748611,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"417 NOLU (Sokak)","adi":"417 NOLU","kimlikNo":103945591,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"419 NOLU (Sokak)","adi":"419 NOLU","kimlikNo":217825111,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"422 NOLU (Sokak)","adi":"422 NOLU","kimlikNo":1373157,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"423 NOLU (Sokak)","adi":"423 NOLU","kimlikNo":382097301,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"425 NOLU (Sokak)","adi":"425 NOLU","kimlikNo":787982871,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"427 NOLU (Sokak)","adi":"427 NOLU","kimlikNo":958875,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"429 NOLU (Sokak)","adi":"429 NOLU","kimlikNo":874585841,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"432 NOLU (Sokak)","adi":"432 NOLU","kimlikNo":629902961,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"459 NOLU (Sokak)","adi":"459 NOLU","kimlikNo":262412810,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"461 NOLU (Sokak)","adi":"461 NOLU","kimlikNo":261580631,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"463 NOLU (Sokak)","adi":"463 NOLU","kimlikNo":570305380,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"465 NOLU (Sokak)","adi":"465 NOLU","kimlikNo":882180521,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"475 NOLU (Sokak)","adi":"475 NOLU","kimlikNo":566116011,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"484 NOLU (Sokak)","adi":"484 NOLU","kimlikNo":810005491,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"489 NOLU (Sokak)","adi":"489 NOLU","kimlikNo":836747211,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"491 NOLU (Sokak)","adi":"491 NOLU","kimlikNo":531930091,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"493 NOLU (Sokak)","adi":"493 NOLU","kimlikNo":338242361,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"495 NOLU (Sokak)","adi":"495 NOLU","kimlikNo":257867401,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"497 NOLU (Sokak)","adi":"497 NOLU","kimlikNo":717922461,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"517 ARA (Sokak)","adi":"517 ARA","kimlikNo":647302291,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"517 NOLU (Sokak)","adi":"517 NOLU","kimlikNo":224988511,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"519 NOLU (Sokak)","adi":"519 NOLU","kimlikNo":297731731,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"521 NOLU (Sokak)","adi":"521 NOLU","kimlikNo":166199911,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"523 NOLU (Sokak)","adi":"523 NOLU","kimlikNo":892365901,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"525 NOLU (Sokak)","adi":"525 NOLU","kimlikNo":188193830,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"527 ARA 1 (Sokak)","adi":"527 ARA 1","kimlikNo":850840931,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"527 NOLU (Sokak)","adi":"527 NOLU","kimlikNo":916331231,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"529 NOLU (Sokak)","adi":"529 NOLU","kimlikNo":393770981,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"531 NOLU (Sokak)","adi":"531 NOLU","kimlikNo":752553641,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"533 NOLU (Sokak)","adi":"533 NOLU","kimlikNo":813844061,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"535 NOLU (Sokak)","adi":"535 NOLU","kimlikNo":230087901,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"537 NOLU (Sokak)","adi":"537 NOLU","kimlikNo":224693081,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
+{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"539 NOLU (Sokak)","adi":"539 NOLU","kimlikNo":366016231,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"63 NOLU (Sokak)","adi":"63 NOLU","kimlikNo":130517,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"65 NOLU (Sokak)","adi":"65 NOLU","kimlikNo":130530,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"67 NOLU (Sokak)","adi":"67 NOLU","kimlikNo":410552,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
@@ -4601,7 +4647,6 @@
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"75 NOLU (Sokak)","adi":"75 NOLU","kimlikNo":649248140,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"77 NOLU (Sokak)","adi":"77 NOLU","kimlikNo":225653450,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"77 NOLU (Sokak)","adi":"77 NOLU","kimlikNo":730473260,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"78 NOLU (Sokak)","adi":"78 NOLU","kimlikNo":260775521,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"ABDULLAH GÖKBAYRAK (Sokak)","adi":"ABDULLAH GÖKBAYRAK","kimlikNo":130523,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"ADNAN ÇELİK (Sokak)","adi":"ADNAN ÇELİK","kimlikNo":27088,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"AHMET AVCIOĞLU (Sokak)","adi":"AHMET AVCIOĞLU","kimlikNo":369263,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
@@ -4609,7 +4654,6 @@
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"AHMET YÜCE (Sokak)","adi":"AHMET YÜCE","kimlikNo":130533,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"ALPARSLAN TAGAY (Sokak)","adi":"ALPARSLAN TAGAY","kimlikNo":410545,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"BARAJ (Sokak)","adi":"BARAJ","kimlikNo":410553,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11076,"turKod":3,"bilesenAdi":"BAŞPINAR MEVKİ (Cadde)","adi":"BAŞPINAR MEVKİ","kimlikNo":958875,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":3,"bilesenAdi":"BURDUR (Cadde)","adi":"BURDUR","kimlikNo":130538,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":3,"bilesenAdi":"ÇAĞLAR (Cadde)","adi":"ÇAĞLAR","kimlikNo":130547,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"ÇAĞLAR 1. (Sokak)","adi":"ÇAĞLAR 1.","kimlikNo":867487610,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
@@ -4652,9 +4696,9 @@
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"YEŞİLOVA 1. (Sokak)","adi":"YEŞİLOVA 1.","kimlikNo":129095290,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"YEŞİLOVA 2. (Sokak)","adi":"YEŞİLOVA 2.","kimlikNo":337011111,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
 {"mahalleKayitNo":11076,"turKod":4,"bilesenAdi":"YUSUF GEDİK (Sokak)","adi":"YUSUF GEDİK","kimlikNo":410551,"il_id":15,"ilce_id":1813,"mahalle_id":11076}
-{"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"1 NUMARALI (Sokak)","adi":"1 NUMARALI","kimlikNo":461382281,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
+{"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"1 NOLU (Sokak)","adi":"1 NOLU","kimlikNo":461382281,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
 {"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"51 NOLU (Sokak)","adi":"51 NOLU","kimlikNo":132021,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
-{"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"84 NOLU (Sokak)","adi":"84 NOLU","kimlikNo":132022,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
+{"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"55 NOLU (Sokak)","adi":"55 NOLU","kimlikNo":132022,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
 {"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"AKSU (Sokak)","adi":"AKSU","kimlikNo":403807,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
 {"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"ARDIÇ (Sokak)","adi":"ARDIÇ","kimlikNo":132023,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
 {"mahalleKayitNo":11077,"turKod":4,"bilesenAdi":"ARPALIK (Sokak)","adi":"ARPALIK","kimlikNo":132024,"il_id":15,"ilce_id":1813,"mahalle_id":11077}
@@ -4761,23 +4805,56 @@
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1023 NOLU (Sokak)","adi":"1023 NOLU","kimlikNo":722641201,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1033 NOLU (Sokak)","adi":"1033 NOLU","kimlikNo":369262851,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1073 ARA (Sokak)","adi":"1073 ARA","kimlikNo":709438161,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1073 NOLU (Sokak)","adi":"1073 NOLU","kimlikNo":623281090,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1077 NOLU (Sokak)","adi":"1077 NOLU","kimlikNo":819009201,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1079 (Sokak)","adi":"1079","kimlikNo":629285100,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1111 (Sokak)","adi":"1111","kimlikNo":835262020,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1112 (Sokak)","adi":"1112","kimlikNo":782362211,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1113 (Sokak)","adi":"1113","kimlikNo":219688471,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1114 NOLU (Sokak)","adi":"1114 NOLU","kimlikNo":981790211,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1115 NOLU (Sokak)","adi":"1115 NOLU","kimlikNo":465599691,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1118 (Sokak)","adi":"1118","kimlikNo":177893301,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1119 NOLU (Sokak)","adi":"1119 NOLU","kimlikNo":296265041,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"1121 (Sokak)","adi":"1121","kimlikNo":640945681,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"2025 NOLU (Sokak)","adi":"2025 NOLU","kimlikNo":739716321,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"3029 NOLU (Sokak)","adi":"3029 NOLU","kimlikNo":584962741,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"47 NOLU (Sokak)","adi":"47 NOLU","kimlikNo":403811,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"49 NOLU (Sokak)","adi":"49 NOLU","kimlikNo":132034,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"80 NOLU (Sokak)","adi":"80 NOLU","kimlikNo":132033,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"431 NOLU (Sokak)","adi":"431 NOLU","kimlikNo":739716321,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"433 NOLU (Sokak)","adi":"433 NOLU","kimlikNo":916992641,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"435 NOLU (Sokak)","adi":"435 NOLU","kimlikNo":866700071,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"437 NOLU (Sokak)","adi":"437 NOLU","kimlikNo":678145581,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"484 ARA (Sokak)","adi":"484 ARA","kimlikNo":219688471,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"484 NOLU (Sokak)","adi":"484 NOLU","kimlikNo":735351551,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"488 NOLU (Sokak)","adi":"488 NOLU","kimlikNo":364281421,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"492 NOLU (Sokak)","adi":"492 NOLU","kimlikNo":389875091,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":3,"bilesenAdi":"498 NOLU (Cadde)","adi":"498 NOLU","kimlikNo":779685351,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"504 NOLU (Sokak)","adi":"504 NOLU","kimlikNo":429792451,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"533 NOLU (Sokak)","adi":"533 NOLU","kimlikNo":739114141,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"535 NOLU (Sokak)","adi":"535 NOLU","kimlikNo":338112411,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"537 NOLU (Sokak)","adi":"537 NOLU","kimlikNo":393926001,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"539 NOLU (Sokak)","adi":"539 NOLU","kimlikNo":713976811,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"541 NOLU (Sokak)","adi":"541 NOLU","kimlikNo":685083571,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"543 NOLU (Sokak)","adi":"543 NOLU","kimlikNo":651634611,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"545 NOLU (Sokak)","adi":"545 NOLU","kimlikNo":496504841,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"547 NOLU (Sokak)","adi":"547 NOLU","kimlikNo":236855551,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"549 NOLU (Sokak)","adi":"549 NOLU","kimlikNo":515361181,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"551 NOLU (Sokak)","adi":"551 NOLU","kimlikNo":984983711,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"553 NOLU (Sokak)","adi":"553 NOLU","kimlikNo":979340951,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"555 NOLU (Sokak)","adi":"555 NOLU","kimlikNo":271109981,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"557 (Sokak)","adi":"557","kimlikNo":969594401,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"559 ARA (Sokak)","adi":"559 ARA","kimlikNo":884192541,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"559 NOLU (Sokak)","adi":"559 NOLU","kimlikNo":450669251,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"561 NOLU (Sokak)","adi":"561 NOLU","kimlikNo":357949991,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"567 NOLU (Sokak)","adi":"567 NOLU","kimlikNo":160938171,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"569 NOLU (Sokak)","adi":"569 NOLU","kimlikNo":465599691,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"571 NOLU (Sokak)","adi":"571 NOLU","kimlikNo":296032551,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"575 NOLU (Sokak)","adi":"575 NOLU","kimlikNo":629285100,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"577 NOLU (Sokak)","adi":"577 NOLU","kimlikNo":473368131,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"579 NOLU (Sokak)","adi":"579 NOLU","kimlikNo":353431511,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"581 NOLU (Sokak)","adi":"581 NOLU","kimlikNo":402325711,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"587 (Sokak)","adi":"587","kimlikNo":640945681,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"589 NOLU (Sokak)","adi":"589 NOLU","kimlikNo":794597801,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"593 NOLU (Sokak)","adi":"593 NOLU","kimlikNo":734755351,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"595 NOLU (Sokak)","adi":"595 NOLU","kimlikNo":958593851,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"597 NOLU (Sokak)","adi":"597 NOLU","kimlikNo":238844551,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"599 NOLU (Sokak)","adi":"599 NOLU","kimlikNo":360718681,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"601 NOLU (Sokak)","adi":"601 NOLU","kimlikNo":819009201,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"629 NOLU (Sokak)","adi":"629 NOLU","kimlikNo":855809001,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"82 NOLU (Sokak)","adi":"82 NOLU","kimlikNo":403812,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"86 NOLU (Sokak)","adi":"86 NOLU","kimlikNo":132033,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"87 NOLU (Sokak)","adi":"87 NOLU","kimlikNo":403811,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
+{"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"89 NOLU (Sokak)","adi":"89 NOLU","kimlikNo":132034,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"999 NOLU (Sokak)","adi":"999 NOLU","kimlikNo":781112421,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"ARDIÇ (Sokak)","adi":"ARDIÇ","kimlikNo":132035,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"ASLANAĞZI (Sokak)","adi":"ASLANAĞZI","kimlikNo":132036,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
@@ -4793,7 +4870,6 @@
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"HALİLBEYLER ÇIKMAZI (Sokak)","adi":"HALİLBEYLER ÇIKMAZI","kimlikNo":132041,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":4,"bilesenAdi":"KAPLANLAR (Sokak)","adi":"KAPLANLAR","kimlikNo":132042,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":11078,"turKod":3,"bilesenAdi":"KORKUTELİ (Cadde)","adi":"KORKUTELİ","kimlikNo":1219931,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
-{"mahalleKayitNo":11078,"turKod":3,"bilesenAdi":"MÜSELLIM (Cadde)","adi":"MÜSELLIM","kimlikNo":779685351,"il_id":15,"ilce_id":1813,"mahalle_id":11078}
 {"mahalleKayitNo":19581,"turKod":5,"bilesenAdi":"KAYALI (Küme Evler)","adi":"KAYALI","kimlikNo":495693,"il_id":15,"ilce_id":1813,"mahalle_id":19581}
 {"mahalleKayitNo":19585,"turKod":4,"bilesenAdi":"ÇUKUR (Sokak)","adi":"ÇUKUR","kimlikNo":80899248,"il_id":15,"ilce_id":1813,"mahalle_id":19585}
 {"mahalleKayitNo":19585,"turKod":4,"bilesenAdi":"ÇUKUR 5. (Sokak)","adi":"ÇUKUR 5.","kimlikNo":73416943,"il_id":15,"ilce_id":1813,"mahalle_id":19585}
@@ -5277,6 +5353,7 @@
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"12086 (Sokak)","adi":"12086","kimlikNo":891562,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"12087 (Sokak)","adi":"12087","kimlikNo":1368197,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"12088 (Sokak)","adi":"12088","kimlikNo":482582890,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
+{"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"12089 (Sokak)","adi":"12089","kimlikNo":378843351,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"22002 (Sokak)","adi":"22002","kimlikNo":1210011,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"23009 (Sokak)","adi":"23009","kimlikNo":970990971,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
 {"mahalleKayitNo":10944,"turKod":4,"bilesenAdi":"23010 (Sokak)","adi":"23010","kimlikNo":1210135,"il_id":15,"ilce_id":1215,"mahalle_id":10944}
@@ -7038,7 +7115,6 @@
 {"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"AHMET KERSE (Sokak)","adi":"AHMET KERSE","kimlikNo":139573,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
 {"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"AHMET YAMACI (Sokak)","adi":"AHMET YAMACI","kimlikNo":139580,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
 {"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"CEYHAN (Sokak)","adi":"CEYHAN","kimlikNo":139575,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
-{"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"DOÇ.DR.SİNAN ATEŞ (Sokak)","adi":"DOÇ.DR.SİNAN ATEŞ","kimlikNo":1216007,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
 {"mahalleKayitNo":11088,"turKod":3,"bilesenAdi":"ECE (Cadde)","adi":"ECE","kimlikNo":139577,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
 {"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"EDİP (Sokak)","adi":"EDİP","kimlikNo":139578,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
 {"mahalleKayitNo":11088,"turKod":4,"bilesenAdi":"EREN BÜLBÜL (Sokak)","adi":"EREN BÜLBÜL","kimlikNo":428149700,"il_id":15,"ilce_id":1672,"mahalle_id":11088}
@@ -7139,7 +7215,6 @@
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"AKASYA (Sokak)","adi":"AKASYA","kimlikNo":958726,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"ALPARSLAN (Sokak)","adi":"ALPARSLAN","kimlikNo":722723,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"CEMAL ŞAHANKAYA (Sokak)","adi":"CEMAL ŞAHANKAYA","kimlikNo":722726,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
-{"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"DOÇ.DR.SİNAN ATEŞ (Sokak)","adi":"DOÇ.DR.SİNAN ATEŞ","kimlikNo":139618,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"DR.TUNCER YILDIZ (Sokak)","adi":"DR.TUNCER YILDIZ","kimlikNo":723409,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"ECE YOLU (Sokak)","adi":"ECE YOLU","kimlikNo":409369,"il_id":15,"ilce_id":1672,"mahalle_id":11092}
 {"mahalleKayitNo":11092,"turKod":4,"bilesenAdi":"ERTUĞRUL GAZİ (Sokak)","adi":"ERTUĞRUL GAZİ","kimlikNo":722725,"il_id":15,"ilce_id":1672,"mahalle_id":11092}

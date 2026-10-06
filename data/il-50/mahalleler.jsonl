@@ -113,8 +113,8 @@
 {"koyAdi":"ÖZLÜCE","koyKayitNo":25069,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖZLÜCE KÖYÜ, OKUL MEVKİİ","adi":"OKUL","kimlikNo":64818,"il_id":50,"ilce_id":1274}
 {"koyAdi":"ÖZLÜCE","koyKayitNo":25069,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖZLÜCE KÖYÜ, YENİCAMİ MEVKİİ","adi":"YENİCAMİ","kimlikNo":64820,"il_id":50,"ilce_id":1274}
 {"koyAdi":"ÖZLÜCE","koyKayitNo":25069,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÖZLÜCE KÖYÜ, YENİDOĞAN MEVKİİ","adi":"YENİDOĞAN","kimlikNo":64819,"il_id":50,"ilce_id":1274}
-{"koyAdi":"SUVERMEZ","koyKayitNo":25070,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"SUVERMEZ BELDESİ, KALE MAHALLESİ","adi":"KALE","kimlikNo":60514,"il_id":50,"ilce_id":1274}
-{"koyAdi":"SUVERMEZ","koyKayitNo":25070,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"SUVERMEZ BELDESİ, YENİ MAHALLESİ","adi":"YENİ","kimlikNo":60515,"il_id":50,"ilce_id":1274}
+{"koyAdi":"SUVERMEZ","koyKayitNo":25070,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SUVERMEZ KÖYÜ, KALE MEVKİİ","adi":"KALE","kimlikNo":60514,"il_id":50,"ilce_id":1274}
+{"koyAdi":"SUVERMEZ","koyKayitNo":25070,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"SUVERMEZ KÖYÜ, YENİ MEVKİİ","adi":"YENİ","kimlikNo":60515,"il_id":50,"ilce_id":1274}
 {"koyAdi":"TİLKÖY","koyKayitNo":25071,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TİLKÖY KÖYÜ, AŞAĞI MEVKİİ","adi":"AŞAĞI","kimlikNo":64821,"il_id":50,"ilce_id":1274}
 {"koyAdi":"TİLKÖY","koyKayitNo":25071,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TİLKÖY KÖYÜ, ORTA MEVKİİ","adi":"ORTA","kimlikNo":64822,"il_id":50,"ilce_id":1274}
 {"koyAdi":"TİLKÖY","koyKayitNo":25071,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TİLKÖY KÖYÜ, UZUNSAY MEVKİİ","adi":"UZUNSAY","kimlikNo":64824,"il_id":50,"ilce_id":1274}
@@ -344,13 +344,12 @@
 {"koyAdi":"AKKÖY","koyKayitNo":25167,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKKÖY KÖYÜ","adi":null,"kimlikNo":64919,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MERKEZ","koyKayitNo":25166,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AKSALUR AĞCAŞAR MAHALLESİ","adi":"AKSALUR AĞCAŞAR","kimlikNo":60590,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MERKEZ","koyKayitNo":25166,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AKSALUR SALUR MAHALLESİ","adi":"AKSALUR SALUR","kimlikNo":60592,"il_id":50,"ilce_id":1707}
-{"koyAdi":"AYVALI","koyKayitNo":25169,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYVALI KÖYÜ","adi":null,"kimlikNo":64920,"il_id":50,"ilce_id":1707}
 {"koyAdi":"BAHÇELİ","koyKayitNo":25170,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAHÇELİ KÖYÜ","adi":null,"kimlikNo":64921,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MERKEZ","koyKayitNo":25166,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":60589,"il_id":50,"ilce_id":1707}
-{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAŞDERE BELDESİ, EYÜPLÜ MAHALLESİ","adi":"EYÜPLÜ","kimlikNo":60594,"il_id":50,"ilce_id":1707}
-{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAŞDERE BELDESİ, ORTA MAHALLESİ","adi":"ORTA","kimlikNo":60595,"il_id":50,"ilce_id":1707}
-{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAŞDERE BELDESİ, SULTANIM MAHALLESİ","adi":"SULTANIM","kimlikNo":60596,"il_id":50,"ilce_id":1707}
-{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"BAŞDERE BELDESİ, YENİ MAHALLESİ","adi":"YENİ","kimlikNo":60597,"il_id":50,"ilce_id":1707}
+{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAŞDERE KÖYÜ, EYÜPLÜ MEVKİİ","adi":"EYÜPLÜ","kimlikNo":60594,"il_id":50,"ilce_id":1707}
+{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAŞDERE KÖYÜ, ORTA MEVKİİ","adi":"ORTA","kimlikNo":60595,"il_id":50,"ilce_id":1707}
+{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAŞDERE KÖYÜ, SULTANIM MEVKİİ","adi":"SULTANIM","kimlikNo":60596,"il_id":50,"ilce_id":1707}
+{"koyAdi":"BAŞDERE","koyKayitNo":25171,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAŞDERE KÖYÜ, YENİ MEVKİİ","adi":"YENİ","kimlikNo":60597,"il_id":50,"ilce_id":1707}
 {"koyAdi":"BOYALI","koyKayitNo":25172,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BOYALI KÖYÜ","adi":null,"kimlikNo":64922,"il_id":50,"ilce_id":1707}
 {"koyAdi":"CEMİL","koyKayitNo":25173,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"CEMİL KÖYÜ","adi":null,"kimlikNo":64923,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MERKEZ","koyKayitNo":25166,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":60584,"il_id":50,"ilce_id":1707}
@@ -367,6 +366,7 @@
 {"koyAdi":"KARLIK","koyKayitNo":25181,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KARLIK KÖYÜ","adi":null,"kimlikNo":64931,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MERKEZ","koyKayitNo":25166,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"KAVAKLIÖNÜ MAHALLESİ","adi":"KAVAKLIÖNÜ","kimlikNo":60581,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MAZI","koyKayitNo":25182,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"MAZI KÖYÜ","adi":null,"kimlikNo":64932,"il_id":50,"ilce_id":1707}
+{"koyAdi":"MUSTAFAPAŞA","koyKayitNo":25183,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"MUSTAFAPAŞA BELDESİ, AYVALI MAHALLESİ","adi":"AYVALI","kimlikNo":25169,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MUSTAFAPAŞA","koyKayitNo":25183,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"MUSTAFAPAŞA BELDESİ, DAVUTLU MAHALLESİ","adi":"DAVUTLU","kimlikNo":60599,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MUSTAFAPAŞA","koyKayitNo":25183,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"MUSTAFAPAŞA BELDESİ, YENİ MAHALLESİ","adi":"YENİ","kimlikNo":60600,"il_id":50,"ilce_id":1707}
 {"koyAdi":"MUSTAFAPAŞA","koyKayitNo":25183,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"MUSTAFAPAŞA BELDESİ, YUKARI MAHALLESİ","adi":"YUKARI","kimlikNo":60601,"il_id":50,"ilce_id":1707}

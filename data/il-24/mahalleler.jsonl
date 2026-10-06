@@ -395,6 +395,7 @@
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AKŞEMSETTİN MAHALLESİ","adi":"AKŞEMSETTİN","kimlikNo":21468,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AKTOPRAK MAHALLESİ","adi":"AKTOPRAK","kimlikNo":21483,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AKYAZI MAHALLESİ","adi":"AKYAZI","kimlikNo":21485,"il_id":24,"ilce_id":1318}
+{"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ALSANCAK MAHALLESİ","adi":"ALSANCAK","kimlikNo":21521,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ARSLANLI MAHALLESİ","adi":"ARSLANLI","kimlikNo":21473,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ATATÜRK MAHALLESİ","adi":"ATATÜRK","kimlikNo":21461,"il_id":24,"ilce_id":1318}
 {"koyAdi":"AYDOĞDU","koyKayitNo":11898,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYDOĞDU KÖYÜ","adi":null,"kimlikNo":29002,"il_id":24,"ilce_id":1318}
@@ -462,6 +463,7 @@
 {"koyAdi":"GÖLPINAR","koyKayitNo":11915,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖLPINAR KÖYÜ","adi":null,"kimlikNo":29024,"il_id":24,"ilce_id":1318}
 {"koyAdi":"GÖYNE","koyKayitNo":11967,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖYNE KÖYÜ","adi":null,"kimlikNo":29085,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLABİBEY MAHALLESİ","adi":"GÜLABİBEY","kimlikNo":21465,"il_id":24,"ilce_id":1318}
+{"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜLLÜCE MAHALLESİ","adi":"GÜLLÜCE","kimlikNo":140511,"il_id":24,"ilce_id":1318}
 {"koyAdi":"GÜMÜŞTARLA","koyKayitNo":11917,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜMÜŞTARLA KÖYÜ","adi":null,"kimlikNo":29026,"il_id":24,"ilce_id":1318}
 {"koyAdi":"GÜNBAĞI","koyKayitNo":11946,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNBAĞI KÖYÜ","adi":null,"kimlikNo":29058,"il_id":24,"ilce_id":1318}
 {"koyAdi":"GÜNBAĞI","koyKayitNo":11946,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GÜNBAĞI KÖYÜ, KIR MEZRASI","adi":"KIR","kimlikNo":29060,"il_id":24,"ilce_id":1318}
@@ -522,12 +524,14 @@
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SARIGÖL MAHALLESİ","adi":"SARIGÖL","kimlikNo":21493,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SAZLIPINAR","koyKayitNo":11953,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAZLIPINAR KÖYÜ","adi":null,"kimlikNo":29068,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SAZTEPE","koyKayitNo":11935,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SAZTEPE KÖYÜ","adi":null,"kimlikNo":29051,"il_id":24,"ilce_id":1318}
+{"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"SELÇUKLU MAHALLESİ","adi":"SELÇUKLU","kimlikNo":21520,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SOĞUKOLUK","koyKayitNo":11954,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SOĞUKOLUK KÖYÜ","adi":null,"kimlikNo":29069,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SOĞUKOLUK","koyKayitNo":11954,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"SOĞUKOLUK KÖYÜ, AKTEPE MEZRASI","adi":"AKTEPE","kimlikNo":29070,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SÖĞÜTÖZÜ","koyKayitNo":11936,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÖĞÜTÖZÜ KÖYÜ","adi":null,"kimlikNo":29052,"il_id":24,"ilce_id":1318}
 {"koyAdi":"SÜTPINAR","koyKayitNo":11937,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"SÜTPINAR KÖYÜ","adi":null,"kimlikNo":29053,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİT CENGİZ TOPEL MAHALLESİ","adi":"ŞEHİT CENGİZ TOPEL","kimlikNo":21525,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİT SERHAT YURTBAŞI MAHALLESİ","adi":"ŞEHİT SERHAT YURTBAŞI","kimlikNo":21494,"il_id":24,"ilce_id":1318}
+{"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ŞEHİTSERHAT MAHALLESİ","adi":"ŞEHİTSERHAT","kimlikNo":21522,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"TAKSİM MAHALLESİ","adi":"TAKSİM","kimlikNo":21471,"il_id":24,"ilce_id":1318}
 {"koyAdi":"TANDIRLI","koyKayitNo":11973,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"TANDIRLI KÖYÜ","adi":null,"kimlikNo":29091,"il_id":24,"ilce_id":1318}
 {"koyAdi":"TATLISU","koyKayitNo":11955,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"TATLISU KÖYÜ, ATATÜRK MEVKİİ","adi":"ATATÜRK","kimlikNo":29073,"il_id":24,"ilce_id":1318}
@@ -546,10 +550,6 @@
 {"koyAdi":"YALINCA","koyKayitNo":11957,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YALINCA KÖYÜ","adi":null,"kimlikNo":29075,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YALNIZBAĞ MAHALLESİ","adi":"YALNIZBAĞ","kimlikNo":21518,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YAVUZ SELİM MAHALLESİ","adi":"YAVUZ SELİM","kimlikNo":21467,"il_id":24,"ilce_id":1318}
-{"koyAdi":"YAYLABAŞI","koyKayitNo":49590,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAYLABAŞI BELDESİ, ALSANCAK MAHALLESİ","adi":"ALSANCAK","kimlikNo":21521,"il_id":24,"ilce_id":1318}
-{"koyAdi":"YAYLABAŞI","koyKayitNo":49590,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAYLABAŞI BELDESİ, GÜLLÜCE MAHALLESİ","adi":"GÜLLÜCE","kimlikNo":140511,"il_id":24,"ilce_id":1318}
-{"koyAdi":"YAYLABAŞI","koyKayitNo":49590,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAYLABAŞI BELDESİ, SELÇUKLU MAHALLESİ","adi":"SELÇUKLU","kimlikNo":21520,"il_id":24,"ilce_id":1318}
-{"koyAdi":"YAYLABAŞI","koyKayitNo":49590,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YAYLABAŞI BELDESİ, ŞEHİTSERHAT MAHALLESİ","adi":"ŞEHİTSERHAT","kimlikNo":21522,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİDOĞAN MAHALLESİ","adi":"YENİDOĞAN","kimlikNo":21501,"il_id":24,"ilce_id":1318}
 {"koyAdi":"YENİKÖY","koyKayitNo":11942,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YENİKÖY KÖYÜ","adi":null,"kimlikNo":29056,"il_id":24,"ilce_id":1318}
 {"koyAdi":"MERKEZ","koyKayitNo":11896,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YENİMAHALLE MAHALLESİ","adi":"YENİMAHALLE","kimlikNo":21463,"il_id":24,"ilce_id":1318}

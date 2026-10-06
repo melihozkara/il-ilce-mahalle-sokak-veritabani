@@ -474,14 +474,12 @@
 {"koyAdi":"AŞAĞIFIRINDERE","koyKayitNo":30083,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AŞAĞIFIRINDERE KÖYÜ","adi":null,"kimlikNo":78725,"il_id":60,"ilce_id":1679}
 {"koyAdi":"AVLUNLAR","koyKayitNo":30166,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AVLUNLAR KÖYÜ, ORTA MEVKİİ","adi":"ORTA","kimlikNo":70746,"il_id":60,"ilce_id":1679}
 {"koyAdi":"AVŞARAĞZI","koyKayitNo":30146,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AVŞARAĞZI KÖYÜ","adi":null,"kimlikNo":78795,"il_id":60,"ilce_id":1679}
-{"koyAdi":"AYDINCA","koyKayitNo":30084,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AYDINCA KÖYÜ, AYDINCA MÜCAVİR MEVKİİ","adi":"AYDINCA MÜCAVİR","kimlikNo":99067,"il_id":60,"ilce_id":1679}
 {"koyAdi":"AYDINCA","koyKayitNo":30084,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"AYDINCA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":78727,"il_id":60,"ilce_id":1679}
 {"koyAdi":"AYDINCA","koyKayitNo":30084,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"AYDINCA KÖYÜ, YAYLA EVLERİ YAYLA EVLERİ","adi":"YAYLA EVLERİ","kimlikNo":78726,"il_id":60,"ilce_id":1679}
 {"koyAdi":"AYDOĞDU","koyKayitNo":30147,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AYDOĞDU KÖYÜ","adi":null,"kimlikNo":78796,"il_id":60,"ilce_id":1679}
 {"koyAdi":"BAĞBAŞI","koyKayitNo":30085,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAĞBAŞI KÖYÜ","adi":null,"kimlikNo":78728,"il_id":60,"ilce_id":1679}
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":70679,"il_id":60,"ilce_id":1679}
 {"koyAdi":"BAKIŞLI","koyKayitNo":30086,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAKIŞLI KÖYÜ","adi":null,"kimlikNo":78729,"il_id":60,"ilce_id":1679}
-{"koyAdi":"BAKIŞLI","koyKayitNo":30086,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAKIŞLI KÖYÜ, BAKIŞLI MÜCAVİR MEVKİİ","adi":"BAKIŞLI MÜCAVİR","kimlikNo":99071,"il_id":60,"ilce_id":1679}
 {"koyAdi":"BALLIDERE","koyKayitNo":30087,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BALLIDERE KÖYÜ","adi":null,"kimlikNo":78730,"il_id":60,"ilce_id":1679}
 {"koyAdi":"BATMANTAŞ","koyKayitNo":30088,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BATMANTAŞ KÖYÜ","adi":null,"kimlikNo":78731,"il_id":60,"ilce_id":1679}
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"BEDESTENLİOĞLU MAHALLESİ","adi":"BEDESTENLİOĞLU","kimlikNo":70680,"il_id":60,"ilce_id":1679}
@@ -563,7 +561,6 @@
 {"koyAdi":"GÜNÇALI","koyKayitNo":30153,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"GÜNÇALI KÖYÜ, YAYLAEVLERİ YAYLA EVLERİ","adi":"YAYLAEVLERİ","kimlikNo":78802,"il_id":60,"ilce_id":1679}
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"GÜNEŞLİ MAHALLESİ","adi":"GÜNEŞLİ","kimlikNo":70693,"il_id":60,"ilce_id":1679}
 {"koyAdi":"GÜNEVİ","koyKayitNo":30110,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜNEVİ KÖYÜ","adi":null,"kimlikNo":78755,"il_id":60,"ilce_id":1679}
-{"koyAdi":"GÜNEVİ","koyKayitNo":30110,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"GÜNEVİ KÖYÜ, GÜNEVİ MÜCAVİR MEVKİİ","adi":"GÜNEVİ MÜCAVİR","kimlikNo":99068,"il_id":60,"ilce_id":1679}
 {"koyAdi":"GÜRYILDIZ","koyKayitNo":30142,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜRYILDIZ BELDESİ, ALİ YÜCEL MAHALLESİ","adi":"ALİ YÜCEL","kimlikNo":70731,"il_id":60,"ilce_id":1679}
 {"koyAdi":"GÜRYILDIZ","koyKayitNo":30142,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜRYILDIZ BELDESİ, BAHÇELİEVLER MAHALLESİ","adi":"BAHÇELİEVLER","kimlikNo":70732,"il_id":60,"ilce_id":1679}
 {"koyAdi":"GÜRYILDIZ","koyKayitNo":30142,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"GÜRYILDIZ BELDESİ, KANALALTI MAHALLESİ","adi":"KANALALTI","kimlikNo":70733,"il_id":60,"ilce_id":1679}
@@ -575,7 +572,6 @@
 {"koyAdi":"HALİLALAN","koyKayitNo":30112,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HALİLALAN KÖYÜ, KÖYÜNKENDİSİ MEVKİİ","adi":"KÖYÜNKENDİSİ","kimlikNo":100107,"il_id":60,"ilce_id":1679}
 {"koyAdi":"HANPINAR","koyKayitNo":30113,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HANPINAR KÖYÜ","adi":null,"kimlikNo":78757,"il_id":60,"ilce_id":1679}
 {"koyAdi":"HASANBABA","koyKayitNo":30114,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"HASANBABA KÖYÜ","adi":null,"kimlikNo":78758,"il_id":60,"ilce_id":1679}
-{"koyAdi":"HASANBABA","koyKayitNo":30114,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"HASANBABA KÖYÜ, HASANBABA MÜCAVİR MEVKİİ","adi":"HASANBABA MÜCAVİR","kimlikNo":99072,"il_id":60,"ilce_id":1679}
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"HOCAAHMET MAHALLESİ","adi":"HOCAAHMET","kimlikNo":70694,"il_id":60,"ilce_id":1679}
 {"koyAdi":"İHSANİYE","koyKayitNo":30155,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"İHSANİYE KÖYÜ","adi":null,"kimlikNo":78806,"il_id":60,"ilce_id":1679}
 {"koyAdi":"KABAKBOĞAZI","koyKayitNo":30177,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KABAKBOĞAZI KÖYÜ","adi":null,"kimlikNo":78829,"il_id":60,"ilce_id":1679}
@@ -642,7 +638,6 @@
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"TOPÇUBAĞI MAHALLESİ","adi":"TOPÇUBAĞI","kimlikNo":70711,"il_id":60,"ilce_id":1679}
 {"koyAdi":"UĞRAK","koyKayitNo":30137,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"UĞRAK KÖYÜ","adi":null,"kimlikNo":78786,"il_id":60,"ilce_id":1679}
 {"koyAdi":"ULAŞ","koyKayitNo":30138,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ULAŞ KÖYÜ","adi":null,"kimlikNo":78787,"il_id":60,"ilce_id":1679}
-{"koyAdi":"ULAŞ","koyKayitNo":30138,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ULAŞ KÖYÜ, ULAŞ MÜCAVİR MEVKİİ","adi":"ULAŞ MÜCAVİR","kimlikNo":99070,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAĞMURLU","koyKayitNo":30183,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YAĞMURLU KÖYÜ, CUMHURİYET MEVKİİ","adi":"CUMHURİYET","kimlikNo":70747,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAĞMURLU","koyKayitNo":30183,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YAĞMURLU KÖYÜ, KARŞIYAKA MEVKİİ","adi":"KARŞIYAKA","kimlikNo":70748,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAĞMURLU","koyKayitNo":30183,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YAĞMURLU KÖYÜ, KURTULUŞ MEVKİİ","adi":"KURTULUŞ","kimlikNo":70749,"il_id":60,"ilce_id":1679}
@@ -652,7 +647,6 @@
 {"koyAdi":"MERKEZ","koyKayitNo":30076,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"YARAHMET MAHALLESİ","adi":"YARAHMET","kimlikNo":70712,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YATMIŞ","koyKayitNo":30162,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YATMIŞ KÖYÜ","adi":null,"kimlikNo":78816,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAYLADALI","koyKayitNo":30139,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YAYLADALI KÖYÜ, YAYLADALI MERKEZ MEVKİİ","adi":"YAYLADALI MERKEZ","kimlikNo":78789,"il_id":60,"ilce_id":1679}
-{"koyAdi":"YAYLADALI","koyKayitNo":30139,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YAYLADALI KÖYÜ, YAYLADALI MÜCAVİR MEVKİİ","adi":"YAYLADALI MÜCAVİR","kimlikNo":99066,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAYLADALI","koyKayitNo":30139,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"YAYLADALI KÖYÜ, YAYLADALI YAYLASI YAYLA EVLERİ","adi":"YAYLADALI YAYLASI","kimlikNo":78788,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YAZIBAŞI","koyKayitNo":30185,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAZIBAŞI KÖYÜ","adi":null,"kimlikNo":78838,"il_id":60,"ilce_id":1679}
 {"koyAdi":"YELPE","koyKayitNo":30140,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YELPE KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":78791,"il_id":60,"ilce_id":1679}
@@ -949,6 +943,7 @@
 {"koyAdi":"ÇEVRECİK","koyKayitNo":30482,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇEVRECİK BELDESİ, ATATÜRK MAHALLESİ","adi":"ATATÜRK","kimlikNo":70948,"il_id":60,"ilce_id":1584}
 {"koyAdi":"ÇEVRECİK","koyKayitNo":30482,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇEVRECİK BELDESİ, CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":70949,"il_id":60,"ilce_id":1584}
 {"koyAdi":"ÇEVRECİK","koyKayitNo":30482,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇEVRECİK BELDESİ, İNÖNÜ MAHALLESİ","adi":"İNÖNÜ","kimlikNo":70950,"il_id":60,"ilce_id":1584}
+{"koyAdi":"ÇEVRECİK","koyKayitNo":30482,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"ÇEVRECİK BELDESİ, YENİTURAÇ MAHALLESİ","adi":"YENİTURAÇ","kimlikNo":79527,"il_id":60,"ilce_id":1584}
 {"koyAdi":"ÇINARCIK","koyKayitNo":30483,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇINARCIK KÖYÜ, HAMZALI  MEVKİİ","adi":"HAMZALI ","kimlikNo":79399,"il_id":60,"ilce_id":1584}
 {"koyAdi":"ÇINARCIK","koyKayitNo":30483,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇINARCIK KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":79400,"il_id":60,"ilce_id":1584}
 {"koyAdi":"ÇINARCIK","koyKayitNo":30483,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇINARCIK KÖYÜ, YOLBİLEN  MEVKİİ","adi":"YOLBİLEN ","kimlikNo":79398,"il_id":60,"ilce_id":1584}
@@ -1025,7 +1020,6 @@
 {"koyAdi":"KABALI","koyKayitNo":30508,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KABALI KÖYÜ, IRMAK MEVKİİ","adi":"IRMAK","kimlikNo":79461,"il_id":60,"ilce_id":1584}
 {"koyAdi":"KABALI","koyKayitNo":30508,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"KABALI KÖYÜ, KETİ YAYLA EVLERİ","adi":"KETİ","kimlikNo":79462,"il_id":60,"ilce_id":1584}
 {"koyAdi":"KABALI","koyKayitNo":30508,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KABALI KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":79463,"il_id":60,"ilce_id":1584}
-{"koyAdi":"KAPAKLI","koyKayitNo":49353,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"KAPAKLI KÖYÜ","adi":null,"kimlikNo":196909,"il_id":60,"ilce_id":1584}
 {"koyAdi":"KARACAAĞAÇ","koyKayitNo":30510,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"KARACAAĞAÇ KÖYÜ, ÇİDEMLİK MEZRASI","adi":"ÇİDEMLİK","kimlikNo":79466,"il_id":60,"ilce_id":1584}
 {"koyAdi":"KARACAAĞAÇ","koyKayitNo":30510,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KARACAAĞAÇ KÖYÜ, DİP MEVKİİ","adi":"DİP","kimlikNo":79469,"il_id":60,"ilce_id":1584}
 {"koyAdi":"KARACAAĞAÇ","koyKayitNo":30510,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"KARACAAĞAÇ KÖYÜ, KELTEKNE MEVKİİ","adi":"KELTEKNE","kimlikNo":79470,"il_id":60,"ilce_id":1584}
@@ -1099,14 +1093,13 @@
 {"koyAdi":"UMURCA","koyKayitNo":30534,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"UMURCA KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":79524,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YAĞSİYAN","koyKayitNo":30535,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YAĞSİYAN KÖYÜ","adi":null,"kimlikNo":79525,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YENİ DARIDERESİ","koyKayitNo":49693,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YENİ DARIDERESİ KÖYÜ, KÖYÜN KENDİSİ MEVKİİ","adi":"KÖYÜN KENDİSİ","kimlikNo":200875,"il_id":60,"ilce_id":1584}
-{"koyAdi":"YENİTURAÇ","koyKayitNo":30536,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"YENİTURAÇ KÖYÜ","adi":null,"kimlikNo":79527,"il_id":60,"ilce_id":1584}
-{"koyAdi":"YENİTURAÇ","koyKayitNo":30536,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YENİTURAÇ KÖYÜ, KILIÇLI MEVKİİ","adi":"KILIÇLI","kimlikNo":79526,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YEŞİLYURT","koyKayitNo":30537,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YEŞİLYURT KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":79529,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YEŞİLYURT","koyKayitNo":30537,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YEŞİLYURT KÖYÜ, YOĞURTLUCA MEVKİİ","adi":"YOĞURTLUCA","kimlikNo":79528,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YEŞİLYURT","koyKayitNo":30537,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YEŞİLYURT KÖYÜ, YUMURCAKTAŞ MEVKİİ","adi":"YUMURCAKTAŞ","kimlikNo":79530,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YOĞUNPELİT","koyKayitNo":30538,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YOĞUNPELİT KÖYÜ, KASIMLAR MEVKİİ","adi":"KASIMLAR","kimlikNo":79531,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YOĞUNPELİT","koyKayitNo":30538,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YOĞUNPELİT KÖYÜ, MERKEZ MEVKİİ","adi":"MERKEZ","kimlikNo":79532,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YOLÜSTÜ","koyKayitNo":30539,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YOLÜSTÜ BELDESİ, KALE MAHALLESİ","adi":"KALE","kimlikNo":70983,"il_id":60,"ilce_id":1584}
+{"koyAdi":"YOLÜSTÜ","koyKayitNo":30539,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YOLÜSTÜ BELDESİ, KAPAKLI MAHALLESİ","adi":"KAPAKLI","kimlikNo":196909,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YOLÜSTÜ","koyKayitNo":30539,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YOLÜSTÜ BELDESİ, MERKEZ MAHALLESİ","adi":"MERKEZ","kimlikNo":70984,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YOLÜSTÜ","koyKayitNo":30539,"koyKurumBelediyeTur":4,"mahalleTur":1,"bilesenAdi":"YOLÜSTÜ BELDESİ, ZİNAV MAHALLESİ","adi":"ZİNAV","kimlikNo":70985,"il_id":60,"ilce_id":1584}
 {"koyAdi":"YUVACIK","koyKayitNo":30540,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"YUVACIK KÖYÜ, HACI MURAT MEVKİİ","adi":"HACI MURAT","kimlikNo":79533,"il_id":60,"ilce_id":1584}

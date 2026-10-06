@@ -35,12 +35,12 @@
 {"koyAdi":"MERKEZ","koyKayitNo":34810,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"ZAFER MAHALLESİ","adi":"ZAFER","kimlikNo":90027,"il_id":68,"ilce_id":1860}
 {"koyAdi":"MERKEZ","koyKayitNo":34839,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"AYDINLIK MAHALLESİ","adi":"AYDINLIK","kimlikNo":139658,"il_id":68,"ilce_id":1921}
 {"koyAdi":"BAŞARAN","koyKayitNo":34840,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BAŞARAN KÖYÜ","adi":null,"kimlikNo":92455,"il_id":68,"ilce_id":1921}
-{"koyAdi":"BAŞARAN","koyKayitNo":34840,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BAŞARAN KÖYÜ, BUTACI YAYLASI YAYLA EVLERİ","adi":"BUTACI YAYLASI","kimlikNo":92456,"il_id":68,"ilce_id":1921}
+{"koyAdi":"BAŞARAN","koyKayitNo":34840,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BAŞARAN KÖYÜ, PUTACI YAYLA EVLERİ","adi":"PUTACI","kimlikNo":92456,"il_id":68,"ilce_id":1921}
 {"koyAdi":"BAYRAMDÜĞÜN","koyKayitNo":34844,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"BAYRAMDÜĞÜN KÖYÜ, BAYRAMDÜĞÜN KÜMESİ MEVKİİ","adi":"BAYRAMDÜĞÜN KÜMESİ","kimlikNo":98427,"il_id":68,"ilce_id":1921}
 {"koyAdi":"BÜĞET","koyKayitNo":34843,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"BÜĞET KÖYÜ","adi":null,"kimlikNo":92466,"il_id":68,"ilce_id":1921}
 {"koyAdi":"BÜĞET","koyKayitNo":34843,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BÜĞET KÖYÜ, ÇİMYAYLA YAYLA EVLERİ","adi":"ÇİMYAYLA","kimlikNo":92469,"il_id":68,"ilce_id":1921}
 {"koyAdi":"BÜĞET","koyKayitNo":34843,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BÜĞET KÖYÜ, HOCA YAYLASI YAYLA EVLERİ","adi":"HOCA YAYLASI","kimlikNo":92468,"il_id":68,"ilce_id":1921}
-{"koyAdi":"BÜĞET","koyKayitNo":34843,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BÜĞET KÖYÜ, ŞAVVEL YAYLASI YAYLA EVLERİ","adi":"ŞAVVEL YAYLASI","kimlikNo":92467,"il_id":68,"ilce_id":1921}
+{"koyAdi":"BÜĞET","koyKayitNo":34843,"koyKurumBelediyeTur":null,"mahalleTur":5,"bilesenAdi":"BÜĞET KÖYÜ, ŞAVVEL YAYLA EVLERİ","adi":"ŞAVVEL","kimlikNo":92467,"il_id":68,"ilce_id":1921}
 {"koyAdi":"CELİL","koyKayitNo":34845,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"CELİL KÖYÜ, CELİL KÜMESİ MEVKİİ","adi":"CELİL KÜMESİ","kimlikNo":98428,"il_id":68,"ilce_id":1921}
 {"koyAdi":"MERKEZ","koyKayitNo":34839,"koyKurumBelediyeTur":3,"mahalleTur":1,"bilesenAdi":"CUMHURİYET MAHALLESİ","adi":"CUMHURİYET","kimlikNo":90032,"il_id":68,"ilce_id":1921}
 {"koyAdi":"ÇUKURYURT","koyKayitNo":34846,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ÇUKURYURT KÖYÜ, ÇUKURYURT KÜMESİ MEVKİİ","adi":"ÇUKURYURT KÜMESİ","kimlikNo":98429,"il_id":68,"ilce_id":1921}
@@ -135,7 +135,6 @@
 {"koyAdi":"AKHİSAR","koyKayitNo":34717,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKHİSAR KÖYÜ","adi":null,"kimlikNo":92331,"il_id":68,"ilce_id":1120}
 {"koyAdi":"AKİN","koyKayitNo":34718,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"AKİN KÖYÜ","adi":null,"kimlikNo":92332,"il_id":68,"ilce_id":1120}
 {"koyAdi":"ALAYHANI","koyKayitNo":34719,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"ALAYHANI KÖYÜ","adi":null,"kimlikNo":92333,"il_id":68,"ilce_id":1120}
-{"koyAdi":"ALAYHANI","koyKayitNo":34719,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"ALAYHANI KÖYÜ, ALAYHAN MEZRASI MEZRASI","adi":"ALAYHAN MEZRASI","kimlikNo":92334,"il_id":68,"ilce_id":1120}
 {"koyAdi":"ALTINKAYA","koyKayitNo":34777,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ALTINKAYA KÖYÜ, BİRLİK MEVKİİ","adi":"BİRLİK","kimlikNo":89979,"il_id":68,"ilce_id":1120}
 {"koyAdi":"ALTINKAYA","koyKayitNo":34777,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ALTINKAYA KÖYÜ, KALE MEVKİİ","adi":"KALE","kimlikNo":89980,"il_id":68,"ilce_id":1120}
 {"koyAdi":"ALTINKAYA","koyKayitNo":34777,"koyKurumBelediyeTur":null,"mahalleTur":4,"bilesenAdi":"ALTINKAYA KÖYÜ, ŞAHİNLER MEVKİİ","adi":"ŞAHİNLER","kimlikNo":89981,"il_id":68,"ilce_id":1120}
@@ -193,9 +192,7 @@
 {"koyAdi":"FATMAUŞAĞI","koyKayitNo":34785,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"FATMAUŞAĞI KÖYÜ","adi":null,"kimlikNo":92405,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GENÇOSMAN","koyKayitNo":34739,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GENÇOSMAN KÖYÜ","adi":null,"kimlikNo":92351,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GÖKÇE","koyKayitNo":34740,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKÇE KÖYÜ","adi":null,"kimlikNo":92352,"il_id":68,"ilce_id":1120}
-{"koyAdi":"GÖKÇE","koyKayitNo":34740,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GÖKÇE KÖYÜ, ÖZ MEVKİİ MEZRASI","adi":"ÖZ MEVKİİ","kimlikNo":92354,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GÖKÇE","koyKayitNo":34740,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GÖKÇE KÖYÜ, SİYEK MEVKİİ MEZRASI","adi":"SİYEK MEVKİİ","kimlikNo":92355,"il_id":68,"ilce_id":1120}
-{"koyAdi":"GÖKÇE","koyKayitNo":34740,"koyKurumBelediyeTur":null,"mahalleTur":3,"bilesenAdi":"GÖKÇE KÖYÜ, VİRANŞEHİR VE DÖLEK MEVKİ MEZRASI","adi":"VİRANŞEHİR VE DÖLEK MEVKİ","kimlikNo":92353,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GÖKSÜGÜZEL","koyKayitNo":34741,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖKSÜGÜZEL KÖYÜ","adi":null,"kimlikNo":92356,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GÖZLÜKUYU","koyKayitNo":34798,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÖZLÜKUYU KÖYÜ","adi":null,"kimlikNo":92414,"il_id":68,"ilce_id":1120}
 {"koyAdi":"GÜCÜNKAYA","koyKayitNo":34742,"koyKurumBelediyeTur":null,"mahalleTur":0,"bilesenAdi":"GÜCÜNKAYA KÖYÜ","adi":null,"kimlikNo":92357,"il_id":68,"ilce_id":1120}
